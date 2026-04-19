@@ -1,6 +1,7 @@
 # tech-kg-engine
 A Billion-Scale Technology Knowledge Graph Engine for Scientific Discovery and Industrial Intelligence
 
+# graph-db
 通用的图数据库操作 API，当前支持 Neo4j 后端，内置 FastAPI REST 服务与 Swagger 文档，支持可插拔后端扩展。
 
 ## 环境要求
