@@ -1,0 +1,4181 @@
+[
+  {
+    "paper_id": "pap_001",
+    "doi": "10.1109/CVPR2022.001",
+    "keywords": [
+      "目标检测",
+      "Vision Transformer",
+      "实时推理"
+    ],
+    "impact_factor": 9.208,
+    "reference_ids": [
+      "pap_1986",
+      "pap_2625",
+      "pap_4404",
+      "pap_4457",
+      "pap_5335",
+      "pap_2330",
+      "pap_3573",
+      "pap_4929",
+      "pap_3847",
+      "pap_2229",
+      "pap_3564",
+      "pap_1043"
+    ],
+    "en_name": "基于Transformer的实时目标检测方法研究",
+    "en_abstract": "本文提出一种基于Vision Transformer的轻量化实时目标检测框架，在COCO数据集上取得了超越YOLO系列的精度-速度平衡。",
+    "cover_date_start": "2022-06",
+    "citation_nums": 412,
+    "content": "[Full-text placeholder] Title: 基于Transformer的实时目标检测方法研究\n\nAbstract: 本文提出一种基于Vision Transformer的轻量化实时目标检测框架，在COCO数据集上取得了超越YOLO系列的精度-速度平衡。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_a1b2c3d4",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "张伟"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_g7h8i9j0",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "孙丽"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "IEEE CVPR",
+    "citation_ids": [
+      "pap_002",
+      "pap_020"
+    ],
+    "publisher": "IEEE",
+    "publisher_id": "pub_ieee",
+    "publication_id": "pub_cvpr",
+    "publication_type": "学术会议",
+    "issn": "2575-7075",
+    "eissn": "8253-5871",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "CVPR",
+    "journal_alias": "CVPR",
+    "country": "美国",
+    "organizer": "IEEE",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. Robert Liu",
+    "founding_time": "1983",
+    "postal_code": "66207",
+    "address": "445 Hoes Lane, Piscataway, NJ 08854",
+    "mobile": "+1-732-981-0060",
+    "jn_official": "https://cvpr.thecvf.com",
+    "journal_db_str": "EI/Scopus",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 2000,
+    "cite_nums": 312000,
+    "fund_nums": 31,
+    "paper_nums": 9800,
+    "review_period": "20 weeks",
+    "self_rate": 0.154,
+    "number_of_cites": 0.212,
+    "layout_cost": 800,
+    "name_abbr": "CVPR",
+    "en_description": "Top venue for computer vision research",
+    "language_classify": "英文",
+    "publication_en_name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "journal_name_zh": "IEEE计算机视觉与模式识别会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.1109/CVPR2022.001",
+    "paper_type": "会议论文",
+    "reference_nums": 0,
+    "volume": "62",
+    "issue": "6",
+    "first_page": 540,
+    "last_page": 553,
+    "relevant": [
+      "pap_002",
+      "pap_020"
+    ],
+    "reference_content": "Wang Y et al. Advances in deep learning[C/J]. ICML, 2023: 150-158. Zhang W et al. Advances in deep learning[C/J]. ACL, 2020: 360-375. Smith J et al. Advances in deep learning[C/J]. ICML, 2019: 474-486. Kim S et al. Advances in deep learning[C/J]. IEEE TPAMI, 2019: 218-227. Brown A et al. Advances in deep learning[C/J]. CVPR, 2018: 466-478. Kim S et al. Advances in deep learning[C/J]. CVPR, 2017: 31-41. Kim S et al. Advances in deep learning[C/J]. ACL, 2020: 225-234. Wang Y et al. Advances in deep learning[C/J]. ICML, 2020: 359-373.",
+    "citation_content": "Brown A et al. Advances in deep learning[C/J]. EMNLP, 2023: 225-234. Brown A et al. Advances in deep learning[C/J]. NeurIPS, 2022: 377-390. Brown A et al. Advances in deep learning[C/J]. ACL, 2016: 47-58. Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2016: 392-410. Kim S et al. Advances in deep learning[C/J]. ACL, 2016: 391-411.",
+    "funds": "European Research Council (ERC) Advanced Grant 1419610",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_001.png",
+    "location": "51.7548,-1.2544"
+  },
+  {
+    "paper_id": "pap_002",
+    "doi": "10.18653/v1/ACL2022.002",
+    "keywords": [
+      "多模态学习",
+      "图像描述",
+      "注意力机制"
+    ],
+    "impact_factor": 16.657,
+    "reference_ids": [
+      "pap_001"
+    ],
+    "en_name": "多模态特征融合在图像描述生成中的应用",
+    "en_abstract": "提出跨模态注意力机制，将视觉特征与语言模型深度融合，在MSCOCO Captions上取得SOTA结果。",
+    "cover_date_start": "2022-07",
+    "citation_nums": 385,
+    "content": "[Full-text placeholder] Title: 多模态特征融合在图像描述生成中的应用\n\nAbstract: 提出跨模态注意力机制，将视觉特征与语言模型深度融合，在MSCOCO Captions上取得SOTA结果。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_a1b2c3d4",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "张伟"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_b2c3d4e5",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "李娜"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ACL",
+    "citation_ids": [
+      "pap_020"
+    ],
+    "publisher": "ACL Anthology",
+    "publisher_id": "pub_acl",
+    "publication_id": "pub_acl",
+    "publication_type": "学术会议",
+    "issn": "3973-8141",
+    "eissn": "9056-2494",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "ACL",
+    "journal_alias": "ACL Annual Meeting",
+    "country": "美国",
+    "organizer": "ACL",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Prof. Sarah Kim",
+    "founding_time": "1963",
+    "postal_code": "55607",
+    "address": "15 Innovation Dr, Toronto ON M5S 3H8",
+    "mobile": "+1-541-428-2713",
+    "jn_official": "https://www.aclweb.org",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 1500,
+    "cite_nums": 278000,
+    "fund_nums": 36,
+    "paper_nums": 7200,
+    "review_period": "4 weeks",
+    "self_rate": 0.135,
+    "number_of_cites": 0.29,
+    "layout_cost": 800,
+    "name_abbr": "ACL",
+    "en_description": "Premier venue for NLP research",
+    "language_classify": "英文",
+    "publication_en_name": "Annual Meeting of the Association for Computational Linguistics",
+    "journal_name_zh": "计算语言学协会年会",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.18653/v1/ACL2022.002",
+    "paper_type": "会议论文",
+    "reference_nums": 1,
+    "volume": "62",
+    "issue": "7",
+    "first_page": 575,
+    "last_page": 589,
+    "relevant": [
+      "pap_020"
+    ],
+    "reference_content": "Li X et al. Advances in deep learning[C/J]. ICCV, 2023: 148-166. Wang Y et al. Advances in deep learning[C/J]. IEEE TPAMI, 2016: 233-242. Li X et al. Advances in deep learning[C/J]. ACL, 2021: 60-80. Wang Y et al. Advances in deep learning[C/J]. IEEE TPAMI, 2016: 337-353. Wang Y et al. Advances in deep learning[C/J]. ICCV, 2016: 97-113. Li X et al. Advances in deep learning[C/J]. EMNLP, 2023: 321-336.",
+    "citation_content": "Zhang W et al. Advances in deep learning[C/J]. ACL, 2018: 475-487. Wang Y et al. Advances in deep learning[C/J]. ICML, 2023: 63-71. Garcia M et al. Advances in deep learning[C/J]. EMNLP, 2019: 364-374.",
+    "funds": "Deutsche Forschungsgemeinschaft (DFG) Project 5108603",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_002.png",
+    "location": "43.6629,-79.3957"
+  },
+  {
+    "paper_id": "pap_003",
+    "doi": "10.1145/WWW2021.003",
+    "keywords": [
+      "推荐系统",
+      "图神经网络",
+      "知识图谱"
+    ],
+    "impact_factor": 3.491,
+    "reference_ids": [
+      "pap_4993",
+      "pap_8483",
+      "pap_3369",
+      "pap_7284",
+      "pap_4122",
+      "pap_9327",
+      "pap_3236",
+      "pap_2143",
+      "pap_5526",
+      "pap_7798",
+      "pap_6568",
+      "pap_9318",
+      "pap_5377",
+      "pap_1042",
+      "pap_5634"
+    ],
+    "en_name": "面向知识图谱的图卷积推荐系统",
+    "en_abstract": "引入知识图谱中的语义关系对图神经网络进行增强，显著改善了稀疏用户行为场景下的推荐效果。",
+    "cover_date_start": "2021-04",
+    "citation_nums": 298,
+    "content": "[Full-text placeholder] Title: 面向知识图谱的图卷积推荐系统\n\nAbstract: 引入知识图谱中的语义关系对图神经网络进行增强，显著改善了稀疏用户行为场景下的推荐效果。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_a1b2c3d4",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "张伟"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_c3d4e5f6",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "王磊"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_zju_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "WWW",
+    "citation_ids": [
+      "pap_004",
+      "pap_012",
+      "pap_013"
+    ],
+    "publisher": "ACM",
+    "publisher_id": "pub_acm",
+    "publication_id": "pub_www",
+    "publication_type": "学术会议",
+    "issn": "2858-8560",
+    "eissn": "2924-3522",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "WWW",
+    "journal_alias": "TheWebConf",
+    "country": "美国",
+    "organizer": "IW3C2",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Prof. Sarah Kim",
+    "founding_time": "1994",
+    "postal_code": "48254",
+    "address": "10 Science Park Rd, Oxford OX1 3QD",
+    "mobile": "+1-625-954-8905",
+    "jn_official": "https://www2023.thewebconf.org",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 1200,
+    "cite_nums": 198000,
+    "fund_nums": 40,
+    "paper_nums": 6200,
+    "review_period": "6 weeks",
+    "self_rate": 0.075,
+    "number_of_cites": 0.149,
+    "layout_cost": 3000,
+    "name_abbr": "WWW",
+    "en_description": "Premier venue for Web and network research",
+    "language_classify": "英文",
+    "publication_en_name": "The Web Conference",
+    "journal_name_zh": "国际万维网会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "计算机应用",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.1145/WWW2021.003",
+    "paper_type": "会议论文",
+    "reference_nums": 0,
+    "volume": "61",
+    "issue": "4",
+    "first_page": 10,
+    "last_page": 22,
+    "relevant": [
+      "pap_004",
+      "pap_012",
+      "pap_013"
+    ],
+    "reference_content": "Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2023: 444-454. Wang Y et al. Advances in deep learning[C/J]. EMNLP, 2023: 177-190. Brown A et al. Advances in deep learning[C/J]. IEEE TPAMI, 2022: 234-247. Kim S et al. Advances in deep learning[C/J]. CVPR, 2019: 293-307. Zhang W et al. Advances in deep learning[C/J]. IEEE TPAMI, 2022: 23-36. Garcia M et al. Advances in deep learning[C/J]. ICCV, 2022: 198-216. Kim S et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 254-262. Zhang W et al. Advances in deep learning[C/J]. EMNLP, 2021: 446-455. Kim S et al. Advances in deep learning[C/J]. IEEE TPAMI, 2023: 52-68. Wang Y et al. Advances in deep learning[C/J]. NeurIPS, 2018: 210-228.",
+    "citation_content": "Smith J et al. Advances in deep learning[C/J]. ICCV, 2020: 174-191. Garcia M et al. Advances in deep learning[C/J]. ICCV, 2017: 437-450. Kim S et al. Advances in deep learning[C/J]. ICML, 2022: 489-502. Garcia M et al. Advances in deep learning[C/J]. ICML, 2023: 447-463.",
+    "funds": "National Natural Science Foundation of China (NSFC) Grant 63341057",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_003.png",
+    "location": "42.3601,-71.0942"
+  },
+  {
+    "paper_id": "pap_004",
+    "doi": "10.18653/v1/EMNLP2021.004",
+    "keywords": [
+      "命名实体识别",
+      "信息抽取",
+      "科技文献"
+    ],
+    "impact_factor": 12.95,
+    "reference_ids": [
+      "pap_003"
+    ],
+    "en_name": "面向科技文献的细粒度命名实体识别",
+    "en_abstract": "构建了一个包含技术术语、机构名称和学者姓名的中文科技文献NER数据集，并提出基于RoBERTa的细粒度标注框架。",
+    "cover_date_start": "2021-11",
+    "citation_nums": 267,
+    "content": "[Full-text placeholder] Title: 面向科技文献的细粒度命名实体识别\n\nAbstract: 构建了一个包含技术术语、机构名称和学者姓名的中文科技文献NER数据集，并提出基于RoBERTa的细粒度标注框架。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_a1b2c3d4",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "张伟"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_d4e5f6g7",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "陈静"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "EMNLP",
+    "citation_ids": [
+      "pap_012",
+      "pap_013",
+      "pap_024"
+    ],
+    "publisher": "ACL Anthology",
+    "publisher_id": "pub_acl",
+    "publication_id": "pub_emnlp",
+    "publication_type": "学术会议",
+    "issn": "5708-4727",
+    "eissn": "2480-8110",
+    "journal_type": "CCF-B顶会",
+    "journal_abbreviation": "EMNLP",
+    "journal_alias": "EMNLP",
+    "country": "美国",
+    "organizer": "ACL",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. James Wilson",
+    "founding_time": "1996",
+    "postal_code": "93066",
+    "address": "100 Academic Ave, Cambridge, MA 02139",
+    "mobile": "+1-654-270-5906",
+    "jn_official": "https://2023.emnlp.org",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 1100,
+    "cite_nums": 187000,
+    "fund_nums": 37,
+    "paper_nums": 5800,
+    "review_period": "15 weeks",
+    "self_rate": 0.139,
+    "number_of_cites": 0.085,
+    "layout_cost": 2500,
+    "name_abbr": "EMNLP",
+    "en_description": "Top NLP conference focusing on empirical methods",
+    "language_classify": "英文",
+    "publication_en_name": "Conference on Empirical Methods in Natural Language Processing",
+    "journal_name_zh": "自然语言处理经验方法会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "B"
+    },
+    "paper_url": "https://doi.org/10.18653/v1/EMNLP2021.004",
+    "paper_type": "会议论文",
+    "reference_nums": 1,
+    "volume": "61",
+    "issue": "11",
+    "first_page": 895,
+    "last_page": 911,
+    "relevant": [
+      "pap_012",
+      "pap_013",
+      "pap_024"
+    ],
+    "reference_content": "Smith J et al. Advances in deep learning[C/J]. ACL, 2016: 151-164. Li X et al. Advances in deep learning[C/J]. ICCV, 2018: 126-142. Wang Y et al. Advances in deep learning[C/J]. EMNLP, 2018: 88-98. Smith J et al. Advances in deep learning[C/J]. EMNLP, 2022: 318-336. Zhang W et al. Advances in deep learning[C/J]. ICCV, 2018: 119-134.",
+    "citation_content": "Wang Y et al. Advances in deep learning[C/J]. ACL, 2016: 461-481. Wang Y et al. Advances in deep learning[C/J]. ACL, 2018: 38-53. Li X et al. Advances in deep learning[C/J]. EMNLP, 2020: 328-342. Garcia M et al. Advances in deep learning[C/J]. ACL, 2023: 433-445. Zhang W et al. Advances in deep learning[C/J]. ICCV, 2023: 55-66.",
+    "funds": "European Research Council (ERC) Advanced Grant 2458591",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_004.png",
+    "location": "52.5200,13.4050"
+  },
+  {
+    "paper_id": "pap_005",
+    "doi": "10.1109/ICRA2022.005",
+    "keywords": [
+      "强化学习",
+      "路径规划",
+      "无人机"
+    ],
+    "impact_factor": 17.883,
+    "reference_ids": [
+      "pap_9138",
+      "pap_5689",
+      "pap_4770",
+      "pap_6772",
+      "pap_4588",
+      "pap_4115",
+      "pap_5106",
+      "pap_3240",
+      "pap_2591",
+      "pap_1645",
+      "pap_6061",
+      "pap_8222",
+      "pap_1546",
+      "pap_6977",
+      "pap_3153",
+      "pap_2476",
+      "pap_5835"
+    ],
+    "en_name": "基于深度强化学习的无人机路径规划",
+    "en_abstract": "设计了一种多目标深度Q网络（MODQN）用于无人机在复杂动态环境中的自主路径规划，实现了实时避障与能耗优化。",
+    "cover_date_start": "2022-05",
+    "citation_nums": 231,
+    "content": "[Full-text placeholder] Title: 基于深度强化学习的无人机路径规划\n\nAbstract: 设计了一种多目标深度Q网络（MODQN）用于无人机在复杂动态环境中的自主路径规划，实现了实时避障与能耗优化。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-B/顶会",
+    "authors": [
+      {
+        "id": "sch_a1b2c3d4",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "张伟"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_e5f6g7h8",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "刘洋"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ICRA",
+    "citation_ids": [
+      "pap_011",
+      "pap_032",
+      "pap_034"
+    ],
+    "publisher": "IEEE",
+    "publisher_id": "pub_ieee",
+    "publication_id": "pub_icra",
+    "publication_type": "学术会议",
+    "issn": "1050-4729",
+    "eissn": "5837-1359",
+    "journal_type": "CCF-B顶会",
+    "journal_abbreviation": "ICRA",
+    "journal_alias": "ICRA",
+    "country": "美国",
+    "organizer": "IEEE RAS",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Prof. Sarah Kim",
+    "founding_time": "1984",
+    "postal_code": "45976",
+    "address": "445 Hoes Lane, Piscataway, NJ 08854",
+    "mobile": "+1-208-679-1803",
+    "jn_official": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
+    "journal_db_str": "EI/Scopus",
+    "open_access": false,
+    "scope": "工程科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 1400,
+    "cite_nums": 198000,
+    "fund_nums": 31,
+    "paper_nums": 6200,
+    "review_period": "4 weeks",
+    "self_rate": 0.148,
+    "number_of_cites": 0.203,
+    "layout_cost": 2500,
+    "name_abbr": "ICRA",
+    "en_description": "Top robotics and automation conference",
+    "language_classify": "英文",
+    "publication_en_name": "IEEE International Conference on Robotics and Automation",
+    "journal_name_zh": "IEEE机器人与自动化国际会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "交叉/机器人",
+      "partition": "B"
+    },
+    "paper_url": "https://doi.org/10.1109/ICRA2022.005",
+    "paper_type": "会议论文",
+    "reference_nums": 0,
+    "volume": "62",
+    "issue": "5",
+    "first_page": 440,
+    "last_page": 454,
+    "relevant": [
+      "pap_011",
+      "pap_032",
+      "pap_034"
+    ],
+    "reference_content": "Garcia M et al. Advances in deep learning[C/J]. ICCV, 2018: 103-113. Kim S et al. Advances in deep learning[C/J]. EMNLP, 2021: 272-288. Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 132-147. Kim S et al. Advances in deep learning[C/J]. ACL, 2021: 412-421. Wang Y et al. Advances in deep learning[C/J]. NeurIPS, 2018: 387-398. Kim S et al. Advances in deep learning[C/J]. ICML, 2022: 496-516. Brown A et al. Advances in deep learning[C/J]. ACL, 2017: 405-419.",
+    "citation_content": "Li X et al. Advances in deep learning[C/J]. EMNLP, 2017: 233-246. Garcia M et al. Advances in deep learning[C/J]. ICML, 2020: 300-314. Kim S et al. Advances in deep learning[C/J]. ICML, 2021: 56-74.",
+    "funds": "Meta AI Research Grant 8078673",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_005.png",
+    "location": "40.4433,-79.9436"
+  },
+  {
+    "paper_id": "pap_006",
+    "doi": "10.5555/NeurIPS2022.006",
+    "keywords": [
+      "联邦学习",
+      "差分隐私",
+      "安全聚合"
+    ],
+    "impact_factor": 17.091,
+    "reference_ids": [
+      "pap_3290",
+      "pap_1742",
+      "pap_1609",
+      "pap_5986",
+      "pap_9071",
+      "pap_2902",
+      "pap_2592",
+      "pap_4846",
+      "pap_9807"
+    ],
+    "en_name": "联邦学习中的梯度隐私保护机制",
+    "en_abstract": "提出差分隐私与安全聚合相结合的联邦学习框架，在不牺牲模型性能的前提下有效防止梯度泄露攻击。",
+    "cover_date_start": "2022-12",
+    "citation_nums": 356,
+    "content": "[Full-text placeholder] Title: 联邦学习中的梯度隐私保护机制\n\nAbstract: 提出差分隐私与安全聚合相结合的联邦学习框架，在不牺牲模型性能的前提下有效防止梯度泄露攻击。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_b2c3d4e5",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "李娜"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_f6g7h8i9",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "赵晓明"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "NeurIPS",
+    "citation_ids": [
+      "pap_017",
+      "pap_018"
+    ],
+    "publisher": "NeurIPS Foundation",
+    "publisher_id": "pub_neurips",
+    "publication_id": "pub_neurips",
+    "publication_type": "学术会议",
+    "issn": "1049-5258",
+    "eissn": "6374-4626",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "NeurIPS",
+    "journal_alias": "NIPS",
+    "country": "美国",
+    "organizer": "NeurIPS Foundation",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. James Wilson",
+    "founding_time": "1987",
+    "postal_code": "93283",
+    "address": "15 Innovation Dr, Toronto ON M5S 3H8",
+    "mobile": "+1-917-409-7689",
+    "jn_official": "https://neurips.cc",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 3000,
+    "cite_nums": 523000,
+    "fund_nums": 38,
+    "paper_nums": 15200,
+    "review_period": "10 weeks",
+    "self_rate": 0.184,
+    "number_of_cites": 0.33,
+    "layout_cost": 0,
+    "name_abbr": "NeurIPS",
+    "en_description": "World-leading AI/ML conference",
+    "language_classify": "英文",
+    "publication_en_name": "Advances in Neural Information Processing Systems",
+    "journal_name_zh": "神经信息处理系统大会",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.5555/NeurIPS2022.006",
+    "paper_type": "会议论文",
+    "reference_nums": 0,
+    "volume": "62",
+    "issue": "12",
+    "first_page": 200,
+    "last_page": 213,
+    "relevant": [
+      "pap_017",
+      "pap_018"
+    ],
+    "reference_content": "Wang Y et al. Advances in deep learning[C/J]. ICCV, 2021: 344-363. Garcia M et al. Advances in deep learning[C/J]. EMNLP, 2022: 301-320. Garcia M et al. Advances in deep learning[C/J]. CVPR, 2022: 336-345. Kim S et al. Advances in deep learning[C/J]. ICCV, 2022: 481-493. Smith J et al. Advances in deep learning[C/J]. ICML, 2021: 112-127. Wang Y et al. Advances in deep learning[C/J]. CVPR, 2021: 51-69.",
+    "citation_content": "Brown A et al. Advances in deep learning[C/J]. ICML, 2021: 32-46. Li X et al. Advances in deep learning[C/J]. CVPR, 2017: 486-501. Smith J et al. Advances in deep learning[C/J]. ICML, 2019: 329-347. Brown A et al. Advances in deep learning[C/J]. NeurIPS, 2016: 403-416. Zhang W et al. Advances in deep learning[C/J]. CVPR, 2019: 36-56.",
+    "funds": "National Science Foundation (NSF) Grant IIS-1499914",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_006.png",
+    "location": "40.4433,-79.9436"
+  },
+  {
+    "paper_id": "pap_007",
+    "doi": "10.21437/Interspeech.2023.007",
+    "keywords": [
+      "语音识别",
+      "大语言模型",
+      "字错率"
+    ],
+    "impact_factor": 5.728,
+    "reference_ids": [
+      "pap_1422",
+      "pap_3159",
+      "pap_1243",
+      "pap_6869",
+      "pap_4898",
+      "pap_6304",
+      "pap_1258",
+      "pap_3854",
+      "pap_5347"
+    ],
+    "en_name": "大语言模型在中文语音识别中的应用",
+    "en_abstract": "探索将GPT风格的大语言模型用于中文语音识别的后处理和纠错阶段，在多个基准测试上降低字错率15%以上。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 189,
+    "content": "[Full-text placeholder] Title: 大语言模型在中文语音识别中的应用\n\nAbstract: 探索将GPT风格的大语言模型用于中文语音识别的后处理和纠错阶段，在多个基准测试上降低字错率15%以上。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "语音与音频处理",
+    "authors": [
+      {
+        "id": "sch_b2c3d4e5",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "李娜"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_h8i9j0k1",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "周建国"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "Interspeech",
+    "citation_ids": [
+      "pap_023"
+    ],
+    "publisher": "ISCA",
+    "publisher_id": "pub_isca",
+    "publication_id": "pub_interspeech",
+    "publication_type": "学术会议",
+    "issn": "2958-1796",
+    "eissn": "3417-1046",
+    "journal_type": "CCF-C",
+    "journal_abbreviation": "Interspeech",
+    "journal_alias": "Interspeech",
+    "country": "国际",
+    "organizer": "ISCA",
+    "publisher_place": "国际",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. Michael Brown",
+    "founding_time": "1988",
+    "postal_code": "28964",
+    "address": "1 Research Blvd, Stanford, CA 94305",
+    "mobile": "+1-753-356-3858",
+    "jn_official": "https://www.interspeech2023.org",
+    "journal_db_str": "Scopus",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 560,
+    "cite_nums": 89000,
+    "fund_nums": 40,
+    "paper_nums": 2800,
+    "review_period": "14 weeks",
+    "self_rate": 0.102,
+    "number_of_cites": 0.425,
+    "layout_cost": 1500,
+    "name_abbr": "Interspeech",
+    "en_description": "Premier speech processing conference",
+    "language_classify": "英文",
+    "publication_en_name": "Interspeech Conference",
+    "journal_name_zh": "语音通信国际会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "计算机应用",
+      "partition": "C"
+    },
+    "paper_url": "https://doi.org/10.21437/Interspeech.2023.007",
+    "paper_type": "会议论文",
+    "reference_nums": 0,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 980,
+    "last_page": 995,
+    "relevant": [
+      "pap_023"
+    ],
+    "reference_content": "Zhang W et al. Advances in deep learning[C/J]. ICML, 2022: 270-279. Garcia M et al. Advances in deep learning[C/J]. NeurIPS, 2023: 230-250. Li X et al. Advances in deep learning[C/J]. EMNLP, 2017: 232-248. Zhang W et al. Advances in deep learning[C/J]. EMNLP, 2016: 373-393. Kim S et al. Advances in deep learning[C/J]. ICML, 2020: 235-253.",
+    "citation_content": "Smith J et al. Advances in deep learning[C/J]. ICCV, 2022: 219-237. Smith J et al. Advances in deep learning[C/J]. ICCV, 2023: 38-47. Li X et al. Advances in deep learning[C/J]. EMNLP, 2018: 34-44.",
+    "funds": "European Research Council (ERC) Advanced Grant 4668136",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_007.png",
+    "location": "43.6629,-79.3957"
+  },
+  {
+    "paper_id": "pap_008",
+    "doi": "10.18653/v1/ACL2023.008",
+    "keywords": [
+      "机器翻译",
+      "预训练模型",
+      "跨语言对齐"
+    ],
+    "impact_factor": 11.558,
+    "reference_ids": [
+      "pap_021",
+      "pap_030"
+    ],
+    "en_name": "基于预训练语言模型的跨语言机器翻译",
+    "en_abstract": "设计多语言预训练目标函数，通过跨语言对齐提升低资源语言的翻译质量，在WMT23测试集上取得优异成绩。",
+    "cover_date_start": "2023-07",
+    "citation_nums": 204,
+    "content": "[Full-text placeholder] Title: 基于预训练语言模型的跨语言机器翻译\n\nAbstract: 设计多语言预训练目标函数，通过跨语言对齐提升低资源语言的翻译质量，在WMT23测试集上取得优异成绩。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_b2c3d4e5",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "李娜"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_l2m3n4o5",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "韩雪"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ACL",
+    "citation_ids": [
+      "pap_031"
+    ],
+    "publisher": "ACL Anthology",
+    "publisher_id": "pub_acl",
+    "publication_id": "pub_acl",
+    "publication_type": "学术会议",
+    "issn": "5831-8433",
+    "eissn": "9282-8048",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "ACL",
+    "journal_alias": "ACL Annual Meeting",
+    "country": "美国",
+    "organizer": "ACL",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. James Wilson",
+    "founding_time": "1963",
+    "postal_code": "24996",
+    "address": "1 Research Blvd, Stanford, CA 94305",
+    "mobile": "+1-640-562-4743",
+    "jn_official": "https://www.aclweb.org",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 1500,
+    "cite_nums": 278000,
+    "fund_nums": 8,
+    "paper_nums": 7200,
+    "review_period": "12 weeks",
+    "self_rate": 0.139,
+    "number_of_cites": 0.13,
+    "layout_cost": 2500,
+    "name_abbr": "ACL",
+    "en_description": "Premier venue for NLP research",
+    "language_classify": "英文",
+    "publication_en_name": "Annual Meeting of the Association for Computational Linguistics",
+    "journal_name_zh": "计算语言学协会年会",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.18653/v1/ACL2023.008",
+    "paper_type": "会议论文",
+    "reference_nums": 2,
+    "volume": "63",
+    "issue": "7",
+    "first_page": 135,
+    "last_page": 146,
+    "relevant": [
+      "pap_031"
+    ],
+    "reference_content": "Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2023: 205-219. Garcia M et al. Advances in deep learning[C/J]. NeurIPS, 2021: 219-232. Garcia M et al. Advances in deep learning[C/J]. ACL, 2021: 489-499. Garcia M et al. Advances in deep learning[C/J]. ICCV, 2017: 47-56. Smith J et al. Advances in deep learning[C/J]. ICCV, 2017: 382-401. Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 285-293. Brown A et al. Advances in deep learning[C/J]. EMNLP, 2021: 344-353. Wang Y et al. Advances in deep learning[C/J]. ACL, 2022: 445-464.",
+    "citation_content": "Li X et al. Advances in deep learning[C/J]. EMNLP, 2020: 181-190. Brown A et al. Advances in deep learning[C/J]. EMNLP, 2019: 80-98. Wang Y et al. Advances in deep learning[C/J]. CVPR, 2017: 180-196.",
+    "funds": "National Natural Science Foundation of China (NSFC) Grant 69478454",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_008.png",
+    "location": "48.8566,2.3522"
+  },
+  {
+    "paper_id": "pap_009",
+    "doi": "10.1145/SIGIR2021.009",
+    "keywords": [
+      "会话推荐",
+      "图注意力网络",
+      "用户行为"
+    ],
+    "impact_factor": 14.916,
+    "reference_ids": [
+      "pap_7566",
+      "pap_2140",
+      "pap_3324",
+      "pap_1502",
+      "pap_2503",
+      "pap_9691",
+      "pap_4524",
+      "pap_7163",
+      "pap_7878",
+      "pap_8432"
+    ],
+    "en_name": "基于图注意力网络的会话推荐",
+    "en_abstract": "构建用户短期行为图，利用图注意力机制捕捉会话内物品转移规律，实现高精度的会话推荐。",
+    "cover_date_start": "2021-07",
+    "citation_nums": 278,
+    "content": "[Full-text placeholder] Title: 基于图注意力网络的会话推荐\n\nAbstract: 构建用户短期行为图，利用图注意力机制捕捉会话内物品转移规律，实现高精度的会话推荐。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_c3d4e5f6",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "王磊"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_zju_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_i9j0k1l2",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "吴昊"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_zju_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "SIGIR",
+    "citation_ids": [
+      "pap_026",
+      "pap_028",
+      "pap_037"
+    ],
+    "publisher": "ACM",
+    "publisher_id": "pub_acm",
+    "publication_id": "pub_sigir",
+    "publication_type": "学术会议",
+    "issn": "1430-5381",
+    "eissn": "1474-3955",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "SIGIR",
+    "journal_alias": "SIGIR",
+    "country": "美国",
+    "organizer": "ACM SIGIR",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. Michael Brown",
+    "founding_time": "1978",
+    "postal_code": "50499",
+    "address": "10 Science Park Rd, Oxford OX1 3QD",
+    "mobile": "+1-559-106-3972",
+    "jn_official": "https://sigir.org",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 560,
+    "cite_nums": 89000,
+    "fund_nums": 33,
+    "paper_nums": 2800,
+    "review_period": "15 weeks",
+    "self_rate": 0.044,
+    "number_of_cites": 0.295,
+    "layout_cost": 800,
+    "name_abbr": "SIGIR",
+    "en_description": "Top information retrieval conference",
+    "language_classify": "英文",
+    "publication_en_name": "ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "journal_name_zh": "信息检索国际会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "计算机应用",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.1145/SIGIR2021.009",
+    "paper_type": "会议论文",
+    "reference_nums": 0,
+    "volume": "61",
+    "issue": "7",
+    "first_page": 490,
+    "last_page": 501,
+    "relevant": [
+      "pap_026",
+      "pap_028",
+      "pap_037"
+    ],
+    "reference_content": "Zhang W et al. Advances in deep learning[C/J]. ACL, 2020: 370-383. Kim S et al. Advances in deep learning[C/J]. EMNLP, 2017: 453-461. Zhang W et al. Advances in deep learning[C/J]. CVPR, 2016: 346-355. Li X et al. Advances in deep learning[C/J]. ICCV, 2022: 249-266. Wang Y et al. Advances in deep learning[C/J]. ICCV, 2020: 111-131. Brown A et al. Advances in deep learning[C/J]. NeurIPS, 2021: 221-230. Li X et al. Advances in deep learning[C/J]. ICML, 2023: 270-288.",
+    "citation_content": "Smith J et al. Advances in deep learning[C/J]. CVPR, 2022: 307-315. Smith J et al. Advances in deep learning[C/J]. CVPR, 2020: 485-496. Kim S et al. Advances in deep learning[C/J]. CVPR, 2020: 149-162. Smith J et al. Advances in deep learning[C/J]. NeurIPS, 2023: 383-397. Zhang W et al. Advances in deep learning[C/J]. CVPR, 2022: 273-292.",
+    "funds": "Meta AI Research Grant 1445199",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_009.png",
+    "location": "40.4433,-79.9436"
+  },
+  {
+    "paper_id": "pap_010",
+    "doi": "10.1145/KDD2022.010",
+    "keywords": [
+      "跨域推荐",
+      "协同过滤",
+      "冷启动"
+    ],
+    "impact_factor": 15.788,
+    "reference_ids": [
+      "pap_2887",
+      "pap_7636",
+      "pap_1341",
+      "pap_6321",
+      "pap_3815",
+      "pap_8538",
+      "pap_6928",
+      "pap_2443",
+      "pap_8155",
+      "pap_2734",
+      "pap_4986",
+      "pap_8138"
+    ],
+    "en_name": "基于用户画像的跨域协同过滤推荐",
+    "en_abstract": "提出知识迁移框架，将源域用户行为特征迁移到目标域，有效解决冷启动问题。",
+    "cover_date_start": "2022-08",
+    "citation_nums": 245,
+    "content": "[Full-text placeholder] Title: 基于用户画像的跨域协同过滤推荐\n\nAbstract: 提出知识迁移框架，将源域用户行为特征迁移到目标域，有效解决冷启动问题。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_c3d4e5f6",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "王磊"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_zju_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_j0k1l2m3",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "郑燕"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "KDD",
+    "citation_ids": [
+      "pap_9584",
+      "pap_2288",
+      "pap_7484",
+      "pap_6083",
+      "pap_6562",
+      "pap_4630",
+      "pap_6456",
+      "pap_3754",
+      "pap_2251",
+      "pap_9363"
+    ],
+    "publisher": "ACM",
+    "publisher_id": "pub_acm",
+    "publication_id": "pub_kdd",
+    "publication_type": "学术会议",
+    "issn": "1693-8147",
+    "eissn": "1307-8532",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "KDD",
+    "journal_alias": "KDD",
+    "country": "美国",
+    "organizer": "ACM SIGKDD",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. James Wilson",
+    "founding_time": "1989",
+    "postal_code": "51033",
+    "address": "15 Innovation Dr, Toronto ON M5S 3H8",
+    "mobile": "+1-787-514-7843",
+    "jn_official": "https://kdd.org",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 1100,
+    "cite_nums": 187000,
+    "fund_nums": 52,
+    "paper_nums": 5600,
+    "review_period": "14 weeks",
+    "self_rate": 0.217,
+    "number_of_cites": 0.367,
+    "layout_cost": 3000,
+    "name_abbr": "KDD",
+    "en_description": "Top data mining and knowledge discovery conference",
+    "language_classify": "英文",
+    "publication_en_name": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "journal_name_zh": "知识发现与数据挖掘大会",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "计算机应用",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.1145/KDD2022.010",
+    "paper_type": "会议论文",
+    "reference_nums": 0,
+    "volume": "62",
+    "issue": "8",
+    "first_page": 460,
+    "last_page": 475,
+    "relevant": [
+      "pap_2013",
+      "pap_8381",
+      "pap_2695"
+    ],
+    "reference_content": "Smith J et al. Advances in deep learning[C/J]. EMNLP, 2019: 464-484. Li X et al. Advances in deep learning[C/J]. ACL, 2018: 121-130. Zhang W et al. Advances in deep learning[C/J]. ACL, 2019: 89-106. Zhang W et al. Advances in deep learning[C/J]. IEEE TPAMI, 2017: 91-111. Garcia M et al. Advances in deep learning[C/J]. ICCV, 2023: 387-404. Kim S et al. Advances in deep learning[C/J]. EMNLP, 2023: 349-366. Garcia M et al. Advances in deep learning[C/J]. ICML, 2021: 443-461. Li X et al. Advances in deep learning[C/J]. CVPR, 2023: 35-50. Wang Y et al. Advances in deep learning[C/J]. ICML, 2020: 408-420. Brown A et al. Advances in deep learning[C/J]. NeurIPS, 2021: 260-269.",
+    "citation_content": "Wang Y et al. Advances in deep learning[C/J]. ICCV, 2016: 30-43. Kim S et al. Advances in deep learning[C/J]. ACL, 2017: 331-340. Brown A et al. Advances in deep learning[C/J]. EMNLP, 2022: 237-254. Brown A et al. Advances in deep learning[C/J]. IEEE TPAMI, 2016: 231-251. Brown A et al. Advances in deep learning[C/J]. ICML, 2019: 165-182.",
+    "funds": "Google Research Award 4335942",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_010.png",
+    "location": "35.6762,139.6503"
+  },
+  {
+    "paper_id": "pap_011",
+    "doi": "10.1109/ICCV2023.011",
+    "keywords": [
+      "三维目标检测",
+      "点云",
+      "自动驾驶"
+    ],
+    "impact_factor": 3.349,
+    "reference_ids": [
+      "pap_005"
+    ],
+    "en_name": "基于稀疏点云的三维目标检测",
+    "en_abstract": "针对自动驾驶场景提出稀疏卷积三维检测网络，在Waymo Open Dataset上取得当前最优精度。",
+    "cover_date_start": "2023-10",
+    "citation_nums": 320,
+    "content": "[Full-text placeholder] Title: 基于稀疏点云的三维目标检测\n\nAbstract: 针对自动驾驶场景提出稀疏卷积三维检测网络，在Waymo Open Dataset上取得当前最优精度。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_c3d4e5f6",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "王磊"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_zju_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_m3n4o5p6",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "蔡云鹏"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ICCV",
+    "citation_ids": [
+      "pap_032",
+      "pap_034",
+      "pap_033"
+    ],
+    "publisher": "IEEE",
+    "publisher_id": "pub_ieee",
+    "publication_id": "pub_iccv",
+    "publication_type": "学术会议",
+    "issn": "2380-7504",
+    "eissn": "3827-1641",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "ICCV",
+    "journal_alias": "ICCV",
+    "country": "美国",
+    "organizer": "IEEE",
+    "publisher_place": "美国",
+    "publication_cycle": "两年一届",
+    "chief_editor": "Prof. Emily Chen",
+    "founding_time": "1987",
+    "postal_code": "67377",
+    "address": "15 Innovation Dr, Toronto ON M5S 3H8",
+    "mobile": "+1-736-635-3600",
+    "jn_official": "https://iccv2023.thecvf.com",
+    "journal_db_str": "EI/Scopus",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 1600,
+    "cite_nums": 234000,
+    "fund_nums": 33,
+    "paper_nums": 7100,
+    "review_period": "15 weeks",
+    "self_rate": 0.033,
+    "number_of_cites": 0.2,
+    "layout_cost": 1500,
+    "name_abbr": "ICCV",
+    "en_description": "Top computer vision conference",
+    "language_classify": "英文",
+    "publication_en_name": "IEEE/CVF International Conference on Computer Vision",
+    "journal_name_zh": "国际计算机视觉会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.1109/ICCV2023.011",
+    "paper_type": "会议论文",
+    "reference_nums": 1,
+    "volume": "63",
+    "issue": "10",
+    "first_page": 775,
+    "last_page": 789,
+    "relevant": [
+      "pap_032",
+      "pap_034",
+      "pap_033"
+    ],
+    "reference_content": "Li X et al. Advances in deep learning[C/J]. ACL, 2022: 210-230. Li X et al. Advances in deep learning[C/J]. ICML, 2016: 405-423. Garcia M et al. Advances in deep learning[C/J]. ACL, 2017: 169-178. Brown A et al. Advances in deep learning[C/J]. ICML, 2022: 146-158. Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 171-180. Brown A et al. Advances in deep learning[C/J]. ICML, 2018: 470-483. Li X et al. Advances in deep learning[C/J]. ICML, 2022: 67-84.",
+    "citation_content": "Li X et al. Advances in deep learning[C/J]. EMNLP, 2022: 330-350. Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 344-363. Kim S et al. Advances in deep learning[C/J]. ICML, 2017: 331-349.",
+    "funds": "Google Research Award 8038374",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_011.png",
+    "location": "52.5200,13.4050"
+  },
+  {
+    "paper_id": "pap_012",
+    "doi": "10.1007/ISWC2022.012",
+    "keywords": [
+      "知识图谱",
+      "问答系统",
+      "多跳推理"
+    ],
+    "impact_factor": 6.942,
+    "reference_ids": [
+      "pap_003",
+      "pap_004"
+    ],
+    "en_name": "面向开放域问答的知识图谱推理",
+    "en_abstract": "结合检索增强生成（RAG）与知识图谱多跳推理，提升大模型在事实性问答任务中的准确率。",
+    "cover_date_start": "2022-01",
+    "citation_nums": 178,
+    "content": "[Full-text placeholder] Title: 面向开放域问答的知识图谱推理\n\nAbstract: 结合检索增强生成（RAG）与知识图谱多跳推理，提升大模型在事实性问答任务中的准确率。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "知识工程与语义Web",
+    "authors": [
+      {
+        "id": "sch_d4e5f6g7",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "陈静"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ISWC",
+    "citation_ids": [
+      "pap_013",
+      "pap_024"
+    ],
+    "publisher": "Springer",
+    "publisher_id": "pub_springer",
+    "publication_id": "pub_iswc",
+    "publication_type": "学术会议",
+    "issn": "0302-9743",
+    "eissn": "4509-6598",
+    "journal_type": "CCF-B",
+    "journal_abbreviation": "ISWC",
+    "journal_alias": "ISWC",
+    "country": "国际",
+    "organizer": "ISWC",
+    "publisher_place": "德国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Prof. Sarah Kim",
+    "founding_time": "2002",
+    "postal_code": "35166",
+    "address": "1 Research Blvd, Stanford, CA 94305",
+    "mobile": "+1-340-258-2264",
+    "jn_official": "https://iswc2022.semanticweb.org",
+    "journal_db_str": "Scopus/DBLP",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 260,
+    "cite_nums": 41000,
+    "fund_nums": 46,
+    "paper_nums": 1300,
+    "review_period": "20 weeks",
+    "self_rate": 0.192,
+    "number_of_cites": 0.395,
+    "layout_cost": 800,
+    "name_abbr": "ISWC",
+    "en_description": "Premier semantic web and linked data conference",
+    "language_classify": "英文",
+    "publication_en_name": "International Semantic Web Conference",
+    "journal_name_zh": "国际语义网会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "计算机应用",
+      "partition": "B"
+    },
+    "paper_url": "https://doi.org/10.1007/ISWC2022.012",
+    "paper_type": "会议论文",
+    "reference_nums": 2,
+    "volume": "62",
+    "issue": "1",
+    "first_page": 60,
+    "last_page": 77,
+    "relevant": [
+      "pap_013",
+      "pap_024"
+    ],
+    "reference_content": "Kim S et al. Advances in deep learning[C/J]. IEEE TPAMI, 2017: 260-280. Brown A et al. Advances in deep learning[C/J]. IEEE TPAMI, 2016: 339-352. Kim S et al. Advances in deep learning[C/J]. EMNLP, 2018: 306-320. Zhang W et al. Advances in deep learning[C/J]. CVPR, 2018: 426-445. Kim S et al. Advances in deep learning[C/J]. EMNLP, 2018: 370-385. Smith J et al. Advances in deep learning[C/J]. ICCV, 2021: 347-366. Zhang W et al. Advances in deep learning[C/J]. ICCV, 2020: 386-405.",
+    "citation_content": "Zhang W et al. Advances in deep learning[C/J]. EMNLP, 2019: 159-179. Kim S et al. Advances in deep learning[C/J]. ICCV, 2019: 189-207. Brown A et al. Advances in deep learning[C/J]. ICCV, 2023: 394-406. Kim S et al. Advances in deep learning[C/J]. ICCV, 2022: 495-505. Kim S et al. Advances in deep learning[C/J]. CVPR, 2018: 447-459. Smith J et al. Advances in deep learning[C/J]. ICML, 2023: 448-461.",
+    "funds": "National Natural Science Foundation of China (NSFC) Grant 68536477",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_012.png",
+    "location": "37.4275,-122.1697"
+  },
+  {
+    "paper_id": "pap_013",
+    "doi": "10.18653/v1/COLING2022.013",
+    "keywords": [
+      "事件检测",
+      "提示学习",
+      "信息抽取"
+    ],
+    "impact_factor": 6.561,
+    "reference_ids": [
+      "pap_003",
+      "pap_004",
+      "pap_012"
+    ],
+    "en_name": "中文事件触发词检测的统一框架",
+    "en_abstract": "提出基于提示学习的统一事件触发词检测框架，在ACE2005中文数据集上超越基准模型8个F1点。",
+    "cover_date_start": "2022-05",
+    "citation_nums": 156,
+    "content": "[Full-text placeholder] Title: 中文事件触发词检测的统一框架\n\nAbstract: 提出基于提示学习的统一事件触发词检测框架，在ACE2005中文数据集上超越基准模型8个F1点。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-B/顶会",
+    "authors": [
+      {
+        "id": "sch_d4e5f6g7",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "陈静"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_k1l2m3n4",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "林峰"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "COLING",
+    "citation_ids": [
+      "pap_024"
+    ],
+    "publisher": "ACL Anthology",
+    "publisher_id": "pub_acl",
+    "publication_id": "pub_coling",
+    "publication_type": "学术会议",
+    "issn": "3626-5469",
+    "eissn": "8361-9410",
+    "journal_type": "CCF-B",
+    "journal_abbreviation": "COLING",
+    "journal_alias": "COLING",
+    "country": "国际",
+    "organizer": "ICCL",
+    "publisher_place": "国际",
+    "publication_cycle": "两年一届",
+    "chief_editor": "Prof. Emily Chen",
+    "founding_time": "1965",
+    "postal_code": "67340",
+    "address": "100 Academic Ave, Cambridge, MA 02139",
+    "mobile": "+1-427-936-8391",
+    "jn_official": "https://coling2022.org",
+    "journal_db_str": "Scopus/DBLP",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 460,
+    "cite_nums": 72000,
+    "fund_nums": 27,
+    "paper_nums": 2300,
+    "review_period": "18 weeks",
+    "self_rate": 0.042,
+    "number_of_cites": 0.111,
+    "layout_cost": 2500,
+    "name_abbr": "COLING",
+    "en_description": "One of the oldest and most prestigious NLP conferences",
+    "language_classify": "英文",
+    "publication_en_name": "International Conference on Computational Linguistics",
+    "journal_name_zh": "国际计算语言学大会",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "B"
+    },
+    "paper_url": "https://doi.org/10.18653/v1/COLING2022.013",
+    "paper_type": "会议论文",
+    "reference_nums": 3,
+    "volume": "62",
+    "issue": "5",
+    "first_page": 690,
+    "last_page": 701,
+    "relevant": [
+      "pap_024"
+    ],
+    "reference_content": "Smith J et al. Advances in deep learning[C/J]. ICCV, 2016: 203-219. Li X et al. Advances in deep learning[C/J]. CVPR, 2022: 42-55. Zhang W et al. Advances in deep learning[C/J]. NeurIPS, 2021: 477-486. Kim S et al. Advances in deep learning[C/J]. ICML, 2021: 406-416. Zhang W et al. Advances in deep learning[C/J]. NeurIPS, 2020: 470-485. Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 389-408. Wang Y et al. Advances in deep learning[C/J]. ICCV, 2016: 464-473.",
+    "citation_content": "Li X et al. Advances in deep learning[C/J]. CVPR, 2018: 281-300. Brown A et al. Advances in deep learning[C/J]. EMNLP, 2022: 57-77. Li X et al. Advances in deep learning[C/J]. CVPR, 2020: 63-71.",
+    "funds": "Meta AI Research Grant 5667265",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_013.png",
+    "location": "40.4433,-79.9436"
+  },
+  {
+    "paper_id": "pap_014",
+    "doi": "10.1609/AAAI2023.014",
+    "keywords": [
+      "多智能体",
+      "对抗训练",
+      "博弈论"
+    ],
+    "impact_factor": 15.387,
+    "reference_ids": [
+      "pap_4963",
+      "pap_3352",
+      "pap_5772",
+      "pap_8032",
+      "pap_1025",
+      "pap_6780",
+      "pap_4941",
+      "pap_7825",
+      "pap_4068",
+      "pap_2402",
+      "pap_9576",
+      "pap_6908",
+      "pap_2108",
+      "pap_9618",
+      "pap_9914",
+      "pap_9312",
+      "pap_9316"
+    ],
+    "en_name": "多智能体博弈中的对抗强化学习",
+    "en_abstract": "设计对抗性训练机制，使智能体在竞争环境中学习鲁棒策略，在StarCraft II微操场景中表现出色。",
+    "cover_date_start": "2023-02",
+    "citation_nums": 195,
+    "content": "[Full-text placeholder] Title: 多智能体博弈中的对抗强化学习\n\nAbstract: 设计对抗性训练机制，使智能体在竞争环境中学习鲁棒策略，在StarCraft II微操场景中表现出色。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_e5f6g7h8",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "刘洋"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_n4o5p6q7",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "方晓晨"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "AAAI",
+    "citation_ids": [
+      "pap_035"
+    ],
+    "publisher": "AAAI Press",
+    "publisher_id": "pub_aaai",
+    "publication_id": "pub_aaai",
+    "publication_type": "学术会议",
+    "issn": "2159-5399",
+    "eissn": "2374-3468",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "AAAI",
+    "journal_alias": "AAAI Conference",
+    "country": "美国",
+    "organizer": "AAAI",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Prof. Sarah Kim",
+    "founding_time": "1980",
+    "postal_code": "88215",
+    "address": "2275 E Bayshore Rd, Palo Alto, CA 94303",
+    "mobile": "+1-748-116-9443",
+    "jn_official": "https://aaai.org",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 1800,
+    "cite_nums": 298000,
+    "fund_nums": 56,
+    "paper_nums": 8900,
+    "review_period": "14 weeks",
+    "self_rate": 0.082,
+    "number_of_cites": 0.122,
+    "layout_cost": 2000,
+    "name_abbr": "AAAI",
+    "en_description": "Premier AI conference by AAAI",
+    "language_classify": "英文",
+    "publication_en_name": "AAAI Conference on Artificial Intelligence",
+    "journal_name_zh": "美国人工智能协会年会",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.1609/AAAI2023.014",
+    "paper_type": "会议论文",
+    "reference_nums": 0,
+    "volume": "63",
+    "issue": "2",
+    "first_page": 485,
+    "last_page": 496,
+    "relevant": [
+      "pap_035"
+    ],
+    "reference_content": "Smith J et al. Advances in deep learning[C/J]. ICCV, 2023: 23-41. Wang Y et al. Advances in deep learning[C/J]. ACL, 2020: 383-391. Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2017: 177-188. Garcia M et al. Advances in deep learning[C/J]. ICML, 2017: 396-413. Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2021: 69-77. Li X et al. Advances in deep learning[C/J]. EMNLP, 2021: 417-435. Zhang W et al. Advances in deep learning[C/J]. IEEE TPAMI, 2023: 357-372. Garcia M et al. Advances in deep learning[C/J]. CVPR, 2018: 33-52. Kim S et al. Advances in deep learning[C/J]. ICCV, 2016: 151-162.",
+    "citation_content": "Kim S et al. Advances in deep learning[C/J]. CVPR, 2016: 162-174. Brown A et al. Advances in deep learning[C/J]. ICCV, 2023: 130-138. Kim S et al. Advances in deep learning[C/J]. ICML, 2019: 147-160.",
+    "funds": "National Science Foundation (NSF) Grant IIS-3678638",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_014.png",
+    "location": "42.3601,-71.0942"
+  },
+  {
+    "paper_id": "pap_015",
+    "doi": "10.1109/TITS2022.015",
+    "keywords": [
+      "异常检测",
+      "时序数据",
+      "工业物联网"
+    ],
+    "impact_factor": 14.789,
+    "reference_ids": [
+      "pap_4060",
+      "pap_9129",
+      "pap_9151",
+      "pap_7018",
+      "pap_9507",
+      "pap_5369",
+      "pap_2353",
+      "pap_7955",
+      "pap_2293",
+      "pap_8055",
+      "pap_3956",
+      "pap_9937",
+      "pap_5813"
+    ],
+    "en_name": "工业传感器时序数据的异常检测方法",
+    "en_abstract": "结合Transformer时序建模与统计检验，提出自适应阈值的无监督异常检测方法，适用于高维工业传感器流数据。",
+    "cover_date_start": "2022-01",
+    "citation_nums": 167,
+    "content": "[Full-text placeholder] Title: 工业传感器时序数据的异常检测方法\n\nAbstract: 结合Transformer时序建模与统计检验，提出自适应阈值的无监督异常检测方法，适用于高维工业传感器流数据。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "智能交通系统",
+    "authors": [
+      {
+        "id": "sch_e5f6g7h8",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "John Patel"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_o5p6q7r8",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "Xin Chen"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "IEEE TITS",
+    "citation_ids": [
+      "pap_2680",
+      "pap_2311",
+      "pap_6372",
+      "pap_5843",
+      "pap_6021",
+      "pap_8305",
+      "pap_7981",
+      "pap_3730",
+      "pap_8272"
+    ],
+    "publisher": "IEEE",
+    "publisher_id": "pub_ieee",
+    "publication_id": "pub_tits",
+    "publication_type": "学术期刊",
+    "issn": "1524-9050",
+    "eissn": "1558-0016",
+    "journal_type": "SCI期刊",
+    "journal_abbreviation": "TITS",
+    "journal_alias": "IEEE TITS",
+    "country": "美国",
+    "organizer": "IEEE",
+    "publisher_place": "美国",
+    "publication_cycle": "月刊",
+    "chief_editor": "Prof. Sarah Kim",
+    "founding_time": "2000",
+    "postal_code": "62431",
+    "address": "445 Hoes Lane, Piscataway, NJ 08854",
+    "mobile": "+1-961-550-7334",
+    "jn_official": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979",
+    "journal_db_str": "SCI/EI/Scopus",
+    "open_access": false,
+    "scope": "工程科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 200,
+    "cite_nums": 76000,
+    "fund_nums": 55,
+    "paper_nums": 2400,
+    "review_period": 55,
+    "self_rate": 0.05,
+    "number_of_cites": 0.186,
+    "layout_cost": 2500,
+    "name_abbr": "TITS",
+    "en_description": "Leading journal in ITS research",
+    "language_classify": "英文",
+    "publication_en_name": "IEEE Transactions on Intelligent Transportation Systems",
+    "journal_name_zh": "IEEE智能交通系统汇刊",
+    "partition": {
+      "source": "SCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.1109/TITS2022.015",
+    "paper_type": "期刊论文",
+    "reference_nums": 0,
+    "volume": "62",
+    "issue": "1",
+    "first_page": 710,
+    "last_page": 724,
+    "relevant": [
+      "pap_9047",
+      "pap_4279",
+      "pap_3009",
+      "pap_3223"
+    ],
+    "reference_content": "Wang Y et al. Advances in deep learning[C/J]. NeurIPS, 2021: 315-329. Li X et al. Advances in deep learning[C/J]. ICML, 2016: 39-57. Garcia M et al. Advances in deep learning[C/J]. ICCV, 2021: 263-283. Garcia M et al. Advances in deep learning[C/J]. ICML, 2018: 488-496. Zhang W et al. Advances in deep learning[C/J]. IEEE TPAMI, 2023: 18-28. Smith J et al. Advances in deep learning[C/J]. CVPR, 2021: 186-200. Brown A et al. Advances in deep learning[C/J]. NeurIPS, 2018: 348-363.",
+    "citation_content": "Li X et al. Advances in deep learning[C/J]. ICCV, 2017: 294-304. Brown A et al. Advances in deep learning[C/J]. ACL, 2022: 161-179. Li X et al. Advances in deep learning[C/J]. CVPR, 2017: 14-33. Zhang W et al. Advances in deep learning[C/J]. ICCV, 2022: 468-484. Smith J et al. Advances in deep learning[C/J]. ACL, 2020: 361-376.",
+    "funds": "ANR French National Research Agency Grant ANR-6708456",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_015.png",
+    "location": "40.4433,-79.9436"
+  },
+  {
+    "paper_id": "pap_016",
+    "doi": "10.1016/RESS2023.016",
+    "keywords": [
+      "预测性维护",
+      "剩余寿命",
+      "LSTM"
+    ],
+    "impact_factor": 3.185,
+    "reference_ids": [
+      "pap_026",
+      "pap_028",
+      "pap_037"
+    ],
+    "en_name": "基于深度学习的设备剩余寿命预测",
+    "en_abstract": "提出双流LSTM-Attention网络，融合传感器时序信号与工况参数，实现精确的设备剩余使用寿命（RUL）预测。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 143,
+    "content": "[Full-text placeholder] Title: 基于深度学习的设备剩余寿命预测\n\nAbstract: 提出双流LSTM-Attention网络，融合传感器时序信号与工况参数，实现精确的设备剩余使用寿命（RUL）预测。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "安全与可靠性工程",
+    "authors": [
+      {
+        "id": "sch_e5f6g7h8",
+        "role": "第一作者",
+        "personinfo": {
+          "englishFullName": "James Wilson"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_o5p6q7r8",
+        "role": "通讯作者",
+        "personinfo": {
+          "englishFullName": "John Smith"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "Reliability Engineering & System Safety",
+    "citation_ids": [
+      "pap_027",
+      "pap_029",
+      "pap_036"
+    ],
+    "publisher": "Elsevier",
+    "publisher_id": "pub_elsevier",
+    "publication_id": "pub_ress",
+    "publication_type": "学术期刊",
+    "issn": "0951-8320",
+    "eissn": "3828-8292",
+    "journal_type": "SCI期刊",
+    "journal_abbreviation": "RESS",
+    "journal_alias": "Reliab. Eng. Syst. Saf.",
+    "country": "英国",
+    "organizer": "Elsevier",
+    "publisher_place": "英国",
+    "publication_cycle": "月刊",
+    "chief_editor": "Dr. James Wilson",
+    "founding_time": "1980",
+    "postal_code": "99381",
+    "address": "10 Science Park Rd, Oxford OX1 3QD",
+    "mobile": "+1-883-455-2063",
+    "jn_official": "https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety",
+    "journal_db_str": "SCI/EI/Scopus",
+    "open_access": false,
+    "scope": "工程科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 150,
+    "cite_nums": 56000,
+    "fund_nums": 9,
+    "paper_nums": 1800,
+    "review_period": 60,
+    "self_rate": 0.07,
+    "number_of_cites": 0.238,
+    "layout_cost": 1500,
+    "name_abbr": "RESS",
+    "en_description": "Key journal for reliability and safety engineering",
+    "language_classify": "英文",
+    "publication_en_name": "Reliability Engineering & System Safety",
+    "journal_name_zh": "可靠性工程与系统安全",
+    "partition": {
+      "source": "SCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.1016/RESS2023.016",
+    "paper_type": "期刊论文",
+    "reference_nums": 3,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 805,
+    "last_page": 820,
+    "relevant": [
+      "pap_027",
+      "pap_029",
+      "pap_036"
+    ],
+    "reference_content": "Brown A et al. Advances in deep learning[C/J]. ACL, 2020: 436-446. Garcia M et al. Advances in deep learning[C/J]. ICML, 2018: 407-420. Brown A et al. Advances in deep learning[C/J]. CVPR, 2017: 103-123. Zhang W et al. Advances in deep learning[C/J]. CVPR, 2023: 14-27. Brown A et al. Advances in deep learning[C/J]. EMNLP, 2021: 240-260. Brown A et al. Advances in deep learning[C/J]. CVPR, 2017: 34-46. Wang Y et al. Advances in deep learning[C/J]. ICML, 2023: 270-284. Kim S et al. Advances in deep learning[C/J]. ICCV, 2017: 65-78. Garcia M et al. Advances in deep learning[C/J]. NeurIPS, 2023: 239-257.",
+    "citation_content": "Zhang W et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 394-404. Wang Y et al. Advances in deep learning[C/J]. EMNLP, 2016: 426-435. Brown A et al. Advances in deep learning[C/J]. CVPR, 2020: 85-95. Li X et al. Advances in deep learning[C/J]. ICML, 2019: 178-194. Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2017: 129-140.",
+    "funds": "Deutsche Forschungsgemeinschaft (DFG) Project 3608513",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_016.png",
+    "location": "43.6629,-79.3957"
+  },
+  {
+    "paper_id": "pap_017",
+    "doi": "10.1234/ICLR2023.017",
+    "keywords": [
+      "联邦学习",
+      "梯度压缩",
+      "通信效率"
+    ],
+    "impact_factor": 12.0,
+    "reference_ids": [
+      "pap_006"
+    ],
+    "en_name": "分布式联邦学习中的通信压缩策略",
+    "en_abstract": "提出基于TopK稀疏化与量化结合的梯度压缩方案，在保证收敛性的前提下将通信量降低80%。",
+    "cover_date_start": "2023-05",
+    "citation_nums": 134,
+    "content": "[Full-text placeholder] Title: 分布式联邦学习中的通信压缩策略\n\nAbstract: 提出基于TopK稀疏化与量化结合的梯度压缩方案，在保证收敛性的前提下将通信量降低80%。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_f6g7h8i9",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Hao Wang"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ICLR",
+    "citation_ids": [
+      "pap_018"
+    ],
+    "publisher": "OpenReview",
+    "publisher_id": "pub_openreview",
+    "publication_id": "pub_iclr",
+    "publication_type": "学术会议",
+    "issn": "9740-2530",
+    "eissn": "9234-3762",
+    "journal_type": "CCF未评/顶会",
+    "journal_abbreviation": "ICLR",
+    "journal_alias": "ICLR",
+    "country": "美国",
+    "organizer": "ICLR",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. Robert Liu",
+    "founding_time": "2013",
+    "postal_code": "86106",
+    "address": "1 Research Blvd, Stanford, CA 94305",
+    "mobile": "+1-375-774-6531",
+    "jn_official": "https://iclr.cc",
+    "journal_db_str": "Scopus/DBLP",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 2500,
+    "cite_nums": 412000,
+    "fund_nums": 60,
+    "paper_nums": 12000,
+    "review_period": "14 weeks",
+    "self_rate": 0.066,
+    "number_of_cites": 0.22,
+    "layout_cost": 1200,
+    "name_abbr": "ICLR",
+    "en_description": "Top deep learning conference",
+    "language_classify": "英文",
+    "publication_en_name": "International Conference on Learning Representations",
+    "journal_name_zh": "国际学习表征会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A类(未评)"
+    },
+    "paper_url": "https://doi.org/10.1234/ICLR2023.017",
+    "paper_type": "会议论文",
+    "reference_nums": 1,
+    "volume": "63",
+    "issue": "5",
+    "first_page": 740,
+    "last_page": 753,
+    "relevant": [
+      "pap_018"
+    ],
+    "reference_content": "Smith J et al. Advances in deep learning[C/J]. IEEE TPAMI, 2016: 42-50. Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2020: 334-345. Kim S et al. Advances in deep learning[C/J]. EMNLP, 2022: 317-335. Smith J et al. Advances in deep learning[C/J]. ICCV, 2020: 329-341. Wang Y et al. Advances in deep learning[C/J]. CVPR, 2022: 153-168. Smith J et al. Advances in deep learning[C/J]. ICML, 2016: 81-96. Wang Y et al. Advances in deep learning[C/J]. ICCV, 2023: 105-118. Brown A et al. Advances in deep learning[C/J]. CVPR, 2021: 442-461. Li X et al. Advances in deep learning[C/J]. ICML, 2021: 500-514.",
+    "citation_content": "Kim S et al. Advances in deep learning[C/J]. ACL, 2017: 164-175. Wang Y et al. Advances in deep learning[C/J]. NeurIPS, 2020: 231-242. Zhang W et al. Advances in deep learning[C/J]. NeurIPS, 2016: 149-163. Kim S et al. Advances in deep learning[C/J]. EMNLP, 2022: 128-138.",
+    "funds": "National Natural Science Foundation of China (NSFC) Grant 66647119",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_017.png",
+    "location": "48.8566,2.3522"
+  },
+  {
+    "paper_id": "pap_018",
+    "doi": "10.1145/CSUR2023.018",
+    "keywords": [
+      "隐私保护",
+      "联邦学习",
+      "综述"
+    ],
+    "impact_factor": 4.549,
+    "reference_ids": [
+      "pap_006",
+      "pap_017"
+    ],
+    "en_name": "隐私保护机器学习综述",
+    "en_abstract": "系统梳理差分隐私、同态加密、安全多方计算等隐私保护技术在机器学习中的应用现状与挑战。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 289,
+    "content": "[Full-text placeholder] Title: 隐私保护机器学习综述\n\nAbstract: 系统梳理差分隐私、同态加密、安全多方计算等隐私保护技术在机器学习中的应用现状与挑战。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "计算机科学综合",
+    "authors": [
+      {
+        "id": "sch_f6g7h8i9",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Hao Kim"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ACM Computing Surveys",
+    "citation_ids": [
+      "pap_2475",
+      "pap_7442",
+      "pap_9281",
+      "pap_8491"
+    ],
+    "publisher": "ACM",
+    "publisher_id": "pub_acm",
+    "publication_id": "pub_csur",
+    "publication_type": "学术期刊",
+    "issn": "0360-0300",
+    "eissn": "1557-7341",
+    "journal_type": "SCI期刊",
+    "journal_abbreviation": "CSUR",
+    "journal_alias": "Computing Surveys",
+    "country": "美国",
+    "organizer": "ACM",
+    "publisher_place": "美国",
+    "publication_cycle": "不定期",
+    "chief_editor": "Dr. Robert Liu",
+    "founding_time": "1969",
+    "postal_code": "71186",
+    "address": "1601 Broadway, 10th Floor, New York, NY 10019",
+    "mobile": "+1-710-415-9148",
+    "jn_official": "https://dl.acm.org/journal/csur",
+    "journal_db_str": "SCI/EI/Scopus",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": true,
+    "annual_publication": 200,
+    "cite_nums": 87000,
+    "fund_nums": 3,
+    "paper_nums": 2300,
+    "review_period": 45,
+    "self_rate": 0.05,
+    "number_of_cites": 0.082,
+    "layout_cost": 2000,
+    "name_abbr": "CSUR",
+    "en_description": "Leading survey journal in computer science",
+    "language_classify": "英文",
+    "publication_en_name": "ACM Computing Surveys",
+    "journal_name_zh": "ACM计算调查",
+    "partition": {
+      "source": "SCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.1145/CSUR2023.018",
+    "paper_type": "期刊论文",
+    "reference_nums": 2,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 905,
+    "last_page": 916,
+    "relevant": [
+      "pap_9341",
+      "pap_7576",
+      "pap_9193"
+    ],
+    "reference_content": "Zhang W et al. Advances in deep learning[C/J]. EMNLP, 2021: 25-33. Li X et al. Advances in deep learning[C/J]. ICCV, 2023: 147-163. Smith J et al. Advances in deep learning[C/J]. IEEE TPAMI, 2017: 221-231. Li X et al. Advances in deep learning[C/J]. ICML, 2021: 392-406. Li X et al. Advances in deep learning[C/J]. NeurIPS, 2022: 27-44. Brown A et al. Advances in deep learning[C/J]. CVPR, 2021: 284-296.",
+    "citation_content": "Wang Y et al. Advances in deep learning[C/J]. EMNLP, 2023: 392-408. Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2017: 66-75. Wang Y et al. Advances in deep learning[C/J]. ACL, 2021: 286-299.",
+    "funds": "European Research Council (ERC) Advanced Grant 2556017",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_018.png",
+    "location": "51.7548,-1.2544"
+  },
+  {
+    "paper_id": "pap_019",
+    "doi": "10.1007/MICCAI2022.019",
+    "keywords": [
+      "医学图像",
+      "自监督学习",
+      "图像分割"
+    ],
+    "impact_factor": 2.725,
+    "reference_ids": [
+      "pap_6373",
+      "pap_6218",
+      "pap_3662",
+      "pap_7438",
+      "pap_5902",
+      "pap_6511",
+      "pap_9311",
+      "pap_9351",
+      "pap_9721",
+      "pap_9025"
+    ],
+    "en_name": "基于自监督学习的医学图像分割",
+    "en_abstract": "提出对比学习预训练策略，在少标注医学图像场景下实现高精度器官分割，在BraTS2022数据集上达到SOTA。",
+    "cover_date_start": "2022-01",
+    "citation_nums": 198,
+    "content": "[Full-text placeholder] Title: 基于自监督学习的医学图像分割\n\nAbstract: 提出对比学习预训练策略，在少标注医学图像场景下实现高精度器官分割，在BraTS2022数据集上达到SOTA。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "医学图像计算",
+    "authors": [
+      {
+        "id": "sch_g7h8i9j0",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Linda Brown"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "MICCAI",
+    "citation_ids": [
+      "pap_8780",
+      "pap_1272",
+      "pap_7035",
+      "pap_6427",
+      "pap_2795",
+      "pap_7824",
+      "pap_6040",
+      "pap_1436"
+    ],
+    "publisher": "Springer",
+    "publisher_id": "pub_springer",
+    "publication_id": "pub_miccai",
+    "publication_type": "学术会议",
+    "issn": "0302-9743",
+    "eissn": "3245-6456",
+    "journal_type": "CCF-B",
+    "journal_abbreviation": "MICCAI",
+    "journal_alias": "MICCAI",
+    "country": "国际",
+    "organizer": "MICCAI Society",
+    "publisher_place": "德国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Prof. Sarah Kim",
+    "founding_time": "1998",
+    "postal_code": "78069",
+    "address": "15 Innovation Dr, Toronto ON M5S 3H8",
+    "mobile": "+1-352-720-9446",
+    "jn_official": "https://www.miccai.org",
+    "journal_db_str": "EI/Scopus",
+    "open_access": false,
+    "scope": "医学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q3",
+    "review": false,
+    "annual_publication": 500,
+    "cite_nums": 78000,
+    "fund_nums": 46,
+    "paper_nums": 2500,
+    "review_period": "6 weeks",
+    "self_rate": 0.096,
+    "number_of_cites": 0.292,
+    "layout_cost": 0,
+    "name_abbr": "MICCAI",
+    "en_description": "Top medical image computing conference",
+    "language_classify": "英文",
+    "publication_en_name": "Medical Image Computing and Computer-Assisted Intervention",
+    "journal_name_zh": "医学图像计算与计算机辅助干预国际会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "交叉/医学",
+      "partition": "B"
+    },
+    "paper_url": "https://doi.org/10.1007/MICCAI2022.019",
+    "paper_type": "会议论文",
+    "reference_nums": 0,
+    "volume": "62",
+    "issue": "1",
+    "first_page": 60,
+    "last_page": 73,
+    "relevant": [
+      "pap_6654",
+      "pap_3399",
+      "pap_5758",
+      "pap_1689",
+      "pap_5712"
+    ],
+    "reference_content": "Wang Y et al. Advances in deep learning[C/J]. ACL, 2019: 370-378. Brown A et al. Advances in deep learning[C/J]. ICCV, 2018: 269-287. Garcia M et al. Advances in deep learning[C/J]. EMNLP, 2022: 76-94. Zhang W et al. Advances in deep learning[C/J]. NeurIPS, 2017: 98-106. Wang Y et al. Advances in deep learning[C/J]. ACL, 2022: 78-92. Garcia M et al. Advances in deep learning[C/J]. CVPR, 2022: 257-277. Brown A et al. Advances in deep learning[C/J]. ICCV, 2016: 362-372. Brown A et al. Advances in deep learning[C/J]. CVPR, 2021: 340-355. Brown A et al. Advances in deep learning[C/J]. ICCV, 2021: 490-500.",
+    "citation_content": "Brown A et al. Advances in deep learning[C/J]. ACL, 2021: 347-367. Kim S et al. Advances in deep learning[C/J]. ICML, 2020: 313-328. Zhang W et al. Advances in deep learning[C/J]. CVPR, 2020: 286-298. Zhang W et al. Advances in deep learning[C/J]. ACL, 2020: 361-372. Garcia M et al. Advances in deep learning[C/J]. ICML, 2023: 163-178. Li X et al. Advances in deep learning[C/J]. EMNLP, 2020: 148-157.",
+    "funds": "ANR French National Research Agency Grant ANR-2622631",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_019.png",
+    "location": "52.5200,13.4050"
+  },
+  {
+    "paper_id": "pap_020",
+    "doi": "10.1109/TMI2023.020",
+    "keywords": [
+      "糖尿病视网膜病变",
+      "眼底图像",
+      "计算机辅助诊断"
+    ],
+    "impact_factor": 9.078,
+    "reference_ids": [
+      "pap_001",
+      "pap_002"
+    ],
+    "en_name": "眼底图像糖尿病视网膜病变检测",
+    "en_abstract": "提出多尺度特征金字塔网络用于眼底图像的自动分级检测，在EyePACS数据集上AUC达到0.97。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 122,
+    "content": "[Full-text placeholder] Title: 眼底图像糖尿病视网膜病变检测\n\nAbstract: 提出多尺度特征金字塔网络用于眼底图像的自动分级检测，在EyePACS数据集上AUC达到0.97。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "医学图像处理",
+    "authors": [
+      {
+        "id": "sch_g7h8i9j0",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Michael Johnson"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "IEEE TMI",
+    "citation_ids": [
+      "pap_5450",
+      "pap_3249",
+      "pap_2789",
+      "pap_4920",
+      "pap_4972",
+      "pap_1831",
+      "pap_9700",
+      "pap_4697"
+    ],
+    "publisher": "IEEE",
+    "publisher_id": "pub_ieee",
+    "publication_id": "pub_tmi",
+    "publication_type": "学术期刊",
+    "issn": "0278-0062",
+    "eissn": "1558-254X",
+    "journal_type": "SCI期刊",
+    "journal_abbreviation": "TMI",
+    "journal_alias": "IEEE TMI",
+    "country": "美国",
+    "organizer": "IEEE",
+    "publisher_place": "美国",
+    "publication_cycle": "月刊",
+    "chief_editor": "Dr. Michael Brown",
+    "founding_time": "1982",
+    "postal_code": "72793",
+    "address": "445 Hoes Lane, Piscataway, NJ 08854",
+    "mobile": "+1-419-306-9824",
+    "jn_official": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42",
+    "journal_db_str": "SCI/EI/Scopus",
+    "open_access": false,
+    "scope": "医学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 120,
+    "cite_nums": 98000,
+    "fund_nums": 1,
+    "paper_nums": 3100,
+    "review_period": 60,
+    "self_rate": 0.04,
+    "number_of_cites": 0.136,
+    "layout_cost": 2500,
+    "name_abbr": "TMI",
+    "en_description": "Leading journal for medical imaging research",
+    "language_classify": "英文",
+    "publication_en_name": "IEEE Transactions on Medical Imaging",
+    "journal_name_zh": "IEEE医学影像汇刊",
+    "partition": {
+      "source": "SCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.1109/TMI2023.020",
+    "paper_type": "期刊论文",
+    "reference_nums": 2,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 990,
+    "last_page": 1004,
+    "relevant": [
+      "pap_8518",
+      "pap_5215",
+      "pap_4050"
+    ],
+    "reference_content": "Zhang W et al. Advances in deep learning[C/J]. NeurIPS, 2017: 212-225. Garcia M et al. Advances in deep learning[C/J]. ICCV, 2017: 349-369. Zhang W et al. Advances in deep learning[C/J]. NeurIPS, 2018: 209-227. Wang Y et al. Advances in deep learning[C/J]. ICCV, 2019: 388-400. Li X et al. Advances in deep learning[C/J]. ACL, 2016: 465-485. Smith J et al. Advances in deep learning[C/J]. ICML, 2019: 274-293. Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2016: 468-478. Wang Y et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 479-487. Kim S et al. Advances in deep learning[C/J]. ICCV, 2023: 96-115. Kim S et al. Advances in deep learning[C/J]. ACL, 2016: 5-17.",
+    "citation_content": "Li X et al. Advances in deep learning[C/J]. ACL, 2023: 329-345. Brown A et al. Advances in deep learning[C/J]. ICCV, 2018: 436-452. Wang Y et al. Advances in deep learning[C/J]. ACL, 2019: 415-424.",
+    "funds": "UK Research and Innovation (UKRI) Grant EP/6770619",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_020.png",
+    "location": "48.8566,2.3522"
+  },
+  {
+    "paper_id": "pap_021",
+    "doi": "10.18653/v1/ACL2022.021",
+    "keywords": [
+      "语音翻译",
+      "端到端",
+      "序列到序列"
+    ],
+    "impact_factor": 13.786,
+    "reference_ids": [
+      "pap_3303",
+      "pap_8822",
+      "pap_6301",
+      "pap_5064",
+      "pap_1111",
+      "pap_5272",
+      "pap_7284",
+      "pap_4858",
+      "pap_8319",
+      "pap_5374"
+    ],
+    "en_name": "端到端语音翻译系统研究",
+    "en_abstract": "构建端到端语音到文本翻译系统，绕过中间ASR步骤直接实现语音翻译，在MuST-C数据集上超越级联系统。",
+    "cover_date_start": "2022-07",
+    "citation_nums": 231,
+    "content": "[Full-text placeholder] Title: 端到端语音翻译系统研究\n\nAbstract: 构建端到端语音到文本翻译系统，绕过中间ASR步骤直接实现语音翻译，在MuST-C数据集上超越级联系统。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_h8i9j0k1",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Hao Brown"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ACL",
+    "citation_ids": [
+      "pap_030",
+      "pap_008",
+      "pap_031"
+    ],
+    "publisher": "ACL Anthology",
+    "publisher_id": "pub_acl",
+    "publication_id": "pub_acl",
+    "publication_type": "学术会议",
+    "issn": "5833-4164",
+    "eissn": "3875-7643",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "ACL",
+    "journal_alias": "ACL Annual Meeting",
+    "country": "美国",
+    "organizer": "ACL",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Prof. Sarah Kim",
+    "founding_time": "1963",
+    "postal_code": "77538",
+    "address": "10 Science Park Rd, Oxford OX1 3QD",
+    "mobile": "+1-288-510-2562",
+    "jn_official": "https://www.aclweb.org",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 1500,
+    "cite_nums": 278000,
+    "fund_nums": 6,
+    "paper_nums": 7200,
+    "review_period": "20 weeks",
+    "self_rate": 0.115,
+    "number_of_cites": 0.367,
+    "layout_cost": 2000,
+    "name_abbr": "ACL",
+    "en_description": "Premier venue for NLP research",
+    "language_classify": "英文",
+    "publication_en_name": "Annual Meeting of the Association for Computational Linguistics",
+    "journal_name_zh": "计算语言学协会年会",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.18653/v1/ACL2022.021",
+    "paper_type": "会议论文",
+    "reference_nums": 0,
+    "volume": "62",
+    "issue": "7",
+    "first_page": 105,
+    "last_page": 118,
+    "relevant": [
+      "pap_030",
+      "pap_008",
+      "pap_031"
+    ],
+    "reference_content": "Li X et al. Advances in deep learning[C/J]. EMNLP, 2016: 134-152. Li X et al. Advances in deep learning[C/J]. ICML, 2019: 32-50. Smith J et al. Advances in deep learning[C/J]. ICCV, 2020: 82-96. Garcia M et al. Advances in deep learning[C/J]. EMNLP, 2020: 354-363. Garcia M et al. Advances in deep learning[C/J]. ACL, 2021: 315-326. Zhang W et al. Advances in deep learning[C/J]. CVPR, 2023: 79-94. Garcia M et al. Advances in deep learning[C/J]. EMNLP, 2021: 213-232.",
+    "citation_content": "Kim S et al. Advances in deep learning[C/J]. EMNLP, 2019: 391-402. Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2017: 270-285. Brown A et al. Advances in deep learning[C/J]. ICML, 2021: 40-57. Smith J et al. Advances in deep learning[C/J]. NeurIPS, 2019: 294-310. Zhang W et al. Advances in deep learning[C/J]. CVPR, 2021: 438-454. Wang Y et al. Advances in deep learning[C/J]. NeurIPS, 2019: 368-385.",
+    "funds": "Meta AI Research Grant 5437923",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_021.png",
+    "location": "35.6762,139.6503"
+  },
+  {
+    "paper_id": "pap_022",
+    "doi": "10.1609/AAAI2023.022",
+    "keywords": [
+      "情感分析",
+      "多模态",
+      "跨模态融合"
+    ],
+    "impact_factor": 2.89,
+    "reference_ids": [
+      "pap_8575",
+      "pap_6049",
+      "pap_1356",
+      "pap_7487",
+      "pap_5169",
+      "pap_1049",
+      "pap_4570",
+      "pap_2196",
+      "pap_1742",
+      "pap_7941",
+      "pap_6644",
+      "pap_2044",
+      "pap_9866",
+      "pap_1987",
+      "pap_2130",
+      "pap_8734"
+    ],
+    "en_name": "多模态情感分析中的跨模态融合",
+    "en_abstract": "提出层次化跨模态Transformer，融合语音、文本、视频三路特征，在CMU-MOSI情感基准上取得新纪录。",
+    "cover_date_start": "2023-02",
+    "citation_nums": 178,
+    "content": "[Full-text placeholder] Title: 多模态情感分析中的跨模态融合\n\nAbstract: 提出层次化跨模态Transformer，融合语音、文本、视频三路特征，在CMU-MOSI情感基准上取得新纪录。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_h8i9j0k1",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Michael Smith"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "AAAI",
+    "citation_ids": [
+      "pap_5703",
+      "pap_7698",
+      "pap_3948",
+      "pap_3218"
+    ],
+    "publisher": "AAAI Press",
+    "publisher_id": "pub_aaai",
+    "publication_id": "pub_aaai",
+    "publication_type": "学术会议",
+    "issn": "2159-5399",
+    "eissn": "2374-3468",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "AAAI",
+    "journal_alias": "AAAI Conference",
+    "country": "美国",
+    "organizer": "AAAI",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Prof. Emily Chen",
+    "founding_time": "1980",
+    "postal_code": "77272",
+    "address": "2275 E Bayshore Rd, Palo Alto, CA 94303",
+    "mobile": "+1-625-567-1945",
+    "jn_official": "https://aaai.org",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q3",
+    "review": false,
+    "annual_publication": 1800,
+    "cite_nums": 298000,
+    "fund_nums": 19,
+    "paper_nums": 8900,
+    "review_period": "11 weeks",
+    "self_rate": 0.185,
+    "number_of_cites": 0.428,
+    "layout_cost": 2500,
+    "name_abbr": "AAAI",
+    "en_description": "Premier AI conference by AAAI",
+    "language_classify": "英文",
+    "publication_en_name": "AAAI Conference on Artificial Intelligence",
+    "journal_name_zh": "美国人工智能协会年会",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.1609/AAAI2023.022",
+    "paper_type": "会议论文",
+    "reference_nums": 0,
+    "volume": "63",
+    "issue": "2",
+    "first_page": 130,
+    "last_page": 146,
+    "relevant": [
+      "pap_3295",
+      "pap_9255"
+    ],
+    "reference_content": "Garcia M et al. Advances in deep learning[C/J]. ICML, 2022: 192-206. Wang Y et al. Advances in deep learning[C/J]. IEEE TPAMI, 2022: 193-202. Garcia M et al. Advances in deep learning[C/J]. ICML, 2018: 335-348. Smith J et al. Advances in deep learning[C/J]. CVPR, 2022: 271-281. Garcia M et al. Advances in deep learning[C/J]. CVPR, 2016: 388-396. Li X et al. Advances in deep learning[C/J]. ICCV, 2022: 273-287. Kim S et al. Advances in deep learning[C/J]. CVPR, 2019: 236-249. Zhang W et al. Advances in deep learning[C/J]. ACL, 2019: 480-499. Kim S et al. Advances in deep learning[C/J]. NeurIPS, 2016: 415-433. Wang Y et al. Advances in deep learning[C/J]. EMNLP, 2016: 124-135.",
+    "citation_content": "Smith J et al. Advances in deep learning[C/J]. EMNLP, 2016: 229-246. Garcia M et al. Advances in deep learning[C/J]. ICML, 2016: 126-145. Smith J et al. Advances in deep learning[C/J]. ICCV, 2023: 120-136.",
+    "funds": "National Science Foundation (NSF) Grant IIS-8707870",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_022.png",
+    "location": "40.4433,-79.9436"
+  },
+  {
+    "paper_id": "pap_023",
+    "doi": "10.1109/ICASSP2023.023",
+    "keywords": [
+      "语音合成",
+      "正则化流",
+      "文本转语音"
+    ],
+    "impact_factor": 13.704,
+    "reference_ids": [
+      "pap_007"
+    ],
+    "en_name": "基于自回归流的语音合成模型",
+    "en_abstract": "设计基于正则化流的并行语音合成架构，实现接近人类的自然语音生成，推理速度比WaveNet快500倍。",
+    "cover_date_start": "2023-05",
+    "citation_nums": 145,
+    "content": "[Full-text placeholder] Title: 基于自回归流的语音合成模型\n\nAbstract: 设计基于正则化流的并行语音合成架构，实现接近人类的自然语音生成，推理速度比WaveNet快500倍。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-B/顶会",
+    "authors": [
+      {
+        "id": "sch_h8i9j0k1",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Emma Patel"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ICASSP",
+    "citation_ids": [
+      "pap_7775",
+      "pap_5923",
+      "pap_5508",
+      "pap_1998",
+      "pap_3869",
+      "pap_7999",
+      "pap_9120"
+    ],
+    "publisher": "IEEE",
+    "publisher_id": "pub_ieee",
+    "publication_id": "pub_icassp",
+    "publication_type": "学术会议",
+    "issn": "2379-190X",
+    "eissn": "6224-6253",
+    "journal_type": "CCF-B",
+    "journal_abbreviation": "ICASSP",
+    "journal_alias": "ICASSP",
+    "country": "美国",
+    "organizer": "IEEE",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Prof. Emily Chen",
+    "founding_time": "1976",
+    "postal_code": "49552",
+    "address": "445 Hoes Lane, Piscataway, NJ 08854",
+    "mobile": "+1-346-776-9540",
+    "jn_official": "https://2023.ieeeicassp.org",
+    "journal_db_str": "EI/Scopus",
+    "open_access": false,
+    "scope": "工程科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 980,
+    "cite_nums": 156000,
+    "fund_nums": 48,
+    "paper_nums": 4900,
+    "review_period": "19 weeks",
+    "self_rate": 0.204,
+    "number_of_cites": 0.094,
+    "layout_cost": 800,
+    "name_abbr": "ICASSP",
+    "en_description": "Top signal processing and speech conference",
+    "language_classify": "英文",
+    "publication_en_name": "IEEE International Conference on Acoustics, Speech and Signal Processing",
+    "journal_name_zh": "IEEE声学、语音与信号处理国际会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "计算机应用",
+      "partition": "B"
+    },
+    "paper_url": "https://doi.org/10.1109/ICASSP2023.023",
+    "paper_type": "会议论文",
+    "reference_nums": 1,
+    "volume": "63",
+    "issue": "5",
+    "first_page": 360,
+    "last_page": 377,
+    "relevant": [
+      "pap_1251",
+      "pap_4470",
+      "pap_4113",
+      "pap_2922"
+    ],
+    "reference_content": "Li X et al. Advances in deep learning[C/J]. ICML, 2022: 403-419. Li X et al. Advances in deep learning[C/J]. ICML, 2022: 210-220. Li X et al. Advances in deep learning[C/J]. ICCV, 2018: 387-403. Wang Y et al. Advances in deep learning[C/J]. CVPR, 2019: 154-173. Zhang W et al. Advances in deep learning[C/J]. IEEE TPAMI, 2023: 469-477.",
+    "citation_content": "Wang Y et al. Advances in deep learning[C/J]. EMNLP, 2018: 199-210. Li X et al. Advances in deep learning[C/J]. CVPR, 2021: 332-341. Wang Y et al. Advances in deep learning[C/J]. IEEE TPAMI, 2021: 48-64. Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2019: 27-39. Wang Y et al. Advances in deep learning[C/J]. ICML, 2016: 448-457. Zhang W et al. Advances in deep learning[C/J]. IEEE TPAMI, 2019: 246-257.",
+    "funds": "Google Research Award 3094235",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_023.png",
+    "location": "48.8566,2.3522"
+  },
+  {
+    "paper_id": "pap_024",
+    "doi": "10.1007/ESWC2022.024",
+    "keywords": [
+      "知识图谱补全",
+      "路径推理",
+      "强化学习"
+    ],
+    "impact_factor": 13.13,
+    "reference_ids": [
+      "pap_004",
+      "pap_012",
+      "pap_013"
+    ],
+    "en_name": "知识图谱补全的关系路径推理",
+    "en_abstract": "利用强化学习训练路径寻找策略网络，结合关系语义相似度进行知识图谱缺失事实推断。",
+    "cover_date_start": "2022-01",
+    "citation_nums": 112,
+    "content": "[Full-text placeholder] Title: 知识图谱补全的关系路径推理\n\nAbstract: 利用强化学习训练路径寻找策略网络，结合关系语义相似度进行知识图谱缺失事实推断。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "知识工程与语义Web",
+    "authors": [
+      {
+        "id": "sch_i9j0k1l2",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Hao Liu"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_zju_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ESWC",
+    "citation_ids": [
+      "pap_9743",
+      "pap_6886",
+      "pap_6053",
+      "pap_5285",
+      "pap_6892",
+      "pap_9401",
+      "pap_9147",
+      "pap_8635",
+      "pap_2615",
+      "pap_8692",
+      "pap_6246"
+    ],
+    "publisher": "Springer",
+    "publisher_id": "pub_springer",
+    "publication_id": "pub_eswc",
+    "publication_type": "学术会议",
+    "issn": "0302-9743",
+    "eissn": "4350-7498",
+    "journal_type": "CCF-C",
+    "journal_abbreviation": "ESWC",
+    "journal_alias": "ESWC",
+    "country": "欧洲",
+    "organizer": "ESWC",
+    "publisher_place": "德国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Prof. Emily Chen",
+    "founding_time": "2004",
+    "postal_code": "82362",
+    "address": "10 Science Park Rd, Oxford OX1 3QD",
+    "mobile": "+1-994-389-7236",
+    "jn_official": "https://2023.eswc-conferences.org",
+    "journal_db_str": "Scopus",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 180,
+    "cite_nums": 28000,
+    "fund_nums": 2,
+    "paper_nums": 900,
+    "review_period": "4 weeks",
+    "self_rate": 0.131,
+    "number_of_cites": 0.378,
+    "layout_cost": 0,
+    "name_abbr": "ESWC",
+    "en_description": "Top semantic web conference",
+    "language_classify": "英文",
+    "publication_en_name": "Extended Semantic Web Conference",
+    "journal_name_zh": "扩展语义网会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "计算机应用",
+      "partition": "C"
+    },
+    "paper_url": "https://doi.org/10.1007/ESWC2022.024",
+    "paper_type": "会议论文",
+    "reference_nums": 3,
+    "volume": "62",
+    "issue": "1",
+    "first_page": 815,
+    "last_page": 830,
+    "relevant": [
+      "pap_8916",
+      "pap_8993"
+    ],
+    "reference_content": "Li X et al. Advances in deep learning[C/J]. ACL, 2022: 24-41. Kim S et al. Advances in deep learning[C/J]. CVPR, 2018: 9-21. Brown A et al. Advances in deep learning[C/J]. EMNLP, 2022: 152-162. Zhang W et al. Advances in deep learning[C/J]. ACL, 2019: 195-212. Kim S et al. Advances in deep learning[C/J]. CVPR, 2023: 282-300. Garcia M et al. Advances in deep learning[C/J]. ACL, 2020: 391-406.",
+    "citation_content": "Wang Y et al. Advances in deep learning[C/J]. CVPR, 2021: 87-97. Garcia M et al. Advances in deep learning[C/J]. EMNLP, 2023: 95-111. Garcia M et al. Advances in deep learning[C/J]. NeurIPS, 2016: 430-439. Kim S et al. Advances in deep learning[C/J]. ICML, 2016: 392-400. Wang Y et al. Advances in deep learning[C/J]. CVPR, 2019: 35-54. Zhang W et al. Advances in deep learning[C/J]. NeurIPS, 2019: 259-274.",
+    "funds": "ANR French National Research Agency Grant ANR-2322047",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_024.png",
+    "location": "48.8566,2.3522"
+  },
+  {
+    "paper_id": "pap_025",
+    "doi": "10.1234/ICLR2023.025",
+    "keywords": [
+      "图神经网络",
+      "过平滑",
+      "深层GNN"
+    ],
+    "impact_factor": 8.581,
+    "reference_ids": [
+      "pap_3439",
+      "pap_4948",
+      "pap_4144",
+      "pap_9625",
+      "pap_5135",
+      "pap_6807",
+      "pap_5379",
+      "pap_7502",
+      "pap_2294",
+      "pap_7112",
+      "pap_7652",
+      "pap_8520",
+      "pap_4984",
+      "pap_4700",
+      "pap_5914",
+      "pap_2320"
+    ],
+    "en_name": "图神经网络中的过平滑问题研究",
+    "en_abstract": "分析深层图神经网络的过平滑现象，提出残差连接与dropedge结合的缓解策略。",
+    "cover_date_start": "2023-05",
+    "citation_nums": 167,
+    "content": "[Full-text placeholder] Title: 图神经网络中的过平滑问题研究\n\nAbstract: 分析深层图神经网络的过平滑现象，提出残差连接与dropedge结合的缓解策略。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_i9j0k1l2",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Robert Lee"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_zju_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ICLR",
+    "citation_ids": [
+      "pap_2531",
+      "pap_7640",
+      "pap_7213",
+      "pap_7179"
+    ],
+    "publisher": "OpenReview",
+    "publisher_id": "pub_openreview",
+    "publication_id": "pub_iclr",
+    "publication_type": "学术会议",
+    "issn": "1274-9673",
+    "eissn": "5501-9777",
+    "journal_type": "CCF未评/顶会",
+    "journal_abbreviation": "ICLR",
+    "journal_alias": "ICLR",
+    "country": "美国",
+    "organizer": "ICLR",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. Michael Brown",
+    "founding_time": "2013",
+    "postal_code": "12246",
+    "address": "15 Innovation Dr, Toronto ON M5S 3H8",
+    "mobile": "+1-383-209-2578",
+    "jn_official": "https://iclr.cc",
+    "journal_db_str": "Scopus/DBLP",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 2500,
+    "cite_nums": 412000,
+    "fund_nums": 12,
+    "paper_nums": 12000,
+    "review_period": "16 weeks",
+    "self_rate": 0.046,
+    "number_of_cites": 0.303,
+    "layout_cost": 800,
+    "name_abbr": "ICLR",
+    "en_description": "Top deep learning conference",
+    "language_classify": "英文",
+    "publication_en_name": "International Conference on Learning Representations",
+    "journal_name_zh": "国际学习表征会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A类(未评)"
+    },
+    "paper_url": "https://doi.org/10.1234/ICLR2023.025",
+    "paper_type": "会议论文",
+    "reference_nums": 0,
+    "volume": "63",
+    "issue": "5",
+    "first_page": 210,
+    "last_page": 225,
+    "relevant": [
+      "pap_6829",
+      "pap_7150",
+      "pap_8075"
+    ],
+    "reference_content": "Wang Y et al. Advances in deep learning[C/J]. NeurIPS, 2016: 360-370. Smith J et al. Advances in deep learning[C/J]. ICCV, 2022: 331-351. Li X et al. Advances in deep learning[C/J]. EMNLP, 2017: 459-475. Smith J et al. Advances in deep learning[C/J]. CVPR, 2019: 462-481. Brown A et al. Advances in deep learning[C/J]. ICCV, 2020: 24-33. Garcia M et al. Advances in deep learning[C/J]. ACL, 2016: 92-105. Smith J et al. Advances in deep learning[C/J]. CVPR, 2018: 386-405. Kim S et al. Advances in deep learning[C/J]. ICCV, 2017: 154-164. Brown A et al. Advances in deep learning[C/J]. CVPR, 2022: 347-363.",
+    "citation_content": "Wang Y et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 405-424. Garcia M et al. Advances in deep learning[C/J]. NeurIPS, 2021: 28-37. Wang Y et al. Advances in deep learning[C/J]. CVPR, 2017: 175-192. Kim S et al. Advances in deep learning[C/J]. EMNLP, 2022: 497-517. Li X et al. Advances in deep learning[C/J]. NeurIPS, 2020: 402-417.",
+    "funds": "Google Research Award 5918715",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_025.png",
+    "location": "35.6762,139.6503"
+  },
+  {
+    "paper_id": "pap_026",
+    "doi": "10.1145/CIKM2022.026",
+    "keywords": [
+      "用户意图",
+      "序列推荐",
+      "行为建模"
+    ],
+    "impact_factor": 11.898,
+    "reference_ids": [
+      "pap_009"
+    ],
+    "en_name": "基于行为序列的下一意图预测",
+    "en_abstract": "建模用户长短期意图转移规律，提出双通道意图感知序列推荐模型，在Tmall和Amazon数据集上显著超越基线。",
+    "cover_date_start": "2022-10",
+    "citation_nums": 143,
+    "content": "[Full-text placeholder] Title: 基于行为序列的下一意图预测\n\nAbstract: 建模用户长短期意图转移规律，提出双通道意图感知序列推荐模型，在Tmall和Amazon数据集上显著超越基线。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-B/顶会",
+    "authors": [
+      {
+        "id": "sch_j0k1l2m3",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Michael Wang"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "CIKM",
+    "citation_ids": [
+      "pap_028",
+      "pap_037",
+      "pap_016"
+    ],
+    "publisher": "ACM",
+    "publisher_id": "pub_acm",
+    "publication_id": "pub_cikm",
+    "publication_type": "学术会议",
+    "issn": "5037-2204",
+    "eissn": "2344-5390",
+    "journal_type": "CCF-B",
+    "journal_abbreviation": "CIKM",
+    "journal_alias": "CIKM",
+    "country": "美国",
+    "organizer": "ACM",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Prof. Emily Chen",
+    "founding_time": "1992",
+    "postal_code": "59807",
+    "address": "1 Research Blvd, Stanford, CA 94305",
+    "mobile": "+1-957-498-6188",
+    "jn_official": "https://www.cikm2022.org",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 420,
+    "cite_nums": 67000,
+    "fund_nums": 24,
+    "paper_nums": 2100,
+    "review_period": "12 weeks",
+    "self_rate": 0.209,
+    "number_of_cites": 0.052,
+    "layout_cost": 1200,
+    "name_abbr": "CIKM",
+    "en_description": "Key venue for IR and KM research",
+    "language_classify": "英文",
+    "publication_en_name": "ACM International Conference on Information and Knowledge Management",
+    "journal_name_zh": "信息与知识管理国际会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "计算机应用",
+      "partition": "B"
+    },
+    "paper_url": "https://doi.org/10.1145/CIKM2022.026",
+    "paper_type": "会议论文",
+    "reference_nums": 1,
+    "volume": "62",
+    "issue": "10",
+    "first_page": 455,
+    "last_page": 468,
+    "relevant": [
+      "pap_028",
+      "pap_037",
+      "pap_016"
+    ],
+    "reference_content": "Smith J et al. Advances in deep learning[C/J]. NeurIPS, 2016: 483-495. Wang Y et al. Advances in deep learning[C/J]. ACL, 2020: 53-63. Smith J et al. Advances in deep learning[C/J]. CVPR, 2022: 230-246. Brown A et al. Advances in deep learning[C/J]. EMNLP, 2022: 53-61. Smith J et al. Advances in deep learning[C/J]. ACL, 2017: 306-323. Kim S et al. Advances in deep learning[C/J]. ACL, 2022: 7-19. Wang Y et al. Advances in deep learning[C/J]. ICCV, 2017: 372-388.",
+    "citation_content": "Brown A et al. Advances in deep learning[C/J]. EMNLP, 2018: 351-365. Zhang W et al. Advances in deep learning[C/J]. CVPR, 2020: 155-167. Wang Y et al. Advances in deep learning[C/J]. CVPR, 2017: 86-100. Li X et al. Advances in deep learning[C/J]. ICCV, 2020: 248-268.",
+    "funds": "Meta AI Research Grant 7067228",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_026.png",
+    "location": "37.4275,-122.1697"
+  },
+  {
+    "paper_id": "pap_027",
+    "doi": "10.1145/WWW2023.027",
+    "keywords": [
+      "影响力最大化",
+      "社交网络",
+      "信息传播"
+    ],
+    "impact_factor": 13.534,
+    "reference_ids": [
+      "pap_028",
+      "pap_037",
+      "pap_016"
+    ],
+    "en_name": "社交网络中的影响力最大化",
+    "en_abstract": "提出高效近似算法解决信息传播影响力最大化问题，计算开销比CELF算法减少60%。",
+    "cover_date_start": "2023-04",
+    "citation_nums": 98,
+    "content": "[Full-text placeholder] Title: 社交网络中的影响力最大化\n\nAbstract: 提出高效近似算法解决信息传播影响力最大化问题，计算开销比CELF算法减少60%。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_j0k1l2m3",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "James Patel"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "WWW",
+    "citation_ids": [
+      "pap_029",
+      "pap_036",
+      "pap_038"
+    ],
+    "publisher": "ACM",
+    "publisher_id": "pub_acm",
+    "publication_id": "pub_www",
+    "publication_type": "学术会议",
+    "issn": "9123-4203",
+    "eissn": "8501-2752",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "WWW",
+    "journal_alias": "TheWebConf",
+    "country": "美国",
+    "organizer": "IW3C2",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Prof. Emily Chen",
+    "founding_time": "1994",
+    "postal_code": "49932",
+    "address": "100 Academic Ave, Cambridge, MA 02139",
+    "mobile": "+1-605-440-7224",
+    "jn_official": "https://www2023.thewebconf.org",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 1200,
+    "cite_nums": 198000,
+    "fund_nums": 16,
+    "paper_nums": 6200,
+    "review_period": "12 weeks",
+    "self_rate": 0.155,
+    "number_of_cites": 0.212,
+    "layout_cost": 3000,
+    "name_abbr": "WWW",
+    "en_description": "Premier venue for Web and network research",
+    "language_classify": "英文",
+    "publication_en_name": "The Web Conference",
+    "journal_name_zh": "国际万维网会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "计算机应用",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.1145/WWW2023.027",
+    "paper_type": "会议论文",
+    "reference_nums": 3,
+    "volume": "63",
+    "issue": "4",
+    "first_page": 860,
+    "last_page": 874,
+    "relevant": [
+      "pap_029",
+      "pap_036",
+      "pap_038"
+    ],
+    "reference_content": "Wang Y et al. Advances in deep learning[C/J]. ACL, 2022: 418-436. Brown A et al. Advances in deep learning[C/J]. CVPR, 2020: 165-182. Garcia M et al. Advances in deep learning[C/J]. CVPR, 2023: 161-171. Wang Y et al. Advances in deep learning[C/J]. ACL, 2020: 377-396. Garcia M et al. Advances in deep learning[C/J]. ICCV, 2019: 167-181. Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2022: 187-196. Brown A et al. Advances in deep learning[C/J]. CVPR, 2018: 350-370.",
+    "citation_content": "Garcia M et al. Advances in deep learning[C/J]. ICCV, 2019: 225-245. Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2017: 420-440. Kim S et al. Advances in deep learning[C/J]. ICCV, 2023: 72-90.",
+    "funds": "Meta AI Research Grant 4226067",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_027.png",
+    "location": "43.6629,-79.3957"
+  },
+  {
+    "paper_id": "pap_028",
+    "doi": "10.1007/ECCV2022.028",
+    "keywords": [
+      "实例分割",
+      "掩码精炼",
+      "小目标"
+    ],
+    "impact_factor": 13.444,
+    "reference_ids": [
+      "pap_009",
+      "pap_026"
+    ],
+    "en_name": "实例分割的掩码提炼网络",
+    "en_abstract": "设计掩码精炼模块对粗粒度分割结果进行迭代优化，在LVIS数据集上显著提升小目标实例分割精度。",
+    "cover_date_start": "2022-10",
+    "citation_nums": 89,
+    "content": "[Full-text placeholder] Title: 实例分割的掩码提炼网络\n\nAbstract: 设计掩码精炼模块对粗粒度分割结果进行迭代优化，在LVIS数据集上显著提升小目标实例分割精度。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-B/顶会",
+    "authors": [
+      {
+        "id": "sch_k1l2m3n4",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "John Liu"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ECCV",
+    "citation_ids": [
+      "pap_037",
+      "pap_016",
+      "pap_027"
+    ],
+    "publisher": "Springer",
+    "publisher_id": "pub_springer",
+    "publication_id": "pub_eccv",
+    "publication_type": "学术会议",
+    "issn": "0302-9743",
+    "eissn": "7176-2211",
+    "journal_type": "CCF-B顶会",
+    "journal_abbreviation": "ECCV",
+    "journal_alias": "ECCV",
+    "country": "欧洲",
+    "organizer": "ECCV",
+    "publisher_place": "德国",
+    "publication_cycle": "两年一届",
+    "chief_editor": "Prof. Sarah Kim",
+    "founding_time": "1990",
+    "postal_code": "88372",
+    "address": "15 Innovation Dr, Toronto ON M5S 3H8",
+    "mobile": "+1-796-510-9755",
+    "jn_official": "https://eccv2022.ecva.net",
+    "journal_db_str": "EI/Scopus",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 1200,
+    "cite_nums": 156000,
+    "fund_nums": 21,
+    "paper_nums": 4800,
+    "review_period": "6 weeks",
+    "self_rate": 0.087,
+    "number_of_cites": 0.135,
+    "layout_cost": 1200,
+    "name_abbr": "ECCV",
+    "en_description": "Top European computer vision conference",
+    "language_classify": "英文",
+    "publication_en_name": "European Conference on Computer Vision",
+    "journal_name_zh": "欧洲计算机视觉会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "B"
+    },
+    "paper_url": "https://doi.org/10.1007/ECCV2022.028",
+    "paper_type": "会议论文",
+    "reference_nums": 2,
+    "volume": "62",
+    "issue": "10",
+    "first_page": 900,
+    "last_page": 911,
+    "relevant": [
+      "pap_037",
+      "pap_016",
+      "pap_027"
+    ],
+    "reference_content": "Kim S et al. Advances in deep learning[C/J]. ICML, 2022: 279-287. Kim S et al. Advances in deep learning[C/J]. ACL, 2017: 56-76. Zhang W et al. Advances in deep learning[C/J]. ICML, 2021: 86-104. Brown A et al. Advances in deep learning[C/J]. NeurIPS, 2022: 496-516. Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2022: 55-63. Smith J et al. Advances in deep learning[C/J]. ACL, 2019: 262-281. Brown A et al. Advances in deep learning[C/J]. EMNLP, 2019: 229-242. Wang Y et al. Advances in deep learning[C/J]. ICCV, 2018: 177-185. Wang Y et al. Advances in deep learning[C/J]. NeurIPS, 2020: 213-222.",
+    "citation_content": "Kim S et al. Advances in deep learning[C/J]. ICML, 2018: 179-191. Li X et al. Advances in deep learning[C/J]. ICCV, 2019: 267-282. Li X et al. Advances in deep learning[C/J]. ICCV, 2017: 225-244.",
+    "funds": "European Research Council (ERC) Advanced Grant 1768805",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_028.png",
+    "location": "35.6762,139.6503"
+  },
+  {
+    "paper_id": "pap_029",
+    "doi": "10.1109/ICCV2023.029",
+    "keywords": [
+      "视频目标跟踪",
+      "遮挡处理",
+      "时序建模"
+    ],
+    "impact_factor": 14.963,
+    "reference_ids": [
+      "pap_037",
+      "pap_016",
+      "pap_027"
+    ],
+    "en_name": "视频目标跟踪中的遮挡处理",
+    "en_abstract": "提出遮挡感知跟踪框架，通过时序记忆模块恢复遮挡后的目标状态，在TrackingNet测试集上取得优异结果。",
+    "cover_date_start": "2023-10",
+    "citation_nums": 76,
+    "content": "[Full-text placeholder] Title: 视频目标跟踪中的遮挡处理\n\nAbstract: 提出遮挡感知跟踪框架，通过时序记忆模块恢复遮挡后的目标状态，在TrackingNet测试集上取得优异结果。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_k1l2m3n4",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Linda Johnson"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ICCV",
+    "citation_ids": [
+      "pap_036",
+      "pap_038"
+    ],
+    "publisher": "IEEE",
+    "publisher_id": "pub_ieee",
+    "publication_id": "pub_iccv",
+    "publication_type": "学术会议",
+    "issn": "2380-7504",
+    "eissn": "2885-1370",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "ICCV",
+    "journal_alias": "ICCV",
+    "country": "美国",
+    "organizer": "IEEE",
+    "publisher_place": "美国",
+    "publication_cycle": "两年一届",
+    "chief_editor": "Dr. Michael Brown",
+    "founding_time": "1987",
+    "postal_code": "94930",
+    "address": "100 Academic Ave, Cambridge, MA 02139",
+    "mobile": "+1-893-919-3692",
+    "jn_official": "https://iccv2023.thecvf.com",
+    "journal_db_str": "EI/Scopus",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 1600,
+    "cite_nums": 234000,
+    "fund_nums": 41,
+    "paper_nums": 7100,
+    "review_period": "9 weeks",
+    "self_rate": 0.135,
+    "number_of_cites": 0.38,
+    "layout_cost": 800,
+    "name_abbr": "ICCV",
+    "en_description": "Top computer vision conference",
+    "language_classify": "英文",
+    "publication_en_name": "IEEE/CVF International Conference on Computer Vision",
+    "journal_name_zh": "国际计算机视觉会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.1109/ICCV2023.029",
+    "paper_type": "会议论文",
+    "reference_nums": 3,
+    "volume": "63",
+    "issue": "10",
+    "first_page": 780,
+    "last_page": 792,
+    "relevant": [
+      "pap_036",
+      "pap_038"
+    ],
+    "reference_content": "Zhang W et al. Advances in deep learning[C/J]. EMNLP, 2018: 283-293. Li X et al. Advances in deep learning[C/J]. EMNLP, 2022: 491-506. Zhang W et al. Advances in deep learning[C/J]. IEEE TPAMI, 2022: 323-333. Zhang W et al. Advances in deep learning[C/J]. ICML, 2022: 203-211. Garcia M et al. Advances in deep learning[C/J]. EMNLP, 2019: 231-248. Wang Y et al. Advances in deep learning[C/J]. ICCV, 2016: 361-372. Zhang W et al. Advances in deep learning[C/J]. ACL, 2017: 296-305. Kim S et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 188-201. Zhang W et al. Advances in deep learning[C/J]. ICCV, 2017: 135-153. Kim S et al. Advances in deep learning[C/J]. ICCV, 2021: 306-320.",
+    "citation_content": "Brown A et al. Advances in deep learning[C/J]. NeurIPS, 2021: 181-196. Brown A et al. Advances in deep learning[C/J]. CVPR, 2020: 471-488. Brown A et al. Advances in deep learning[C/J]. NeurIPS, 2018: 161-170. Zhang W et al. Advances in deep learning[C/J]. ACL, 2017: 94-107. Garcia M et al. Advances in deep learning[C/J]. CVPR, 2022: 215-232. Zhang W et al. Advances in deep learning[C/J]. EMNLP, 2022: 217-227.",
+    "funds": "National Natural Science Foundation of China (NSFC) Grant 65855124",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_029.png",
+    "location": "35.6762,139.6503"
+  },
+  {
+    "paper_id": "pap_030",
+    "doi": "10.18653/v1/EMNLP2022.030",
+    "keywords": [
+      "低资源翻译",
+      "数据增强",
+      "回译"
+    ],
+    "impact_factor": 9.834,
+    "reference_ids": [
+      "pap_021"
+    ],
+    "en_name": "低资源神经机器翻译的数据增强策略",
+    "en_abstract": "提出基于回译和词替换的数据增强方法，在低资源语言对上翻译质量提升3-5个BLEU分值。",
+    "cover_date_start": "2022-11",
+    "citation_nums": 134,
+    "content": "[Full-text placeholder] Title: 低资源神经机器翻译的数据增强策略\n\nAbstract: 提出基于回译和词替换的数据增强方法，在低资源语言对上翻译质量提升3-5个BLEU分值。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_l2m3n4o5",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Michael Johnson"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "EMNLP",
+    "citation_ids": [
+      "pap_008",
+      "pap_031"
+    ],
+    "publisher": "ACL Anthology",
+    "publisher_id": "pub_acl",
+    "publication_id": "pub_emnlp",
+    "publication_type": "学术会议",
+    "issn": "3298-4065",
+    "eissn": "6154-8389",
+    "journal_type": "CCF-B顶会",
+    "journal_abbreviation": "EMNLP",
+    "journal_alias": "EMNLP",
+    "country": "美国",
+    "organizer": "ACL",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. Robert Liu",
+    "founding_time": "1996",
+    "postal_code": "17026",
+    "address": "10 Science Park Rd, Oxford OX1 3QD",
+    "mobile": "+1-209-596-3236",
+    "jn_official": "https://2023.emnlp.org",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 1100,
+    "cite_nums": 187000,
+    "fund_nums": 20,
+    "paper_nums": 5800,
+    "review_period": "5 weeks",
+    "self_rate": 0.115,
+    "number_of_cites": 0.24,
+    "layout_cost": 0,
+    "name_abbr": "EMNLP",
+    "en_description": "Top NLP conference focusing on empirical methods",
+    "language_classify": "英文",
+    "publication_en_name": "Conference on Empirical Methods in Natural Language Processing",
+    "journal_name_zh": "自然语言处理经验方法会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "B"
+    },
+    "paper_url": "https://doi.org/10.18653/v1/EMNLP2022.030",
+    "paper_type": "会议论文",
+    "reference_nums": 1,
+    "volume": "62",
+    "issue": "11",
+    "first_page": 685,
+    "last_page": 698,
+    "relevant": [
+      "pap_008",
+      "pap_031"
+    ],
+    "reference_content": "Kim S et al. Advances in deep learning[C/J]. ICCV, 2023: 210-228. Wang Y et al. Advances in deep learning[C/J]. ICCV, 2023: 251-261. Smith J et al. Advances in deep learning[C/J]. EMNLP, 2016: 408-428. Zhang W et al. Advances in deep learning[C/J]. ACL, 2016: 141-152. Brown A et al. Advances in deep learning[C/J]. ACL, 2018: 400-415. Brown A et al. Advances in deep learning[C/J]. ICML, 2023: 282-298.",
+    "citation_content": "Brown A et al. Advances in deep learning[C/J]. NeurIPS, 2020: 397-413. Kim S et al. Advances in deep learning[C/J]. ACL, 2016: 390-409. Wang Y et al. Advances in deep learning[C/J]. EMNLP, 2019: 218-227.",
+    "funds": "European Research Council (ERC) Advanced Grant 4905582",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_030.png",
+    "location": "40.4433,-79.9436"
+  },
+  {
+    "paper_id": "pap_031",
+    "doi": "10.5555/NeurIPS2023.031",
+    "keywords": [
+      "多语言模型",
+      "跨语言迁移",
+      "语言无关表示"
+    ],
+    "impact_factor": 7.577,
+    "reference_ids": [
+      "pap_021",
+      "pap_030",
+      "pap_008"
+    ],
+    "en_name": "多语言预训练模型的语言中立表示",
+    "en_abstract": "提出语言去偏训练目标，引导多语言模型学习语言无关的语义表示，提升零样本跨语言迁移能力。",
+    "cover_date_start": "2023-12",
+    "citation_nums": 156,
+    "content": "[Full-text placeholder] Title: 多语言预训练模型的语言中立表示\n\nAbstract: 提出语言去偏训练目标，引导多语言模型学习语言无关的语义表示，提升零样本跨语言迁移能力。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_l2m3n4o5",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Xin Johnson"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "NeurIPS",
+    "citation_ids": [
+      "pap_3719",
+      "pap_3281",
+      "pap_4385",
+      "pap_4390",
+      "pap_1972",
+      "pap_6747",
+      "pap_9720",
+      "pap_5605",
+      "pap_9827",
+      "pap_3758"
+    ],
+    "publisher": "NeurIPS Foundation",
+    "publisher_id": "pub_neurips",
+    "publication_id": "pub_neurips",
+    "publication_type": "学术会议",
+    "issn": "1049-5258",
+    "eissn": "2425-8193",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "NeurIPS",
+    "journal_alias": "NIPS",
+    "country": "美国",
+    "organizer": "NeurIPS Foundation",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. James Wilson",
+    "founding_time": "1987",
+    "postal_code": "41056",
+    "address": "1 Research Blvd, Stanford, CA 94305",
+    "mobile": "+1-955-702-6744",
+    "jn_official": "https://neurips.cc",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 3000,
+    "cite_nums": 523000,
+    "fund_nums": 28,
+    "paper_nums": 15200,
+    "review_period": "10 weeks",
+    "self_rate": 0.124,
+    "number_of_cites": 0.396,
+    "layout_cost": 2000,
+    "name_abbr": "NeurIPS",
+    "en_description": "World-leading AI/ML conference",
+    "language_classify": "英文",
+    "publication_en_name": "Advances in Neural Information Processing Systems",
+    "journal_name_zh": "神经信息处理系统大会",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.5555/NeurIPS2023.031",
+    "paper_type": "会议论文",
+    "reference_nums": 3,
+    "volume": "63",
+    "issue": "12",
+    "first_page": 210,
+    "last_page": 227,
+    "relevant": [
+      "pap_6869",
+      "pap_2037",
+      "pap_9756",
+      "pap_7516",
+      "pap_4568"
+    ],
+    "reference_content": "Garcia M et al. Advances in deep learning[C/J]. ACL, 2020: 294-306. Kim S et al. Advances in deep learning[C/J]. EMNLP, 2017: 70-90. Kim S et al. Advances in deep learning[C/J]. ICCV, 2016: 142-160. Zhang W et al. Advances in deep learning[C/J]. ICML, 2018: 128-138. Garcia M et al. Advances in deep learning[C/J]. ACL, 2019: 390-408. Wang Y et al. Advances in deep learning[C/J]. ICCV, 2018: 296-314. Li X et al. Advances in deep learning[C/J]. ICML, 2022: 193-208.",
+    "citation_content": "Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2017: 207-223. Garcia M et al. Advances in deep learning[C/J]. ACL, 2021: 233-248. Li X et al. Advances in deep learning[C/J]. EMNLP, 2016: 445-465.",
+    "funds": "European Research Council (ERC) Advanced Grant 7377459",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_031.png",
+    "location": "37.4275,-122.1697"
+  },
+  {
+    "paper_id": "pap_032",
+    "doi": "10.1109/CVPR2023.032",
+    "keywords": [
+      "传感器融合",
+      "BEV感知",
+      "自动驾驶"
+    ],
+    "impact_factor": 7.166,
+    "reference_ids": [
+      "pap_005",
+      "pap_011"
+    ],
+    "en_name": "BEV视角下的多传感器融合感知",
+    "en_abstract": "设计统一BEV（鸟瞰图）坐标系下的相机-激光雷达融合框架，在nuScenes基准上大幅提升3D检测精度。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 287,
+    "content": "[Full-text placeholder] Title: BEV视角下的多传感器融合感知\n\nAbstract: 设计统一BEV（鸟瞰图）坐标系下的相机-激光雷达融合框架，在nuScenes基准上大幅提升3D检测精度。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "计算机视觉",
+    "authors": [
+      {
+        "id": "sch_m3n4o5p6",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Emily Chen"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "CVPR",
+    "citation_ids": [
+      "pap_034",
+      "pap_033"
+    ],
+    "publisher": "IEEE",
+    "publisher_id": "pub_ieee",
+    "publication_id": "pub_cvpr",
+    "publication_type": "学术会议",
+    "issn": "2575-7075",
+    "eissn": "5646-6533",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "CVPR",
+    "journal_alias": "IEEE CVPR",
+    "country": "美国",
+    "organizer": "IEEE",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. Robert Liu",
+    "founding_time": "1983",
+    "postal_code": "85750",
+    "address": "445 Hoes Lane, Piscataway, NJ 08854",
+    "mobile": "+1-333-679-8951",
+    "jn_official": "https://cvpr.thecvf.com",
+    "journal_db_str": "EI/Scopus",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 2000,
+    "cite_nums": 312000,
+    "fund_nums": 31,
+    "paper_nums": 9800,
+    "review_period": "6 weeks",
+    "self_rate": 0.073,
+    "number_of_cites": 0.11,
+    "layout_cost": 1500,
+    "name_abbr": "CVPR",
+    "en_description": "Top venue for computer vision research",
+    "language_classify": "英文",
+    "publication_en_name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "journal_name_zh": "计算机视觉与模式识别会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.1109/CVPR2023.032",
+    "paper_type": "会议论文",
+    "reference_nums": 2,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 490,
+    "last_page": 504,
+    "relevant": [
+      "pap_034",
+      "pap_033"
+    ],
+    "reference_content": "Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2016: 24-33. Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2023: 9-18. Kim S et al. Advances in deep learning[C/J]. CVPR, 2023: 234-242. Wang Y et al. Advances in deep learning[C/J]. CVPR, 2018: 452-470. Li X et al. Advances in deep learning[C/J]. CVPR, 2020: 48-66. Li X et al. Advances in deep learning[C/J]. ACL, 2017: 191-209. Garcia M et al. Advances in deep learning[C/J]. CVPR, 2016: 203-221.",
+    "citation_content": "Garcia M et al. Advances in deep learning[C/J]. ICML, 2019: 220-238. Smith J et al. Advances in deep learning[C/J]. ICML, 2017: 1-12. Wang Y et al. Advances in deep learning[C/J]. NeurIPS, 2018: 304-315. Brown A et al. Advances in deep learning[C/J]. ICML, 2023: 5-13. Garcia M et al. Advances in deep learning[C/J]. ACL, 2017: 441-455.",
+    "funds": "Deutsche Forschungsgemeinschaft (DFG) Project 8606962",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_032.png",
+    "location": "51.7548,-1.2544"
+  },
+  {
+    "paper_id": "pap_033",
+    "doi": "10.1234/ICLR2024.033",
+    "keywords": [
+      "占用预测",
+      "运动规划",
+      "端到端驾驶"
+    ],
+    "impact_factor": 3.429,
+    "reference_ids": [
+      "pap_011",
+      "pap_032",
+      "pap_034"
+    ],
+    "en_name": "基于占用网格预测的自动驾驶规划",
+    "en_abstract": "将未来占用网格预测与运动规划联合优化，提升自动驾驶系统在拥堵场景下的安全性。",
+    "cover_date_start": "2024-05",
+    "citation_nums": 198,
+    "content": "[Full-text placeholder] Title: 基于占用网格预测的自动驾驶规划\n\nAbstract: 将未来占用网格预测与运动规划联合优化，提升自动驾驶系统在拥堵场景下的安全性。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_m3n4o5p6",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Michael Brown"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ICLR",
+    "citation_ids": [
+      "pap_2120",
+      "pap_9691",
+      "pap_1138",
+      "pap_3688",
+      "pap_8210",
+      "pap_6753"
+    ],
+    "publisher": "OpenReview",
+    "publisher_id": "pub_openreview",
+    "publication_id": "pub_iclr",
+    "publication_type": "学术会议",
+    "issn": "2678-2690",
+    "eissn": "6133-7022",
+    "journal_type": "CCF未评/顶会",
+    "journal_abbreviation": "ICLR",
+    "journal_alias": "ICLR",
+    "country": "美国",
+    "organizer": "ICLR",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. Michael Brown",
+    "founding_time": "2013",
+    "postal_code": "27973",
+    "address": "15 Innovation Dr, Toronto ON M5S 3H8",
+    "mobile": "+1-992-932-3181",
+    "jn_official": "https://iclr.cc",
+    "journal_db_str": "Scopus/DBLP",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 2500,
+    "cite_nums": 412000,
+    "fund_nums": 17,
+    "paper_nums": 12000,
+    "review_period": "10 weeks",
+    "self_rate": 0.038,
+    "number_of_cites": 0.097,
+    "layout_cost": 1200,
+    "name_abbr": "ICLR",
+    "en_description": "Top deep learning conference",
+    "language_classify": "英文",
+    "publication_en_name": "International Conference on Learning Representations",
+    "journal_name_zh": "国际学习表征会议",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A类(未评)"
+    },
+    "paper_url": "https://doi.org/10.1234/ICLR2024.033",
+    "paper_type": "会议论文",
+    "reference_nums": 3,
+    "volume": "64",
+    "issue": "5",
+    "first_page": 820,
+    "last_page": 838,
+    "relevant": [
+      "pap_2106",
+      "pap_1225"
+    ],
+    "reference_content": "Zhang W et al. Advances in deep learning[C/J]. ICML, 2018: 471-485. Brown A et al. Advances in deep learning[C/J]. ICML, 2023: 441-452. Smith J et al. Advances in deep learning[C/J]. NeurIPS, 2018: 386-395. Brown A et al. Advances in deep learning[C/J]. ICML, 2022: 180-194. Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 127-139. Garcia M et al. Advances in deep learning[C/J]. NeurIPS, 2019: 284-301. Brown A et al. Advances in deep learning[C/J]. ICML, 2020: 399-418. Smith J et al. Advances in deep learning[C/J]. IEEE TPAMI, 2020: 106-122. Brown A et al. Advances in deep learning[C/J]. EMNLP, 2019: 383-397. Li X et al. Advances in deep learning[C/J]. ICML, 2016: 402-422.",
+    "citation_content": "Wang Y et al. Advances in deep learning[C/J]. ICCV, 2017: 124-139. Garcia M et al. Advances in deep learning[C/J]. EMNLP, 2017: 271-279. Li X et al. Advances in deep learning[C/J]. ACL, 2018: 199-216. Wang Y et al. Advances in deep learning[C/J]. ACL, 2018: 391-406.",
+    "funds": "UK Research and Innovation (UKRI) Grant EP/3728882",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_033.png",
+    "location": "37.4275,-122.1697"
+  },
+  {
+    "paper_id": "pap_034",
+    "doi": "10.1109/TIV2023.034",
+    "keywords": [
+      "毫米波雷达",
+      "4D感知",
+      "动态障碍物"
+    ],
+    "impact_factor": 2.968,
+    "reference_ids": [
+      "pap_005",
+      "pap_011",
+      "pap_032"
+    ],
+    "en_name": "4D毫米波雷达在自动驾驶中的应用",
+    "en_abstract": "利用4D毫米波雷达速度维度信息进行动态障碍物检测，为全天候感知方案提供补充。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 145,
+    "content": "[Full-text placeholder] Title: 4D毫米波雷达在自动驾驶中的应用\n\nAbstract: 利用4D毫米波雷达速度维度信息进行动态障碍物检测，为全天候感知方案提供补充。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "智能车辆与自动驾驶",
+    "authors": [
+      {
+        "id": "sch_m3n4o5p6",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Hao Wang"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "IEEE T-IV",
+    "citation_ids": [
+      "pap_033"
+    ],
+    "publisher": "IEEE",
+    "publisher_id": "pub_ieee",
+    "publication_id": "pub_tiv",
+    "publication_type": "学术期刊",
+    "issn": "2379-8858",
+    "eissn": "7520-9300",
+    "journal_type": "SCI期刊",
+    "journal_abbreviation": "T-IV",
+    "journal_alias": "IEEE T-IV",
+    "country": "美国",
+    "organizer": "IEEE",
+    "publisher_place": "美国",
+    "publication_cycle": "季刊",
+    "chief_editor": "Dr. Michael Brown",
+    "founding_time": "2016",
+    "postal_code": "92388",
+    "address": "445 Hoes Lane, Piscataway, NJ 08854",
+    "mobile": "+1-929-613-7806",
+    "jn_official": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857",
+    "journal_db_str": "SCI/EI/Scopus",
+    "open_access": false,
+    "scope": "工程科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 80,
+    "cite_nums": 34000,
+    "fund_nums": 22,
+    "paper_nums": 1100,
+    "review_period": 50,
+    "self_rate": 0.04,
+    "number_of_cites": 0.214,
+    "layout_cost": 800,
+    "name_abbr": "T-IV",
+    "en_description": "Journal focused on intelligent vehicle technology",
+    "language_classify": "英文",
+    "publication_en_name": "IEEE Transactions on Intelligent Vehicles",
+    "journal_name_zh": "IEEE智能交通系统汇刊",
+    "partition": {
+      "source": "SCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.1109/TIV2023.034",
+    "paper_type": "期刊论文",
+    "reference_nums": 3,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 285,
+    "last_page": 300,
+    "relevant": [
+      "pap_033"
+    ],
+    "reference_content": "Garcia M et al. Advances in deep learning[C/J]. ICCV, 2017: 328-344. Brown A et al. Advances in deep learning[C/J]. EMNLP, 2018: 143-152. Li X et al. Advances in deep learning[C/J]. NeurIPS, 2019: 499-519. Zhang W et al. Advances in deep learning[C/J]. EMNLP, 2021: 201-218. Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2017: 159-178. Wang Y et al. Advances in deep learning[C/J]. ICML, 2019: 30-41. Smith J et al. Advances in deep learning[C/J]. ICCV, 2017: 233-250. Brown A et al. Advances in deep learning[C/J]. NeurIPS, 2020: 342-361.",
+    "citation_content": "Smith J et al. Advances in deep learning[C/J]. NeurIPS, 2018: 360-368. Zhang W et al. Advances in deep learning[C/J]. ICCV, 2021: 268-284. Kim S et al. Advances in deep learning[C/J]. IEEE TPAMI, 2020: 86-99. Zhang W et al. Advances in deep learning[C/J]. ICML, 2020: 376-385.",
+    "funds": "UK Research and Innovation (UKRI) Grant EP/6960453",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_034.png",
+    "location": "42.3601,-71.0942"
+  },
+  {
+    "paper_id": "pap_035",
+    "doi": "10.5555/ICML2023.035",
+    "keywords": [
+      "可解释AI",
+      "反事实解释",
+      "公平性"
+    ],
+    "impact_factor": 14.914,
+    "reference_ids": [
+      "pap_014"
+    ],
+    "en_name": "分类器决策的反事实解释生成",
+    "en_abstract": "提出基于概率生成模型的反事实解释方法，生成最小特征扰动解释，提升模型决策透明度。",
+    "cover_date_start": "2023-07",
+    "citation_nums": 87,
+    "content": "[Full-text placeholder] Title: 分类器决策的反事实解释生成\n\nAbstract: 提出基于概率生成模型的反事实解释方法，生成最小特征扰动解释，提升模型决策透明度。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "CCF-A/顶会",
+    "authors": [
+      {
+        "id": "sch_n4o5p6q7",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Xin Kim"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "ICML",
+    "citation_ids": [
+      "pap_1908",
+      "pap_9185",
+      "pap_3734",
+      "pap_7024",
+      "pap_3577",
+      "pap_5179",
+      "pap_2685",
+      "pap_2889",
+      "pap_4742"
+    ],
+    "publisher": "PMLR",
+    "publisher_id": "pub_pmlr",
+    "publication_id": "pub_icml",
+    "publication_type": "学术会议",
+    "issn": "2640-3498",
+    "eissn": "5456-9582",
+    "journal_type": "CCF-A顶会",
+    "journal_abbreviation": "ICML",
+    "journal_alias": "ICML",
+    "country": "美国",
+    "organizer": "IMLS",
+    "publisher_place": "美国",
+    "publication_cycle": "年刊",
+    "chief_editor": "Dr. James Wilson",
+    "founding_time": "1980",
+    "postal_code": "44465",
+    "address": "100 Academic Ave, Cambridge, MA 02139",
+    "mobile": "+1-708-566-9368",
+    "jn_official": "https://icml.cc",
+    "journal_db_str": "EI/Scopus/DBLP",
+    "open_access": true,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 2200,
+    "cite_nums": 389000,
+    "fund_nums": 14,
+    "paper_nums": 11200,
+    "review_period": "20 weeks",
+    "self_rate": 0.217,
+    "number_of_cites": 0.178,
+    "layout_cost": 1500,
+    "name_abbr": "ICML",
+    "en_description": "Premier machine learning conference",
+    "language_classify": "英文",
+    "publication_en_name": "International Conference on Machine Learning",
+    "journal_name_zh": "国际机器学习大会",
+    "partition": {
+      "source": "CCF",
+      "subject_level": "人工智能",
+      "partition": "A"
+    },
+    "paper_url": "https://doi.org/10.5555/ICML2023.035",
+    "paper_type": "会议论文",
+    "reference_nums": 1,
+    "volume": "63",
+    "issue": "7",
+    "first_page": 985,
+    "last_page": 995,
+    "relevant": [
+      "pap_1023",
+      "pap_7164",
+      "pap_6038",
+      "pap_2703"
+    ],
+    "reference_content": "Brown A et al. Advances in deep learning[C/J]. NeurIPS, 2016: 440-448. Zhang W et al. Advances in deep learning[C/J]. NeurIPS, 2023: 187-201. Zhang W et al. Advances in deep learning[C/J]. CVPR, 2016: 284-304. Garcia M et al. Advances in deep learning[C/J]. ICML, 2022: 115-128. Zhang W et al. Advances in deep learning[C/J]. ICCV, 2021: 139-148. Brown A et al. Advances in deep learning[C/J]. ACL, 2017: 258-276. Smith J et al. Advances in deep learning[C/J]. CVPR, 2019: 412-428. Smith J et al. Advances in deep learning[C/J]. ICCV, 2017: 450-465. Kim S et al. Advances in deep learning[C/J]. ACL, 2020: 168-177. Brown A et al. Advances in deep learning[C/J]. ICCV, 2016: 189-200.",
+    "citation_content": "Brown A et al. Advances in deep learning[C/J]. IEEE TPAMI, 2020: 379-396. Zhang W et al. Advances in deep learning[C/J]. ICCV, 2021: 303-318. Kim S et al. Advances in deep learning[C/J]. IEEE TPAMI, 2019: 376-392. Kim S et al. Advances in deep learning[C/J]. IEEE TPAMI, 2019: 78-86. Wang Y et al. Advances in deep learning[C/J]. NeurIPS, 2019: 278-291.",
+    "funds": "National Natural Science Foundation of China (NSFC) Grant 65479144",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_035.png",
+    "location": "42.3601,-71.0942"
+  },
+  {
+    "paper_id": "pap_036",
+    "doi": "10.1109/TPAMI2023.036",
+    "keywords": [
+      "因果推断",
+      "因果发现",
+      "综述"
+    ],
+    "impact_factor": 8.717,
+    "reference_ids": [
+      "pap_016",
+      "pap_027",
+      "pap_029"
+    ],
+    "en_name": "机器学习中的因果发现算法综述",
+    "en_abstract": "系统比较PC、GES、LiNGAM等主流因果发现算法，分析其在高维数据场景下的适用性与局限性。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 112,
+    "content": "[Full-text placeholder] Title: 机器学习中的因果发现算法综述\n\nAbstract: 系统比较PC、GES、LiNGAM等主流因果发现算法，分析其在高维数据场景下的适用性与局限性。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "模式识别与机器学习",
+    "authors": [
+      {
+        "id": "sch_n4o5p6q7",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Yang White"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "IEEE TPAMI",
+    "citation_ids": [
+      "pap_038"
+    ],
+    "publisher": "IEEE",
+    "publisher_id": "pub_ieee",
+    "publication_id": "pub_tpami",
+    "publication_type": "学术期刊",
+    "issn": "0162-8828",
+    "eissn": "1939-3539",
+    "journal_type": "SCI期刊",
+    "journal_abbreviation": "TPAMI",
+    "journal_alias": "PAMI",
+    "country": "美国",
+    "organizer": "IEEE",
+    "publisher_place": "美国",
+    "publication_cycle": "月刊",
+    "chief_editor": "Dr. James Wilson",
+    "founding_time": "1979",
+    "postal_code": "28661",
+    "address": "445 Hoes Lane, Piscataway, NJ 08854",
+    "mobile": "+1-928-386-2524",
+    "jn_official": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34",
+    "journal_db_str": "SCI/EI/Scopus",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": true,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 180,
+    "cite_nums": 312000,
+    "fund_nums": 6,
+    "paper_nums": 9100,
+    "review_period": 90,
+    "self_rate": 0.03,
+    "number_of_cites": 0.388,
+    "layout_cost": 0,
+    "name_abbr": "TPAMI",
+    "en_description": "Flagship IEEE journal for pattern recognition and machine learning",
+    "language_classify": "英文",
+    "publication_en_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "journal_name_zh": "IEEE模式分析与机器智能汇刊",
+    "partition": {
+      "source": "SCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.1109/TPAMI2023.036",
+    "paper_type": "期刊论文",
+    "reference_nums": 3,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 295,
+    "last_page": 305,
+    "relevant": [
+      "pap_038"
+    ],
+    "reference_content": "Zhang W et al. Advances in deep learning[C/J]. IEEE TPAMI, 2022: 359-372. Wang Y et al. Advances in deep learning[C/J]. ICML, 2017: 298-307. Brown A et al. Advances in deep learning[C/J]. CVPR, 2022: 39-56. Brown A et al. Advances in deep learning[C/J]. NeurIPS, 2022: 340-350. Zhang W et al. Advances in deep learning[C/J]. ACL, 2020: 436-449.",
+    "citation_content": "Garcia M et al. Advances in deep learning[C/J]. IEEE TPAMI, 2021: 163-178. Li X et al. Advances in deep learning[C/J]. CVPR, 2017: 484-495. Zhang W et al. Advances in deep learning[C/J]. IEEE TPAMI, 2017: 80-89. Zhang W et al. Advances in deep learning[C/J]. ICCV, 2023: 161-175. Smith J et al. Advances in deep learning[C/J]. EMNLP, 2021: 494-514. Zhang W et al. Advances in deep learning[C/J]. ICCV, 2020: 238-250.",
+    "funds": "European Research Council (ERC) Advanced Grant 3871230",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_036.png",
+    "location": "37.4275,-122.1697"
+  },
+  {
+    "paper_id": "pap_037",
+    "doi": "10.1109/TII2022.037",
+    "keywords": [
+      "多变量时序",
+      "时序预测",
+      "工业应用"
+    ],
+    "impact_factor": 4.522,
+    "reference_ids": [
+      "pap_009",
+      "pap_026",
+      "pap_028"
+    ],
+    "en_name": "工业设备的多变量时序预测框架",
+    "en_abstract": "提出跨变量注意力机制建模工业传感器间的复杂依赖关系，实现高精度多步时序预测。",
+    "cover_date_start": "2022-01",
+    "citation_nums": 132,
+    "content": "[Full-text placeholder] Title: 工业设备的多变量时序预测框架\n\nAbstract: 提出跨变量注意力机制建模工业传感器间的复杂依赖关系，实现高精度多步时序预测。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "工业信息学",
+    "authors": [
+      {
+        "id": "sch_o5p6q7r8",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Emily Wang"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "IEEE TII",
+    "citation_ids": [
+      "pap_016",
+      "pap_027",
+      "pap_029"
+    ],
+    "publisher": "IEEE",
+    "publisher_id": "pub_ieee",
+    "publication_id": "pub_tii",
+    "publication_type": "学术期刊",
+    "issn": "1551-3203",
+    "eissn": "1941-0050",
+    "journal_type": "SCI期刊",
+    "journal_abbreviation": "TII",
+    "journal_alias": "IEEE TII",
+    "country": "美国",
+    "organizer": "IEEE",
+    "publisher_place": "美国",
+    "publication_cycle": "月刊",
+    "chief_editor": "Dr. Michael Brown",
+    "founding_time": "2005",
+    "postal_code": "89076",
+    "address": "445 Hoes Lane, Piscataway, NJ 08854",
+    "mobile": "+1-241-320-6370",
+    "jn_official": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424",
+    "journal_db_str": "SCI/EI/Scopus",
+    "open_access": false,
+    "scope": "工程科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 240,
+    "cite_nums": 87000,
+    "fund_nums": 44,
+    "paper_nums": 2800,
+    "review_period": 45,
+    "self_rate": 0.05,
+    "number_of_cites": 0.195,
+    "layout_cost": 2500,
+    "name_abbr": "TII",
+    "en_description": "Key journal for industrial informatics and IoT",
+    "language_classify": "英文",
+    "publication_en_name": "IEEE Transactions on Industrial Informatics",
+    "journal_name_zh": "IEEE工业信息学汇刊",
+    "partition": {
+      "source": "SCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.1109/TII2022.037",
+    "paper_type": "期刊论文",
+    "reference_nums": 3,
+    "volume": "62",
+    "issue": "1",
+    "first_page": 405,
+    "last_page": 421,
+    "relevant": [
+      "pap_016",
+      "pap_027",
+      "pap_029"
+    ],
+    "reference_content": "Smith J et al. Advances in deep learning[C/J]. ICML, 2019: 496-509. Wang Y et al. Advances in deep learning[C/J]. EMNLP, 2016: 347-359. Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 16-30. Kim S et al. Advances in deep learning[C/J]. ICCV, 2019: 49-64. Smith J et al. Advances in deep learning[C/J]. IEEE TPAMI, 2018: 63-71. Smith J et al. Advances in deep learning[C/J]. IEEE TPAMI, 2019: 67-78.",
+    "citation_content": "Li X et al. Advances in deep learning[C/J]. ICML, 2017: 299-316. Li X et al. Advances in deep learning[C/J]. IEEE TPAMI, 2017: 12-21. Zhang W et al. Advances in deep learning[C/J]. ICML, 2023: 415-425. Smith J et al. Advances in deep learning[C/J]. IEEE TPAMI, 2021: 63-71. Wang Y et al. Advances in deep learning[C/J]. NeurIPS, 2018: 474-491. Wang Y et al. Advances in deep learning[C/J]. IEEE TPAMI, 2022: 255-263.",
+    "funds": "Google Research Award 5107245",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_037.png",
+    "location": "52.5200,13.4050"
+  },
+  {
+    "paper_id": "pap_038",
+    "doi": "10.1016/JMS2023.038",
+    "keywords": [
+      "数字孪生",
+      "智能制造",
+      "故障诊断"
+    ],
+    "impact_factor": 8.827,
+    "reference_ids": [
+      "pap_027",
+      "pap_029",
+      "pap_036"
+    ],
+    "en_name": "基于数字孪生的智能工厂异常诊断",
+    "en_abstract": "构建物理工厂的数字孪生仿真模型，结合深度学习实现设备故障的早期预警与根因定位。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 98,
+    "content": "[Full-text placeholder] Title: 基于数字孪生的智能工厂异常诊断\n\nAbstract: 构建物理工厂的数字孪生仿真模型，结合深度学习实现设备故障的早期预警与根因定位。\n\n(Full text to be provided by literature database. This is simulated placeholder data.)",
+    "scope_zone": "制造系统与工业工程",
+    "authors": [
+      {
+        "id": "sch_o5p6q7r8",
+        "role": "第一作者、通讯作者",
+        "personinfo": {
+          "englishFullName": "Yang Smith"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_en": "Journal of Manufacturing Systems",
+    "citation_ids": [
+      "pap_5835",
+      "pap_9173",
+      "pap_7750",
+      "pap_8848",
+      "pap_1999",
+      "pap_2437",
+      "pap_5583"
+    ],
+    "publisher": "Elsevier",
+    "publisher_id": "pub_elsevier",
+    "publication_id": "pub_jms",
+    "publication_type": "学术期刊",
+    "issn": "0278-6125",
+    "eissn": "6799-4517",
+    "journal_type": "SCI期刊",
+    "journal_abbreviation": "JMS",
+    "journal_alias": "J. Manuf. Syst.",
+    "country": "美国",
+    "organizer": "SME",
+    "publisher_place": "美国",
+    "publication_cycle": "季刊",
+    "chief_editor": "Prof. Emily Chen",
+    "founding_time": "1982",
+    "postal_code": "46042",
+    "address": "10 Science Park Rd, Oxford OX1 3QD",
+    "mobile": "+1-656-252-1567",
+    "jn_official": "https://www.sciencedirect.com/journal/journal-of-manufacturing-systems",
+    "journal_db_str": "SCI/EI/Scopus",
+    "open_access": false,
+    "scope": "工程科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q1",
+    "review": false,
+    "annual_publication": 120,
+    "cite_nums": 43000,
+    "fund_nums": 20,
+    "paper_nums": 1400,
+    "review_period": 45,
+    "self_rate": 0.06,
+    "number_of_cites": 0.165,
+    "layout_cost": 2000,
+    "name_abbr": "JMS",
+    "en_description": "Leading journal in manufacturing systems research",
+    "language_classify": "英文",
+    "publication_en_name": "Journal of Manufacturing Systems",
+    "journal_name_zh": "制造系统学报",
+    "partition": {
+      "source": "SCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.1016/JMS2023.038",
+    "paper_type": "期刊论文",
+    "reference_nums": 3,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 345,
+    "last_page": 356,
+    "relevant": [
+      "pap_4084",
+      "pap_9064",
+      "pap_9882"
+    ],
+    "reference_content": "Zhang W et al. Advances in deep learning[C/J]. ICCV, 2019: 330-350. Brown A et al. Advances in deep learning[C/J]. CVPR, 2016: 196-216. Garcia M et al. Advances in deep learning[C/J]. ACL, 2023: 279-299. Wang Y et al. Advances in deep learning[C/J]. ACL, 2021: 199-211. Zhang W et al. Advances in deep learning[C/J]. NeurIPS, 2021: 306-317. Smith J et al. Advances in deep learning[C/J]. IEEE TPAMI, 2020: 30-50. Wang Y et al. Advances in deep learning[C/J]. EMNLP, 2021: 393-410. Zhang W et al. Advances in deep learning[C/J]. CVPR, 2017: 127-145.",
+    "citation_content": "Li X et al. Advances in deep learning[C/J]. EMNLP, 2016: 392-403. Brown A et al. Advances in deep learning[C/J]. IEEE TPAMI, 2022: 182-192. Zhang W et al. Advances in deep learning[C/J]. CVPR, 2021: 413-432. Garcia M et al. Advances in deep learning[C/J]. ACL, 2016: 361-380.",
+    "funds": "Natural Sciences and Engineering Research Council (NSERC) Grant RGPIN-8755439",
+    "graphical_abstract": "https://papers.example.com/graphical/pap_038.png",
+    "location": "48.8566,2.3522"
+  }
+]

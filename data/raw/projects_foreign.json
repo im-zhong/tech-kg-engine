@@ -1,0 +1,224 @@
+[
+  {
+    "project_id": "proj_f001",
+    "title": "Cross-lingual Knowledge Graph Construction for Scientific Literature",
+    "project_source": "NIH研究基金",
+    "funded_institution": "National Institutes of Health (NIH)",
+    "funded_amount": 450000,
+    "approval_time": "2022-09-01",
+    "project_host": "张伟",
+    "project_level": "国家级/国际级",
+    "project_domain": "知识图谱与语义技术",
+    "research_period": 36,
+    "keywords": [
+      "跨语言",
+      "知识图谱",
+      "科技文献"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_a1b2c3d4",
+        "name": "张伟",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_b2c3d4e5",
+        "name": "李娜",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级NIH研究基金，依托麻省理工学院，围绕知识图谱与语义技术领域开展研究，资助金额 450000 USD，项目周期 36 个月，旨在Cross-lingual Knowledge Graph Construction for Scientific Literature。",
+    "paper_ids": [
+      "pap_cn_001",
+      "pap_cn_009",
+      "pap_001",
+      "pap_002",
+      "pap_003",
+      "pap_004",
+      "pap_005",
+      "pap_cn_002"
+    ],
+    "patent_ids": [
+      "pat_001",
+      "pat_002",
+      "pat_003",
+      "pat_004",
+      "pat_005"
+    ]
+  },
+  {
+    "project_id": "proj_f002",
+    "title": "Privacy-Preserving Federated Learning for Healthcare AI",
+    "project_source": "英国工程和物理科学研究委员会",
+    "funded_institution": "Engineering and Physical Sciences Research Council (EPSRC)",
+    "funded_amount": 380000,
+    "approval_time": "2022-01-01",
+    "project_host": "赵晓明",
+    "project_level": "国家级",
+    "project_domain": "隐私计算与数据安全",
+    "research_period": 36,
+    "keywords": [
+      "联邦学习",
+      "隐私保护",
+      "医疗AI"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_f6g7h8i9",
+        "name": "赵晓明",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_g7h8i9j0",
+        "name": "孙丽",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级英国工程和物理科学研究委员会，依托牛津大学，围绕隐私计算与数据安全领域开展研究，资助金额 380000 GBP，项目周期 36 个月，旨在Privacy-Preserving Federated Learning for Healthcare AI。",
+    "paper_ids": [
+      "pap_cn_003",
+      "pap_cn_010",
+      "pap_cn_012",
+      "pap_006",
+      "pap_017",
+      "pap_018",
+      "pap_001",
+      "pap_019"
+    ],
+    "patent_ids": [
+      "pat_012",
+      "pat_013",
+      "pat_001",
+      "pat_014"
+    ]
+  },
+  {
+    "project_id": "proj_f003",
+    "title": "Multilingual Speech and Language Understanding at Scale",
+    "project_source": "美国国家科学基金会",
+    "funded_institution": "National Science Foundation (NSF)",
+    "funded_amount": 600000,
+    "approval_time": "2022-07-01",
+    "project_host": "周建国",
+    "project_level": "国家级",
+    "project_domain": "语音语言处理",
+    "research_period": 36,
+    "keywords": [
+      "多语言",
+      "语音理解",
+      "大规模预训练"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_h8i9j0k1",
+        "name": "周建国",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_l2m3n4o5",
+        "name": "黄敏",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级美国国家科学基金会，依托斯坦福大学，围绕语音语言处理领域开展研究，资助金额 600000 USD，项目周期 36 个月，旨在Multilingual Speech and Language Understanding at Scale。",
+    "paper_ids": [
+      "pap_007",
+      "pap_021",
+      "pap_022",
+      "pap_023",
+      "pap_cn_007",
+      "pap_008",
+      "pap_030",
+      "pap_031"
+    ],
+    "patent_ids": [
+      "pat_015",
+      "pat_016",
+      "pat_017",
+      "pat_004",
+      "pat_022"
+    ]
+  },
+  {
+    "project_id": "proj_f004",
+    "title": "Autonomous Driving Perception with Robust Sensor Fusion",
+    "project_source": "欧洲研究理事会高级资助",
+    "funded_institution": "European Research Council (ERC)",
+    "funded_amount": 2500000,
+    "approval_time": "2023-01-01",
+    "project_host": "徐强",
+    "project_level": "国家级",
+    "project_domain": "自动驾驶与智能感知",
+    "research_period": 60,
+    "keywords": [
+      "自动驾驶",
+      "传感器融合",
+      "鲁棒感知"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_m3n4o5p6",
+        "name": "徐强",
+        "role": "负责人"
+      }
+    ],
+    "abstract": "本项目为国家级欧洲研究理事会高级资助，依托麻省理工学院，围绕自动驾驶与智能感知领域开展研究，资助金额 2500000 EUR，项目周期 60 个月，旨在Autonomous Driving Perception with Robust Sensor Fusion。",
+    "paper_ids": [
+      "pap_cn_008",
+      "pap_011",
+      "pap_032",
+      "pap_033",
+      "pap_034"
+    ],
+    "patent_ids": [
+      "pat_023",
+      "pat_024",
+      "pat_025"
+    ]
+  },
+  {
+    "project_id": "proj_f005",
+    "title": "Causal Inference Methods for Trustworthy Machine Learning",
+    "project_source": "美国国家科学基金会",
+    "funded_institution": "National Science Foundation (NSF)",
+    "funded_amount": 550000,
+    "approval_time": "2023-09-01",
+    "project_host": "马红",
+    "project_level": "国家级",
+    "project_domain": "人工智能与机器学习",
+    "research_period": 36,
+    "keywords": [
+      "因果推断",
+      "可信机器学习",
+      "可解释AI"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_n4o5p6q7",
+        "name": "马红",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_e5f6g7h8",
+        "name": "刘洋",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级美国国家科学基金会，依托斯坦福大学，围绕人工智能与机器学习领域开展研究，资助金额 550000 USD，项目周期 36 个月，旨在Causal Inference Methods for Trustworthy Machine Learning。",
+    "paper_ids": [
+      "pap_cn_008",
+      "pap_014",
+      "pap_035",
+      "pap_036",
+      "pap_cn_004",
+      "pap_cn_011",
+      "pap_005",
+      "pap_015"
+    ],
+    "patent_ids": [
+      "pat_010",
+      "pat_026",
+      "pat_011"
+    ]
+  }
+]
