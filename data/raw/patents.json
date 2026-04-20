@@ -1,0 +1,1122 @@
+[
+  {
+    "status": "已授权",
+    "keywords": [
+      "目标检测",
+      "轻量化",
+      "Transformer"
+    ],
+    "id": "pat_001",
+    "title_Localized": "一种基于视觉Transformer的轻量化目标检测装置及方法",
+    "application_Number": "CN202210001001A",
+    "publication_Number": "CN114973001B",
+    "filing_Date": "2022-03-15",
+    "publication_Date": "2023-06-20",
+    "filing_Year": 2022,
+    "publication_Year": 2023,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06N3/04",
+      "G06V10/764",
+      "G06V10/82"
+    ],
+    "cpc": [
+      "CPC_G06N3/04",
+      "CPC_G06V10/764"
+    ],
+    "landscapes": "人工智能与机器学习；计算机视觉与图像识别",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；计算机视觉与图像识别领域，提出一种基于视觉Transformer的轻量化目标检测装置及方法，主要应用于目标检测、轻量化、Transformer等技术场景。",
+    "citation_Nums": 45,
+    "assignee": "北京大学",
+    "current_Assignee": "北京大学",
+    "inventor_Harmonized": [
+      {
+        "name": "张伟"
+      },
+      {
+        "name": "孙丽"
+      }
+    ],
+    "inventor": [
+      "张伟",
+      "孙丽"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "多模态融合",
+      "图像描述",
+      "深度学习"
+    ],
+    "id": "pat_002",
+    "title_Localized": "一种视觉特征与语言特征跨模态融合的图像描述生成方法",
+    "application_Number": "CN202210002002A",
+    "publication_Number": "CN114974002B",
+    "filing_Date": "2022-05-10",
+    "publication_Date": "2023-09-12",
+    "filing_Year": 2022,
+    "publication_Year": 2023,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06N3/04",
+      "G06V10/80",
+      "G06F40/30"
+    ],
+    "cpc": [
+      "CPC_G06N3/04",
+      "CPC_G06V10/80"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理；计算机视觉与图像识别",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理；计算机视觉与图像识别领域，提出一种视觉特征与语言特征跨模态融合的图像描述生成方法，主要应用于多模态融合、图像描述、深度学习等技术场景。",
+    "citation_Nums": 12,
+    "assignee": "北京大学",
+    "current_Assignee": "北京大学",
+    "inventor_Harmonized": [
+      {
+        "name": "张伟"
+      },
+      {
+        "name": "陈静"
+      }
+    ],
+    "inventor": [
+      "张伟",
+      "陈静"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "推荐系统",
+      "知识图谱",
+      "图神经网络"
+    ],
+    "id": "pat_003",
+    "title_Localized": "一种基于知识图谱增强的图神经网络推荐系统",
+    "application_Number": "CN202110003003A",
+    "publication_Number": "CN113975003B",
+    "filing_Date": "2021-07-22",
+    "publication_Date": "2022-11-30",
+    "filing_Year": 2021,
+    "publication_Year": 2022,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06N5/04",
+      "G06N3/04",
+      "G06F16/9035"
+    ],
+    "cpc": [
+      "CPC_G06N5/04",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理领域，提出一种基于知识图谱增强的图神经网络推荐系统，主要应用于推荐系统、知识图谱、图神经网络等技术场景。",
+    "citation_Nums": 6,
+    "assignee": "北京大学",
+    "current_Assignee": "北京大学",
+    "inventor_Harmonized": [
+      {
+        "name": "张伟"
+      }
+    ],
+    "inventor": [
+      "张明远"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "预训练模型",
+      "多语言",
+      "自然语言处理"
+    ],
+    "id": "pat_004",
+    "title_Localized": "一种多语言预训练语言模型的训练方法及装置",
+    "application_Number": "CN202210004004A",
+    "publication_Number": "CN115082004B",
+    "filing_Date": "2022-08-18",
+    "publication_Date": "2023-12-05",
+    "filing_Year": 2022,
+    "publication_Year": 2023,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06F40/56",
+      "G06N3/04",
+      "G06F40/30"
+    ],
+    "cpc": [
+      "CPC_G06F40/56",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理领域，提出一种多语言预训练语言模型的训练方法，主要应用于预训练模型、多语言、自然语言处理等技术场景。",
+    "citation_Nums": 22,
+    "assignee": "清华大学",
+    "current_Assignee": "清华大学",
+    "inventor_Harmonized": [
+      {
+        "name": "李娜"
+      },
+      {
+        "name": "黄敏"
+      }
+    ],
+    "inventor": [
+      "李晓林",
+      "蒋承志"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "文本生成",
+      "提示学习",
+      "大语言模型"
+    ],
+    "id": "pat_005",
+    "title_Localized": "一种基于提示学习的文本生成控制方法",
+    "application_Number": "CN202210005005A",
+    "publication_Number": "CN115083005B",
+    "filing_Date": "2022-09-30",
+    "publication_Date": "2024-01-15",
+    "filing_Year": 2022,
+    "publication_Year": 2024,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06F40/30",
+      "G06N3/04",
+      "G06F40/58"
+    ],
+    "cpc": [
+      "CPC_G06F40/30",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理领域，提出一种基于提示学习的文本生成控制方法，主要应用于文本生成、提示学习、大语言模型等技术场景。",
+    "citation_Nums": 20,
+    "assignee": "清华大学",
+    "current_Assignee": "清华大学",
+    "inventor_Harmonized": [
+      {
+        "name": "李娜"
+      }
+    ],
+    "inventor": [
+      "李晓林"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "协同过滤",
+      "稀疏数据",
+      "推荐系统"
+    ],
+    "id": "pat_006",
+    "title_Localized": "一种面向稀疏用户行为的协同过滤推荐装置",
+    "application_Number": "CN202110006006A",
+    "publication_Number": "CN113976006B",
+    "filing_Date": "2021-04-12",
+    "publication_Date": "2022-08-20",
+    "filing_Year": 2021,
+    "publication_Year": 2022,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06Q30/0601",
+      "G06N3/04",
+      "G06F16/9535"
+    ],
+    "cpc": [
+      "CPC_G06Q30/0601",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理；数字计算机应用",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理；数字计算机应用领域，提出一种面向稀疏用户行为的协同过滤推荐装置，主要应用于协同过滤、稀疏数据、推荐系统等技术场景。",
+    "citation_Nums": 19,
+    "assignee": "浙江大学",
+    "current_Assignee": "浙江大学",
+    "inventor_Harmonized": [
+      {
+        "name": "王磊"
+      },
+      {
+        "name": "吴昊"
+      }
+    ],
+    "inventor": [
+      "王志远",
+      "吴若晨"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "跨域推荐",
+      "冷启动",
+      "知识迁移"
+    ],
+    "id": "pat_007",
+    "title_Localized": "一种跨域知识迁移的推荐系统冷启动方法",
+    "application_Number": "CN202210007007A",
+    "publication_Number": "CN115084007B",
+    "filing_Date": "2022-01-28",
+    "publication_Date": "2023-05-18",
+    "filing_Year": 2022,
+    "publication_Year": 2023,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06Q30/0601",
+      "G06N20/10",
+      "G06F16/9535"
+    ],
+    "cpc": [
+      "CPC_G06Q30/0601",
+      "CPC_G06N20/10"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理；数字计算机应用",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理；数字计算机应用领域，提出一种跨域知识迁移的推荐系统冷启动方法，主要应用于跨域推荐、冷启动、知识迁移等技术场景。",
+    "citation_Nums": 13,
+    "assignee": "浙江大学",
+    "current_Assignee": "浙江大学",
+    "inventor_Harmonized": [
+      {
+        "name": "王磊"
+      }
+    ],
+    "inventor": [
+      "王志远"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "命名实体识别",
+      "科技文献",
+      "BERT"
+    ],
+    "id": "pat_008",
+    "title_Localized": "一种基于RoBERTa的中文科技文献实体识别方法",
+    "application_Number": "CN202110008008A",
+    "publication_Number": "CN113977008B",
+    "filing_Date": "2021-10-05",
+    "publication_Date": "2022-12-22",
+    "filing_Year": 2021,
+    "publication_Year": 2022,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06F40/30",
+      "G06N3/04",
+      "G06F40/279"
+    ],
+    "cpc": [
+      "CPC_G06F40/30",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理领域，提出一种基于RoBERTa的中文科技文献实体识别方法，主要应用于命名实体识别、科技文献、BERT等技术场景。",
+    "citation_Nums": 11,
+    "assignee": "中国科学技术大学",
+    "current_Assignee": "中国科学技术大学",
+    "inventor_Harmonized": [
+      {
+        "name": "陈静"
+      },
+      {
+        "name": "林峰"
+      }
+    ],
+    "inventor": [
+      "刘思远",
+      "冯静薇"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "知识图谱",
+      "问答系统",
+      "检索增强"
+    ],
+    "id": "pat_009",
+    "title_Localized": "一种基于检索增强的知识图谱问答系统",
+    "application_Number": "CN202210009009A",
+    "publication_Number": "CN115085009B",
+    "filing_Date": "2022-06-14",
+    "publication_Date": "2023-10-08",
+    "filing_Year": 2022,
+    "publication_Year": 2023,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06N5/04",
+      "G06F16/903",
+      "G06F40/30"
+    ],
+    "cpc": [
+      "CPC_G06N5/04",
+      "CPC_G06F16/903"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理领域，提出一种基于检索增强的知识图谱问答系统，主要应用于知识图谱、问答系统、检索增强等技术场景。",
+    "citation_Nums": 39,
+    "assignee": "中国科学技术大学",
+    "current_Assignee": "中国科学技术大学",
+    "inventor_Harmonized": [
+      {
+        "name": "陈静"
+      }
+    ],
+    "inventor": [
+      "刘思远"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "强化学习",
+      "路径规划",
+      "无人机"
+    ],
+    "id": "pat_010",
+    "title_Localized": "一种多目标深度强化学习的无人机路径规划方法",
+    "application_Number": "CN202210010010A",
+    "publication_Number": "CN115086010B",
+    "filing_Date": "2022-02-20",
+    "publication_Date": "2023-07-11",
+    "filing_Year": 2022,
+    "publication_Year": 2023,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G05D1/10",
+      "G06N3/08",
+      "B64C39/02"
+    ],
+    "cpc": [
+      "CPC_G05D1/10",
+      "CPC_G06N3/08"
+    ],
+    "landscapes": "人工智能与机器学习；机器人与运动控制",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；机器人与运动控制领域，提出一种多目标深度强化学习的无人机路径规划方法，主要应用于强化学习、路径规划、无人机等技术场景。",
+    "citation_Nums": 10,
+    "assignee": "哈尔滨工业大学",
+    "current_Assignee": "哈尔滨工业大学",
+    "inventor_Harmonized": [
+      {
+        "name": "刘洋"
+      },
+      {
+        "name": "马红"
+      }
+    ],
+    "inventor": [
+      "陈博文",
+      "韩雨霏"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "异常检测",
+      "时序分析",
+      "工业物联网"
+    ],
+    "id": "pat_011",
+    "title_Localized": "一种工业传感器时序异常检测装置及方法",
+    "application_Number": "CN202210011011A",
+    "publication_Number": "CN115087011B",
+    "filing_Date": "2022-04-08",
+    "publication_Date": "2023-08-25",
+    "filing_Year": 2022,
+    "publication_Year": 2023,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G05B23/02",
+      "G06N3/04",
+      "G06F17/18"
+    ],
+    "cpc": [
+      "CPC_G05B23/02",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理；控制系统与自动化",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理；控制系统与自动化领域，提出一种工业传感器时序异常检测装置及方法，主要应用于异常检测、时序分析、工业物联网等技术场景。",
+    "citation_Nums": 42,
+    "assignee": "哈尔滨工业大学",
+    "current_Assignee": "哈尔滨工业大学",
+    "inventor_Harmonized": [
+      {
+        "name": "刘洋"
+      },
+      {
+        "name": "谢天"
+      }
+    ],
+    "inventor": [
+      "陈博文",
+      "许凌峰"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "联邦学习",
+      "差分隐私",
+      "安全计算"
+    ],
+    "id": "pat_012",
+    "title_Localized": "一种差分隐私与安全聚合结合的联邦学习系统",
+    "application_Number": "CN202210012012A",
+    "publication_Number": "CN115088012B",
+    "filing_Date": "2022-07-16",
+    "publication_Date": "2023-11-20",
+    "filing_Year": 2022,
+    "publication_Year": 2023,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06N20/00",
+      "H04L9/00",
+      "G06F21/62"
+    ],
+    "cpc": [
+      "CPC_G06N20/00",
+      "CPC_H04L9/00"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理；数字通信与网络",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理；数字通信与网络领域，提出一种差分隐私与安全聚合结合的联邦学习系统，主要应用于联邦学习、差分隐私、安全计算等技术场景。",
+    "citation_Nums": 32,
+    "assignee": "清华大学",
+    "current_Assignee": "清华大学",
+    "inventor_Harmonized": [
+      {
+        "name": "赵晓明"
+      }
+    ],
+    "inventor": [
+      "赵晓凤"
+    ]
+  },
+  {
+    "status": "实质审查",
+    "keywords": [
+      "梯度压缩",
+      "分布式学习",
+      "通信优化"
+    ],
+    "id": "pat_013",
+    "title_Localized": "一种基于TopK稀疏化的分布式机器学习梯度压缩方法",
+    "application_Number": "CN202310013013A",
+    "publication_Number": "CN116089013A",
+    "filing_Date": "2023-01-10",
+    "publication_Date": "2024-07-10",
+    "filing_Year": 2023,
+    "publication_Year": 2024,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06N20/00",
+      "G06F9/50",
+      "G06F17/16"
+    ],
+    "cpc": [
+      "CPC_G06N20/00",
+      "CPC_G06F9/50"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理领域，提出一种基于TopK稀疏化的分布式机器学习梯度压缩方法，主要应用于梯度压缩、分布式学习、通信优化等技术场景。",
+    "citation_Nums": 0,
+    "assignee": "清华大学",
+    "current_Assignee": "清华大学",
+    "inventor_Harmonized": [
+      {
+        "name": "赵晓明"
+      }
+    ],
+    "inventor": [
+      "赵晓凤"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "医学图像",
+      "对比学习",
+      "图像分割"
+    ],
+    "id": "pat_014",
+    "title_Localized": "一种基于对比学习预训练的医学图像分割方法",
+    "application_Number": "CN202210014014A",
+    "publication_Number": "CN115090014B",
+    "filing_Date": "2022-11-03",
+    "publication_Date": "2024-02-28",
+    "filing_Year": 2022,
+    "publication_Year": 2024,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "A61B5/00",
+      "G06N3/04",
+      "G06T7/11"
+    ],
+    "cpc": [
+      "CPC_A61B5/00",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；医疗诊断与生物信号；图像处理与计算机图形",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；医疗诊断与生物信号；图像处理与计算机图形领域，提出一种基于对比学习预训练的医学图像分割方法，主要应用于医学图像、对比学习、图像分割等技术场景。",
+    "citation_Nums": 6,
+    "assignee": "北京大学",
+    "current_Assignee": "北京大学",
+    "inventor_Harmonized": [
+      {
+        "name": "孙丽"
+      }
+    ],
+    "inventor": [
+      "孙雨桐"
+    ]
+  },
+  {
+    "status": "公开待审",
+    "keywords": [
+      "语音识别",
+      "大语言模型",
+      "纠错"
+    ],
+    "id": "pat_015",
+    "title_Localized": "一种大语言模型辅助的中文语音识别纠错系统",
+    "application_Number": "CN202310015015A",
+    "publication_Number": "CN116091015A",
+    "filing_Date": "2023-03-22",
+    "publication_Date": "2024-09-22",
+    "filing_Year": 2023,
+    "publication_Year": 2024,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G10L15/16",
+      "G06N3/04",
+      "G10L15/26"
+    ],
+    "cpc": [
+      "CPC_G10L15/16",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；语音与音频处理",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；语音与音频处理领域，提出一种大语言模型辅助的中文语音识别纠错系统，主要应用于语音识别、大语言模型、纠错等技术场景。",
+    "citation_Nums": 0,
+    "assignee": "中国科学技术大学",
+    "current_Assignee": "中国科学技术大学",
+    "inventor_Harmonized": [
+      {
+        "name": "周建国"
+      }
+    ],
+    "inventor": [
+      "周明辉"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "语音翻译",
+      "端到端模型",
+      "序列建模"
+    ],
+    "id": "pat_016",
+    "title_Localized": "一种端到端语音到文本翻译系统及训练方法",
+    "application_Number": "CN202210016016A",
+    "publication_Number": "CN115092016B",
+    "filing_Date": "2022-12-01",
+    "publication_Date": "2024-03-15",
+    "filing_Year": 2022,
+    "publication_Year": 2024,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G10L15/22",
+      "G06N3/04",
+      "G06F40/58"
+    ],
+    "cpc": [
+      "CPC_G10L15/22",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理；语音与音频处理",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理；语音与音频处理领域，提出一种端到端语音到文本翻译系统及训练方法，主要应用于语音翻译、端到端模型、序列建模等技术场景。",
+    "citation_Nums": 18,
+    "assignee": "中国科学技术大学",
+    "current_Assignee": "中国科学技术大学",
+    "inventor_Harmonized": [
+      {
+        "name": "周建国"
+      }
+    ],
+    "inventor": [
+      "周明辉"
+    ]
+  },
+  {
+    "status": "实质审查",
+    "keywords": [
+      "情感分析",
+      "多模态融合",
+      "深度学习"
+    ],
+    "id": "pat_017",
+    "title_Localized": "一种多模态情感分析的层次化融合装置",
+    "application_Number": "CN202310017017A",
+    "publication_Number": "CN116093017A",
+    "filing_Date": "2023-05-18",
+    "publication_Date": "2024-11-18",
+    "filing_Year": 2023,
+    "publication_Year": 2024,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06N3/04",
+      "G06V10/80",
+      "G06F40/30"
+    ],
+    "cpc": [
+      "CPC_G06N3/04",
+      "CPC_G06V10/80"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理；计算机视觉与图像识别",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理；计算机视觉与图像识别领域，提出一种多模态情感分析的层次化融合装置，主要应用于情感分析、多模态融合、深度学习等技术场景。",
+    "citation_Nums": 3,
+    "assignee": "中国科学技术大学",
+    "current_Assignee": "中国科学技术大学",
+    "inventor_Harmonized": [
+      {
+        "name": "周建国"
+      }
+    ],
+    "inventor": [
+      "周明辉"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "知识图谱",
+      "路径推理",
+      "强化学习"
+    ],
+    "id": "pat_018",
+    "title_Localized": "一种基于强化学习的知识图谱路径推理方法",
+    "application_Number": "CN202210018018A",
+    "publication_Number": "CN115094018B",
+    "filing_Date": "2022-10-14",
+    "publication_Date": "2024-01-08",
+    "filing_Year": 2022,
+    "publication_Year": 2024,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06N5/04",
+      "G06N3/08",
+      "G06F16/9032"
+    ],
+    "cpc": [
+      "CPC_G06N5/04",
+      "CPC_G06N3/08"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理领域，提出一种基于强化学习的知识图谱路径推理方法，主要应用于知识图谱、路径推理、强化学习等技术场景。",
+    "citation_Nums": 37,
+    "assignee": "浙江大学",
+    "current_Assignee": "浙江大学",
+    "inventor_Harmonized": [
+      {
+        "name": "吴昊"
+      }
+    ],
+    "inventor": [
+      "吴若晨"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "会话推荐",
+      "用户意图",
+      "序列模型"
+    ],
+    "id": "pat_019",
+    "title_Localized": "一种基于用户短期意图的会话推荐方法",
+    "application_Number": "CN202210019019A",
+    "publication_Number": "CN115095019B",
+    "filing_Date": "2022-03-08",
+    "publication_Date": "2023-06-30",
+    "filing_Year": 2022,
+    "publication_Year": 2023,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06Q30/0601",
+      "G06N3/04",
+      "G06F16/9535"
+    ],
+    "cpc": [
+      "CPC_G06Q30/0601",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理；数字计算机应用",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理；数字计算机应用领域，提出一种基于用户短期意图的会话推荐方法，主要应用于会话推荐、用户意图、序列模型等技术场景。",
+    "citation_Nums": 43,
+    "assignee": "哈尔滨工业大学",
+    "current_Assignee": "哈尔滨工业大学",
+    "inventor_Harmonized": [
+      {
+        "name": "郑燕"
+      }
+    ],
+    "inventor": [
+      "郑宇恒"
+    ]
+  },
+  {
+    "status": "公开待审",
+    "keywords": [
+      "影响力传播",
+      "社交网络",
+      "近似算法"
+    ],
+    "id": "pat_020",
+    "title_Localized": "一种社交网络信息影响力高效传播计算方法",
+    "application_Number": "CN202310020020A",
+    "publication_Number": "CN116096020A",
+    "filing_Date": "2023-02-25",
+    "publication_Date": "2024-08-25",
+    "filing_Year": 2023,
+    "publication_Year": 2024,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "H04L67/52",
+      "G06Q50/00",
+      "G06F16/9536"
+    ],
+    "cpc": [
+      "CPC_H04L67/52",
+      "CPC_G06Q50/00"
+    ],
+    "landscapes": "信息处理与数据管理；数字计算机应用；数字通信与网络",
+    "abstract_Localized": "本专利涉及信息处理与数据管理；数字计算机应用；数字通信与网络领域，提出一种社交网络信息影响力高效传播计算方法，主要应用于影响力传播、社交网络、近似算法等技术场景。",
+    "citation_Nums": 0,
+    "assignee": "哈尔滨工业大学",
+    "current_Assignee": "哈尔滨工业大学",
+    "inventor_Harmonized": [
+      {
+        "name": "郑燕"
+      }
+    ],
+    "inventor": [
+      "郑宇恒"
+    ]
+  },
+  {
+    "status": "实质审查",
+    "keywords": [
+      "目标跟踪",
+      "遮挡处理",
+      "时序记忆"
+    ],
+    "id": "pat_021",
+    "title_Localized": "一种基于时序记忆的视频目标遮挡恢复跟踪方法",
+    "application_Number": "CN202310021021A",
+    "publication_Number": "CN116097021A",
+    "filing_Date": "2023-07-19",
+    "publication_Date": "2025-01-19",
+    "filing_Year": 2023,
+    "publication_Year": 2025,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06V20/40",
+      "G06N3/04",
+      "G06T7/246"
+    ],
+    "cpc": [
+      "CPC_G06V20/40",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；图像处理与计算机图形；计算机视觉与图像识别",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；图像处理与计算机图形；计算机视觉与图像识别领域，提出一种基于时序记忆的视频目标遮挡恢复跟踪方法，主要应用于目标跟踪、遮挡处理、时序记忆等技术场景。",
+    "citation_Nums": 8,
+    "assignee": "北京大学",
+    "current_Assignee": "北京大学",
+    "inventor_Harmonized": [
+      {
+        "name": "林峰"
+      }
+    ],
+    "inventor": [
+      "冯静薇"
+    ]
+  },
+  {
+    "status": "公开待审",
+    "keywords": [
+      "多语言模型",
+      "零样本迁移",
+      "跨语言"
+    ],
+    "id": "pat_022",
+    "title_Localized": "一种跨语言零样本迁移的多语言预训练方法",
+    "application_Number": "CN202310022022A",
+    "publication_Number": "CN116098022A",
+    "filing_Date": "2023-04-06",
+    "publication_Date": "2024-10-06",
+    "filing_Year": 2023,
+    "publication_Year": 2024,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06F40/56",
+      "G06N3/04",
+      "G06F40/30"
+    ],
+    "cpc": [
+      "CPC_G06F40/56",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理领域，提出一种跨语言零样本迁移的多语言预训练方法，主要应用于多语言模型、零样本迁移、跨语言等技术场景。",
+    "citation_Nums": 1,
+    "assignee": "中国科学技术大学",
+    "current_Assignee": "中国科学技术大学",
+    "inventor_Harmonized": [
+      {
+        "name": "黄敏"
+      }
+    ],
+    "inventor": [
+      "蒋承志"
+    ]
+  },
+  {
+    "status": "实质审查",
+    "keywords": [
+      "传感器融合",
+      "BEV感知",
+      "激光雷达"
+    ],
+    "id": "pat_023",
+    "title_Localized": "一种基于BEV的相机激光雷达融合三维感知系统",
+    "application_Number": "CN202310023023A",
+    "publication_Number": "CN116099023A",
+    "filing_Date": "2023-01-30",
+    "publication_Date": "2024-07-28",
+    "filing_Year": 2023,
+    "publication_Year": 2024,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G01S13/931",
+      "G06N3/04",
+      "G06V20/56"
+    ],
+    "cpc": [
+      "CPC_G01S13/931",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；计算机视觉与图像识别",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；计算机视觉与图像识别领域，提出一种基于BEV的相机激光雷达融合三维感知系统，主要应用于传感器融合、BEV感知、激光雷达等技术场景。",
+    "citation_Nums": 8,
+    "assignee": "清华大学",
+    "current_Assignee": "清华大学",
+    "inventor_Harmonized": [
+      {
+        "name": "徐强"
+      }
+    ],
+    "inventor": [
+      "程子轩"
+    ]
+  },
+  {
+    "status": "公开待审",
+    "keywords": [
+      "占用预测",
+      "运动规划",
+      "自动驾驶"
+    ],
+    "id": "pat_024",
+    "title_Localized": "一种自动驾驶占用网格预测与规划联合优化方法",
+    "application_Number": "CN202410024024A",
+    "publication_Number": "CN117100024A",
+    "filing_Date": "2024-02-14",
+    "publication_Date": "2025-08-14",
+    "filing_Year": 2024,
+    "publication_Year": 2025,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G05D1/02",
+      "G06N3/04",
+      "G06V20/56"
+    ],
+    "cpc": [
+      "CPC_G05D1/02",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；机器人与运动控制；计算机视觉与图像识别",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；机器人与运动控制；计算机视觉与图像识别领域，提出一种自动驾驶占用网格预测与规划联合优化方法，主要应用于占用预测、运动规划、自动驾驶等技术场景。",
+    "citation_Nums": 3,
+    "assignee": "清华大学",
+    "current_Assignee": "清华大学",
+    "inventor_Harmonized": [
+      {
+        "name": "徐强"
+      }
+    ],
+    "inventor": [
+      "程子轩"
+    ]
+  },
+  {
+    "status": "实质审查",
+    "keywords": [
+      "毫米波雷达",
+      "动态检测",
+      "全天候感知"
+    ],
+    "id": "pat_025",
+    "title_Localized": "一种4D毫米波雷达动态障碍物检测方法",
+    "application_Number": "CN202310025025A",
+    "publication_Number": "CN116101025A",
+    "filing_Date": "2023-09-11",
+    "publication_Date": "2025-03-11",
+    "filing_Year": 2023,
+    "publication_Year": 2025,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G01S13/931",
+      "G01S13/72",
+      "G05D1/02"
+    ],
+    "cpc": [
+      "CPC_G01S13/931",
+      "CPC_G01S13/72"
+    ],
+    "landscapes": "机器人与运动控制",
+    "abstract_Localized": "本专利涉及机器人与运动控制领域，提出一种4D毫米波雷达动态障碍物检测方法，主要应用于毫米波雷达、动态检测、全天候感知等技术场景。",
+    "citation_Nums": 3,
+    "assignee": "清华大学",
+    "current_Assignee": "清华大学",
+    "inventor_Harmonized": [
+      {
+        "name": "徐强"
+      }
+    ],
+    "inventor": [
+      "程子轩"
+    ]
+  },
+  {
+    "status": "公开待审",
+    "keywords": [
+      "可解释AI",
+      "公平性",
+      "反事实解释"
+    ],
+    "id": "pat_026",
+    "title_Localized": "一种基于反事实解释的公平性机器学习分类方法",
+    "application_Number": "CN202310026026A",
+    "publication_Number": "CN116102026A",
+    "filing_Date": "2023-06-28",
+    "publication_Date": "2024-12-28",
+    "filing_Year": 2023,
+    "publication_Year": 2024,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G06N20/00",
+      "G06N5/04",
+      "G06F18/214"
+    ],
+    "cpc": [
+      "CPC_G06N20/00",
+      "CPC_G06N5/04"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理领域，提出一种基于反事实解释的公平性机器学习分类方法，主要应用于可解释AI、公平性、反事实解释等技术场景。",
+    "citation_Nums": 3,
+    "assignee": "中国科学技术大学",
+    "current_Assignee": "中国科学技术大学",
+    "inventor_Harmonized": [
+      {
+        "name": "马红"
+      }
+    ],
+    "inventor": [
+      "韩雨霏"
+    ]
+  },
+  {
+    "status": "已授权",
+    "keywords": [
+      "时序预测",
+      "工业数据",
+      "Transformer"
+    ],
+    "id": "pat_027",
+    "title_Localized": "一种工业多变量时序数据预测装置及方法",
+    "application_Number": "CN202210027027A",
+    "publication_Number": "CN115103027B",
+    "filing_Date": "2022-08-09",
+    "publication_Date": "2024-01-22",
+    "filing_Year": 2022,
+    "publication_Year": 2024,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G05B23/02",
+      "G06N3/04",
+      "G06F17/18"
+    ],
+    "cpc": [
+      "CPC_G05B23/02",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；信息处理与数据管理；控制系统与自动化",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；信息处理与数据管理；控制系统与自动化领域，提出一种工业多变量时序数据预测装置及方法，主要应用于时序预测、工业数据、Transformer等技术场景。",
+    "citation_Nums": 42,
+    "assignee": "哈尔滨工业大学",
+    "current_Assignee": "哈尔滨工业大学",
+    "inventor_Harmonized": [
+      {
+        "name": "谢天"
+      }
+    ],
+    "inventor": [
+      "许凌峰"
+    ]
+  },
+  {
+    "status": "实质审查",
+    "keywords": [
+      "数字孪生",
+      "故障预警",
+      "智能制造"
+    ],
+    "id": "pat_028",
+    "title_Localized": "一种基于数字孪生的设备故障早期预警系统",
+    "application_Number": "CN202310028028A",
+    "publication_Number": "CN116104028A",
+    "filing_Date": "2023-10-17",
+    "publication_Date": "2025-04-17",
+    "filing_Year": 2023,
+    "publication_Year": 2025,
+    "application_Kind": "发明专利",
+    "ipc": [
+      "G05B17/02",
+      "G06N3/04",
+      "G05B23/02"
+    ],
+    "cpc": [
+      "CPC_G05B17/02",
+      "CPC_G06N3/04"
+    ],
+    "landscapes": "人工智能与机器学习；控制系统与自动化",
+    "abstract_Localized": "本专利涉及人工智能与机器学习；控制系统与自动化领域，提出一种基于数字孪生的设备故障早期预警系统，主要应用于数字孪生、故障预警、智能制造等技术场景。",
+    "citation_Nums": 4,
+    "assignee": "哈尔滨工业大学",
+    "current_Assignee": "哈尔滨工业大学",
+    "inventor_Harmonized": [
+      {
+        "name": "谢天"
+      }
+    ],
+    "inventor": [
+      "许凌峰"
+    ]
+  }
+]

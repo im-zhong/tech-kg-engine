@@ -1,0 +1,123 @@
+[
+  {
+    "id": "inst_mit_csail",
+    "name_cn": "麻省理工学院计算机科学与人工智能实验室",
+    "org_en": "MIT Computer Science and Artificial Intelligence Laboratory",
+    "alias": [
+      "MIT CSAIL",
+      "MIT"
+    ],
+    "type": "高校",
+    "country_name": "美国",
+    "country_code": "US",
+    "province": "Middlesex County",
+    "city": "Cambridge, MA",
+    "address": "32 Vassar Street, Cambridge, MA 02139, USA",
+    "postal_code": "02139",
+    "phone": "+1-617-253-5851",
+    "fax": "+1-617-258-8682",
+    "email": "csail-info@csail.mit.edu",
+    "website": "https://www.csail.mit.edu",
+    "external_id": "https://ror.org/042nb2s44",
+    "affiliates_name": [
+      {
+        "id": "inst_mit_nlp_group",
+        "name": "NLP & Information Extraction Group",
+        "local_name": "NLP & IE Group",
+        "parent_id": "inst_mit_csail"
+      },
+      {
+        "id": "inst_mit_agi_lab",
+        "name": "Artificial General Intelligence Group",
+        "local_name": "AGI Group",
+        "parent_id": "inst_mit_csail"
+      }
+    ],
+    "description_en": "MIT CSAIL is the largest research laboratory at MIT, focusing on artificial intelligence, machine learning, and computer science.",
+    "description_ch": "麻省理工学院计算机科学与人工智能实验室是MIT最大的研究机构，专注于人工智能、机器学习和计算机科学领域。",
+    "is_service": false,
+    "latitude": 42.3601,
+    "longitude": -71.0942,
+    "image": "https://placeholder.example.com/logos/mit_csail.png"
+  },
+  {
+    "id": "inst_stanford",
+    "name_cn": "斯坦福大学",
+    "org_en": "Stanford University",
+    "alias": [
+      "Stanford"
+    ],
+    "type": "高校",
+    "country_name": "美国",
+    "country_code": "US",
+    "province": "Santa Clara County",
+    "city": "Stanford, CA",
+    "address": "353 Jane Stanford Way, Stanford, CA 94305, USA",
+    "postal_code": "94305",
+    "phone": "+1-650-723-2300",
+    "fax": "+1-650-725-7411",
+    "email": "admissions@cs.stanford.edu",
+    "website": "https://cs.stanford.edu",
+    "external_id": "https://ror.org/00f54p054",
+    "affiliates_name": [
+      {
+        "id": "inst_stanford_nlp",
+        "name": "Stanford NLP Group",
+        "local_name": "Stanford NLP",
+        "parent_id": "inst_stanford"
+      },
+      {
+        "id": "inst_stanford_ai",
+        "name": "Stanford Artificial Intelligence Laboratory",
+        "local_name": "SAIL",
+        "parent_id": "inst_stanford"
+      }
+    ],
+    "description_en": "Stanford University's Computer Science Department is a world-leading research institution in AI, systems, and theoretical computer science.",
+    "description_ch": "斯坦福大学计算机科学系是全球领先的人工智能、系统与理论计算机科学研究机构。",
+    "is_service": false,
+    "latitude": 37.4275,
+    "longitude": -122.1697,
+    "image": "https://placeholder.example.com/logos/stanford_cs.png"
+  },
+  {
+    "id": "inst_oxford",
+    "name_cn": "牛津大学",
+    "org_en": "University of Oxford",
+    "alias": [
+      "Oxford"
+    ],
+    "type": "高校",
+    "country_name": "英国",
+    "country_code": "GB",
+    "province": "Oxfordshire",
+    "city": "Oxford",
+    "address": "Wolfson Building, Parks Road, Oxford OX1 3QD, UK",
+    "postal_code": "OX1 3QD",
+    "phone": "+44-1865-273838",
+    "fax": "+44-1865-273839",
+    "email": "reception@cs.ox.ac.uk",
+    "website": "https://www.cs.ox.ac.uk",
+    "external_id": "https://ror.org/052gg0110",
+    "affiliates_name": [
+      {
+        "id": "inst_oxford_nlp",
+        "name": "NLP Research Group",
+        "local_name": "Oxford NLP",
+        "parent_id": "inst_oxford"
+      },
+      {
+        "id": "inst_oxford_fedml",
+        "name": "Privacy-Preserving Machine Learning Group",
+        "local_name": "FedML Group",
+        "parent_id": "inst_oxford"
+      }
+    ],
+    "description_en": "The University of Oxford Department of Computer Science conducts cutting-edge research in AI, machine learning, and software verification.",
+    "description_ch": "牛津大学计算机科学系在人工智能、机器学习和软件验证领域开展前沿研究。",
+    "is_service": false,
+    "latitude": 51.7548,
+    "longitude": -1.2544,
+    "image": "https://placeholder.example.com/logos/oxford_cs.png"
+  }
+]

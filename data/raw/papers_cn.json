@@ -1,0 +1,1379 @@
+[
+  {
+    "paper_id": "pap_cn_001",
+    "doi": "10.11897/SP.J.1016.2022.cn001",
+    "keywords": [
+      "知识图谱",
+      "数据融合",
+      "多源异构"
+    ],
+    "impact_factor": 4.53,
+    "reference_ids": [
+      "pap_cn_5506",
+      "pap_cn_5012",
+      "pap_cn_4657",
+      "pap_cn_3286",
+      "pap_cn_2679",
+      "pap_cn_9935",
+      "pap_cn_2424",
+      "pap_cn_7912",
+      "pap_cn_1520",
+      "pap_cn_1488",
+      "pap_cn_2535"
+    ],
+    "zh_name": "面向科技知识图谱的多源异构数据融合方法",
+    "zh_abstract": "提出一种多源异构科技数据融合框架，整合中文论文、专利、项目等多类型数据，构建统一的科技知识图谱，在实体对齐和关系抽取上取得显著效果。",
+    "cover_date_start": "2022-01",
+    "citation_nums": 87,
+    "content": "【正文占位】本文标题：《面向科技知识图谱的多源异构数据融合方法》\n\n摘要：提出一种多源异构科技数据融合框架，整合中文论文、专利、项目等多类型数据，构建统一的科技知识图谱，在实体对齐和关系抽取上取得显著效果。\n\n（论文全文将由文献数据库提供，此处为虚拟占位数据。）",
+    "scope_zone": "Q1",
+    "authors": [
+      {
+        "id": "sch_a1b2c3d4",
+        "role": "第一作者",
+        "personinfo": {
+          "fullName": "张伟"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_d4e5f6g7",
+        "role": "通讯作者",
+        "personinfo": {
+          "fullName": "陈静"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_zh": "计算机学报",
+    "citation_ids": [
+      "pap_cn_009",
+      "pap_cn_005",
+      "pap_cn_011"
+    ],
+    "publisher": "中国计算机学会",
+    "publisher_id": "pub_ccf",
+    "publication_id": "pub_jcs",
+    "publication_type": "学术期刊",
+    "issn": "0254-4164",
+    "eissn": "2824-1409",
+    "journal_type": "期刊",
+    "journal_abbreviation": "JCS",
+    "journal_alias": "计算机学报",
+    "country": "中国",
+    "language": "中文",
+    "organizer": "中国计算机学会",
+    "publisher_place": "北京",
+    "publication_cycle": "月刊",
+    "chief_editor": "梅宏",
+    "founding_time": "1978",
+    "postal_code": "2-369",
+    "address": "北京市海淀区中关村科学院南路6号",
+    "mobile": "010-62661041",
+    "jn_official": "http://cjc.ict.ac.cn",
+    "format": "16开",
+    "zh_description": "计算机科学技术领域综合性学术期刊，中国计算机学会会刊",
+    "journal_db_str": "CSCD/CSSCI/EI",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 120,
+    "cite_nums": 45231,
+    "fund_nums": 892,
+    "paper_nums": 12480,
+    "download_nums": 1823400,
+    "award": "中国科技核心期刊",
+    "iscn": "11-1826/TP",
+    "publication_name": "计算机学报",
+    "journal_name_en": "Journal of Computers",
+    "partition": {
+      "source": "CSSCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.11897/SP.J.1016.2022.cn001",
+    "paper_type": "期刊论文",
+    "reference_nums": 0,
+    "volume": "62",
+    "issue": "1",
+    "first_page": 820,
+    "last_page": 831,
+    "relevant": [
+      "pap_cn_009",
+      "pap_cn_005",
+      "pap_cn_011"
+    ],
+    "reference_content": "李娜等. 面向知识图谱的研究[J]. 人工智能, 2015: 144-155.；赵晓明等. 面向知识图谱的研究[J]. 人工智能, 2021: 57-76.；刘洋等. 面向知识图谱的研究[J]. 自动化学报, 2015: 195-205.；赵晓明等. 面向知识图谱的研究[J]. 中国科学, 2020: 72-81.；李娜等. 面向知识图谱的研究[J]. 自动化学报, 2016: 24-41.；张伟等. 面向知识图谱的研究[J]. 自动化学报, 2020: 155-168.",
+    "citation_content": "赵晓明等. 面向知识图谱的研究[J]. 中国科学, 2023: 32-49.；张伟等. 面向知识图谱的研究[J]. 人工智能, 2019: 161-177.",
+    "location": "34.3416,108.9398"
+  },
+  {
+    "paper_id": "pap_cn_002",
+    "doi": "10.13328/j.cnki.jos.2022.cn002",
+    "keywords": [
+      "关键词抽取",
+      "BERT",
+      "中文科技文献"
+    ],
+    "impact_factor": 3.81,
+    "reference_ids": [
+      "pap_cn_4733",
+      "pap_cn_5741",
+      "pap_cn_2307",
+      "pap_cn_4814",
+      "pap_cn_2654",
+      "pap_cn_7227",
+      "pap_cn_5554",
+      "pap_cn_8428",
+      "pap_cn_6977",
+      "pap_cn_3664",
+      "pap_cn_7065"
+    ],
+    "zh_name": "基于BERT的中文科技文献关键词自动抽取",
+    "zh_abstract": "构建大规模中文科技文献关键词标注语料库，提出融合领域知识的BERT关键词抽取模型，在计算机科学和生物医学领域取得优异性能。",
+    "cover_date_start": "2022-01",
+    "citation_nums": 63,
+    "content": "【正文占位】本文标题：《基于BERT的中文科技文献关键词自动抽取》\n\n摘要：构建大规模中文科技文献关键词标注语料库，提出融合领域知识的BERT关键词抽取模型，在计算机科学和生物医学领域取得优异性能。\n\n（论文全文将由文献数据库提供，此处为虚拟占位数据。）",
+    "scope_zone": "Q1",
+    "authors": [
+      {
+        "id": "sch_b2c3d4e5",
+        "role": "第一作者",
+        "personinfo": {
+          "fullName": "李娜"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_d4e5f6g7",
+        "role": "通讯作者",
+        "personinfo": {
+          "fullName": "陈静"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_zh": "软件学报",
+    "citation_ids": [
+      "pap_cn_007"
+    ],
+    "publisher": "中国科学院软件研究所",
+    "publisher_id": "pub_iscas",
+    "publication_id": "pub_jos",
+    "publication_type": "学术期刊",
+    "issn": "1000-9825",
+    "eissn": "2139-1750",
+    "journal_type": "期刊",
+    "journal_abbreviation": "JoS",
+    "journal_alias": "软件学报",
+    "country": "中国",
+    "language": "中文",
+    "organizer": "中国计算机学会",
+    "publisher_place": "北京",
+    "publication_cycle": "月刊",
+    "chief_editor": "赵琛",
+    "founding_time": "1990",
+    "postal_code": "82-367",
+    "address": "北京市海淀区中关村东路4号",
+    "mobile": "010-62661841",
+    "jn_official": "http://www.jos.org.cn",
+    "format": "16开",
+    "zh_description": "软件工程与系统软件领域权威期刊",
+    "journal_db_str": "CSCD/CSSCI/EI",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 108,
+    "cite_nums": 38740,
+    "fund_nums": 756,
+    "paper_nums": 10200,
+    "download_nums": 1654000,
+    "award": "中国科技核心期刊",
+    "iscn": "11-2560/TP",
+    "publication_name": "软件学报",
+    "journal_name_en": "Journal of Software",
+    "partition": {
+      "source": "CSSCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.13328/j.cnki.jos.2022.cn002",
+    "paper_type": "期刊论文",
+    "reference_nums": 0,
+    "volume": "62",
+    "issue": "1",
+    "first_page": 35,
+    "last_page": 49,
+    "relevant": [
+      "pap_cn_007"
+    ],
+    "reference_content": "李娜等. 面向知识图谱的研究[J]. 自动化学报, 2016: 156-166.；刘洋等. 面向知识图谱的研究[J]. 软件学报, 2017: 119-136.；王磊等. 面向知识图谱的研究[J]. 人工智能, 2018: 176-191.；孙丽等. 面向知识图谱的研究[J]. 计算机学报, 2018: 9-24.；陈静等. 面向知识图谱的研究[J]. 自动化学报, 2016: 55-70.；李娜等. 面向知识图谱的研究[J]. 中国科学, 2021: 165-184.；李娜等. 面向知识图谱的研究[J]. 自动化学报, 2017: 64-77.",
+    "citation_content": "刘洋等. 面向知识图谱的研究[J]. 中国科学, 2020: 57-66.；刘洋等. 面向知识图谱的研究[J]. 中国科学, 2016: 194-200.；孙丽等. 面向知识图谱的研究[J]. 计算机学报, 2017: 161-171.；孙丽等. 面向知识图谱的研究[J]. 中国科学, 2016: 99-116.；刘洋等. 面向知识图谱的研究[J]. 中国科学, 2023: 65-70.",
+    "location": "31.2304,121.4737"
+  },
+  {
+    "paper_id": "pap_cn_003",
+    "doi": "10.1360/SSI-2023-cn003",
+    "keywords": [
+      "联邦学习",
+      "医疗数据",
+      "隐私保护"
+    ],
+    "impact_factor": 4.21,
+    "reference_ids": [
+      "pap_cn_9797",
+      "pap_cn_5371",
+      "pap_cn_6573",
+      "pap_cn_2827",
+      "pap_cn_5808",
+      "pap_cn_8123",
+      "pap_cn_3591",
+      "pap_cn_8433",
+      "pap_cn_1053",
+      "pap_cn_5315",
+      "pap_cn_9201"
+    ],
+    "zh_name": "联邦学习在医疗数据隐私保护中的应用综述",
+    "zh_abstract": "系统综述联邦学习在医疗影像、电子病历、基因数据等场景下的隐私保护应用，分析现有方案的优缺点并展望未来发展方向。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 54,
+    "content": "【正文占位】本文标题：《联邦学习在医疗数据隐私保护中的应用综述》\n\n摘要：系统综述联邦学习在医疗影像、电子病历、基因数据等场景下的隐私保护应用，分析现有方案的优缺点并展望未来发展方向。\n\n（论文全文将由文献数据库提供，此处为虚拟占位数据。）",
+    "scope_zone": "Q1",
+    "authors": [
+      {
+        "id": "sch_f6g7h8i9",
+        "role": "第一作者",
+        "personinfo": {
+          "fullName": "赵磊"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_g7h8i9j0",
+        "role": "通讯作者",
+        "personinfo": {
+          "fullName": "孙丽"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_zh": "中国科学：信息科学",
+    "citation_ids": [
+      "pap_cn_9317",
+      "pap_cn_2743",
+      "pap_cn_5889",
+      "pap_cn_9317"
+    ],
+    "publisher": "中国科学杂志社",
+    "publisher_id": "pub_scichina",
+    "publication_id": "pub_scis",
+    "publication_type": "学术期刊",
+    "issn": "1674-7267",
+    "eissn": "1869-1919",
+    "journal_type": "期刊",
+    "journal_abbreviation": "SCIS",
+    "journal_alias": "中国科学F辑",
+    "country": "中国",
+    "language": "中英文",
+    "organizer": "中国科学院",
+    "publisher_place": "北京",
+    "publication_cycle": "月刊",
+    "chief_editor": "郑志明",
+    "founding_time": "1950",
+    "postal_code": "2-7825",
+    "address": "北京市东黄城根北街16号",
+    "mobile": "010-64000246",
+    "jn_official": "https://www.sciengine.com/SCIS",
+    "format": "16开",
+    "zh_description": "中国科学院主办，信息科学领域国际权威期刊",
+    "journal_db_str": "SCI/CSCD/EI",
+    "open_access": false,
+    "scope": "信息科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 96,
+    "cite_nums": 22340,
+    "fund_nums": 480,
+    "paper_nums": 6800,
+    "download_nums": 987000,
+    "award": "SCI收录期刊",
+    "iscn": "11-5846/TP",
+    "publication_name": "中国科学：信息科学",
+    "journal_name_en": "SCIENCE CHINA Information Sciences",
+    "partition": {
+      "source": "SCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.1360/SSI-2023-cn003",
+    "paper_type": "期刊论文",
+    "reference_nums": 0,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 315,
+    "last_page": 328,
+    "relevant": [
+      "pap_cn_2160",
+      "pap_cn_9423",
+      "pap_cn_4899"
+    ],
+    "reference_content": "李娜等. 面向知识图谱的研究[J]. 自动化学报, 2017: 139-144.；刘洋等. 面向知识图谱的研究[J]. 自动化学报, 2022: 5-13.；王磊等. 面向知识图谱的研究[J]. 自动化学报, 2018: 15-27.；刘洋等. 面向知识图谱的研究[J]. 计算机学报, 2016: 188-208.；孙丽等. 面向知识图谱的研究[J]. 计算机学报, 2023: 197-206.；李娜等. 面向知识图谱的研究[J]. 中国科学, 2023: 43-56.",
+    "citation_content": "李娜等. 面向知识图谱的研究[J]. 人工智能, 2018: 183-197.；陈静等. 面向知识图谱的研究[J]. 自动化学报, 2022: 133-152.；张伟等. 面向知识图谱的研究[J]. 软件学报, 2018: 17-32.；张伟等. 面向知识图谱的研究[J]. 人工智能, 2023: 59-71.；张伟等. 面向知识图谱的研究[J]. 计算机学报, 2015: 59-66.",
+    "location": "39.9042,116.4074"
+  },
+  {
+    "paper_id": "pap_cn_004",
+    "doi": "10.16383/j.aas.cn004.2022",
+    "keywords": [
+      "时序异常检测",
+      "工业互联网",
+      "深度学习"
+    ],
+    "impact_factor": 3.24,
+    "reference_ids": [
+      "pap_cn_9834",
+      "pap_cn_3167",
+      "pap_cn_8744",
+      "pap_cn_4981",
+      "pap_cn_8749",
+      "pap_cn_7669",
+      "pap_cn_4119"
+    ],
+    "zh_name": "工业互联网中时序数据异常检测综述",
+    "zh_abstract": "对工业互联网场景下的时序异常检测方法进行系统综述，涵盖统计方法、机器学习和深度学习三类方法，并总结工业应用挑战与研究趋势。",
+    "cover_date_start": "2022-01",
+    "citation_nums": 78,
+    "content": "【正文占位】本文标题：《工业互联网中时序数据异常检测综述》\n\n摘要：对工业互联网场景下的时序异常检测方法进行系统综述，涵盖统计方法、机器学习和深度学习三类方法，并总结工业应用挑战与研究趋势。\n\n（论文全文将由文献数据库提供，此处为虚拟占位数据。）",
+    "scope_zone": "Q2",
+    "authors": [
+      {
+        "id": "sch_e5f6g7h8",
+        "role": "第一作者",
+        "personinfo": {
+          "fullName": "刘洋"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_o5p6q7r8",
+        "role": "通讯作者",
+        "personinfo": {
+          "fullName": "周建国"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_zh": "自动化学报",
+    "citation_ids": [
+      "pap_cn_2588",
+      "pap_cn_8062",
+      "pap_cn_6804"
+    ],
+    "publisher": "中国自动化学会",
+    "publisher_id": "pub_caa",
+    "publication_id": "pub_aas",
+    "publication_type": "学术期刊",
+    "issn": "0254-4156",
+    "eissn": "5562-8953",
+    "journal_type": "期刊",
+    "journal_abbreviation": "AAS",
+    "journal_alias": "自动化学报",
+    "country": "中国",
+    "language": "中文",
+    "organizer": "中国科学院自动化研究所",
+    "publisher_place": "北京",
+    "publication_cycle": "月刊",
+    "chief_editor": "侯增广",
+    "founding_time": "1963",
+    "postal_code": "2-180",
+    "address": "北京市海淀区中关村东路95号",
+    "mobile": "010-82544480",
+    "jn_official": "http://www.aas.net.cn",
+    "format": "16开",
+    "zh_description": "自动化与系统控制领域权威中文期刊",
+    "journal_db_str": "CSCD/CSSCI/EI",
+    "open_access": false,
+    "scope": "自动化与控制",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 132,
+    "cite_nums": 28900,
+    "fund_nums": 623,
+    "paper_nums": 8400,
+    "download_nums": 1120000,
+    "award": "中国科技核心期刊",
+    "iscn": "11-2109/TP",
+    "publication_name": "自动化学报",
+    "journal_name_en": "Acta Automatica Sinica",
+    "partition": {
+      "source": "EI",
+      "subject_level": "一级学科",
+      "partition": "Q2"
+    },
+    "paper_url": "https://doi.org/10.16383/j.aas.cn004.2022",
+    "paper_type": "期刊论文",
+    "reference_nums": 0,
+    "volume": "62",
+    "issue": "1",
+    "first_page": 180,
+    "last_page": 191,
+    "relevant": [
+      "pap_cn_1958",
+      "pap_cn_9883"
+    ],
+    "reference_content": "陈静等. 面向知识图谱的研究[J]. 中国科学, 2015: 173-181.；张伟等. 面向知识图谱的研究[J]. 中国科学, 2020: 28-40.；李娜等. 面向知识图谱的研究[J]. 软件学报, 2023: 115-124.；陈静等. 面向知识图谱的研究[J]. 软件学报, 2019: 119-131.；孙丽等. 面向知识图谱的研究[J]. 计算机学报, 2022: 141-149.；张伟等. 面向知识图谱的研究[J]. 人工智能, 2015: 24-36.；李娜等. 面向知识图谱的研究[J]. 中国科学, 2022: 124-135.；孙丽等. 面向知识图谱的研究[J]. 中国科学, 2015: 43-60.",
+    "citation_content": "陈静等. 面向知识图谱的研究[J]. 自动化学报, 2022: 74-92.；赵晓明等. 面向知识图谱的研究[J]. 人工智能, 2022: 40-51.",
+    "location": "30.2741,120.1551"
+  },
+  {
+    "paper_id": "pap_cn_005",
+    "doi": "10.7544/issn1000-1239.2023.cn005",
+    "keywords": [
+      "事件知识图谱",
+      "事件抽取",
+      "因果推理"
+    ],
+    "impact_factor": 3.52,
+    "reference_ids": [
+      "pap_cn_001",
+      "pap_cn_009"
+    ],
+    "zh_name": "中文事件知识图谱的构建与推理研究",
+    "zh_abstract": "提出面向中文的事件知识图谱自动构建框架，涵盖事件抽取、事件共指消解和因果关系挖掘三个核心子任务，并开放了事件知识图谱数据集。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 45,
+    "content": "【正文占位】本文标题：《中文事件知识图谱的构建与推理研究》\n\n摘要：提出面向中文的事件知识图谱自动构建框架，涵盖事件抽取、事件共指消解和因果关系挖掘三个核心子任务，并开放了事件知识图谱数据集。\n\n（论文全文将由文献数据库提供，此处为虚拟占位数据。）",
+    "scope_zone": "Q2",
+    "authors": [
+      {
+        "id": "sch_d4e5f6g7",
+        "role": "第一作者",
+        "personinfo": {
+          "fullName": "陈静"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_k1l2m3n4",
+        "role": "通讯作者",
+        "personinfo": {
+          "fullName": "郑华"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_zh": "计算机研究与发展",
+    "citation_ids": [
+      "pap_cn_011"
+    ],
+    "publisher": "中国科学院计算技术研究所",
+    "publisher_id": "pub_ict",
+    "publication_id": "pub_jcrd",
+    "publication_type": "学术期刊",
+    "issn": "1000-1239",
+    "eissn": "1998-6138",
+    "journal_type": "期刊",
+    "journal_abbreviation": "JCRD",
+    "journal_alias": "计研发",
+    "country": "中国",
+    "language": "中文",
+    "organizer": "中国科学院计算技术研究所",
+    "publisher_place": "北京",
+    "publication_cycle": "月刊",
+    "chief_editor": "孙凝晖",
+    "founding_time": "1958",
+    "postal_code": "2-654",
+    "address": "北京市海淀区中关村科学院南路6号",
+    "mobile": "010-62620696",
+    "jn_official": "http://crad.ict.ac.cn",
+    "format": "16开",
+    "zh_description": "计算机技术领域综合性学术期刊",
+    "journal_db_str": "CSCD/CSSCI/EI",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 120,
+    "cite_nums": 31200,
+    "fund_nums": 690,
+    "paper_nums": 9100,
+    "download_nums": 1380000,
+    "award": "中国科技核心期刊",
+    "iscn": "11-1777/TP",
+    "publication_name": "计算机研究与发展",
+    "journal_name_en": "Journal of Computer Research and Development",
+    "partition": {
+      "source": "CSSCI",
+      "subject_level": "一级学科",
+      "partition": "Q2"
+    },
+    "paper_url": "https://doi.org/10.7544/issn1000-1239.2023.cn005",
+    "paper_type": "期刊论文",
+    "reference_nums": 2,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 870,
+    "last_page": 888,
+    "relevant": [
+      "pap_cn_011"
+    ],
+    "reference_content": "张伟等. 面向知识图谱的研究[J]. 人工智能, 2022: 129-139.；张伟等. 面向知识图谱的研究[J]. 人工智能, 2016: 48-55.；刘洋等. 面向知识图谱的研究[J]. 计算机学报, 2018: 104-112.；刘洋等. 面向知识图谱的研究[J]. 软件学报, 2015: 159-166.；陈静等. 面向知识图谱的研究[J]. 人工智能, 2023: 81-94.",
+    "citation_content": "赵晓明等. 面向知识图谱的研究[J]. 自动化学报, 2018: 68-85.；李娜等. 面向知识图谱的研究[J]. 自动化学报, 2022: 81-88.；张伟等. 面向知识图谱的研究[J]. 中国科学, 2016: 19-30.",
+    "location": "29.5630,106.5516"
+  },
+  {
+    "paper_id": "pap_cn_006",
+    "doi": "10.3969/j.issn.0372-2112.2022.cn006",
+    "keywords": [
+      "推荐系统",
+      "兴趣漂移",
+      "用户建模"
+    ],
+    "impact_factor": 2.83,
+    "reference_ids": [
+      "pap_cn_2127",
+      "pap_cn_5002",
+      "pap_cn_7054",
+      "pap_cn_5669",
+      "pap_cn_3584",
+      "pap_cn_8179",
+      "pap_cn_9900",
+      "pap_cn_5956"
+    ],
+    "zh_name": "面向推荐系统的用户兴趣漂移建模",
+    "zh_abstract": "提出时间感知的双塔用户兴趣建模框架，利用门控机制区分用户长短期兴趣，在电商平台真实数据集上验证了方法有效性。",
+    "cover_date_start": "2022-01",
+    "citation_nums": 39,
+    "content": "【正文占位】本文标题：《面向推荐系统的用户兴趣漂移建模》\n\n摘要：提出时间感知的双塔用户兴趣建模框架，利用门控机制区分用户长短期兴趣，在电商平台真实数据集上验证了方法有效性。\n\n（论文全文将由文献数据库提供，此处为虚拟占位数据。）",
+    "scope_zone": "Q2",
+    "authors": [
+      {
+        "id": "sch_c3d4e5f6",
+        "role": "第一作者",
+        "personinfo": {
+          "fullName": "王芳"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_zju_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_j0k1l2m3",
+        "role": "通讯作者",
+        "personinfo": {
+          "fullName": "吴刚"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_zh": "电子学报",
+    "citation_ids": [
+      "pap_cn_9666",
+      "pap_cn_1128",
+      "pap_cn_5905",
+      "pap_cn_2697",
+      "pap_cn_3200",
+      "pap_cn_5333",
+      "pap_cn_2891"
+    ],
+    "publisher": "中国电子学会",
+    "publisher_id": "pub_cie",
+    "publication_id": "pub_aes",
+    "publication_type": "学术期刊",
+    "issn": "0372-2112",
+    "eissn": "5345-3170",
+    "journal_type": "期刊",
+    "journal_abbreviation": "AES",
+    "journal_alias": "电子学报",
+    "country": "中国",
+    "language": "中文",
+    "organizer": "中国电子学会",
+    "publisher_place": "北京",
+    "publication_cycle": "月刊",
+    "chief_editor": "陈建新",
+    "founding_time": "1962",
+    "postal_code": "2-891",
+    "address": "北京市海淀区万寿路乙3号",
+    "mobile": "010-68280115",
+    "jn_official": "http://www.ejournal.org.cn",
+    "format": "16开",
+    "zh_description": "电子信息领域综合性学术期刊",
+    "journal_db_str": "CSCD/CSSCI/EI",
+    "open_access": false,
+    "scope": "电子与信息",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q3",
+    "review": false,
+    "annual_publication": 144,
+    "cite_nums": 24100,
+    "fund_nums": 510,
+    "paper_nums": 7600,
+    "download_nums": 893000,
+    "award": "中国科技核心期刊",
+    "iscn": "11-2087/TN",
+    "publication_name": "电子学报",
+    "journal_name_en": "Acta Electronica Sinica",
+    "partition": {
+      "source": "EI",
+      "subject_level": "一级学科",
+      "partition": "Q2"
+    },
+    "paper_url": "https://doi.org/10.3969/j.issn.0372-2112.2022.cn006",
+    "paper_type": "期刊论文",
+    "reference_nums": 0,
+    "volume": "62",
+    "issue": "1",
+    "first_page": 115,
+    "last_page": 131,
+    "relevant": [
+      "pap_cn_3662",
+      "pap_cn_3900"
+    ],
+    "reference_content": "赵晓明等. 面向知识图谱的研究[J]. 人工智能, 2017: 70-84.；刘洋等. 面向知识图谱的研究[J]. 软件学报, 2020: 53-66.；刘洋等. 面向知识图谱的研究[J]. 中国科学, 2019: 14-21.；赵晓明等. 面向知识图谱的研究[J]. 中国科学, 2019: 12-17.；王磊等. 面向知识图谱的研究[J]. 软件学报, 2019: 42-61.",
+    "citation_content": "刘洋等. 面向知识图谱的研究[J]. 计算机学报, 2016: 20-29.；刘洋等. 面向知识图谱的研究[J]. 计算机学报, 2020: 150-159.；陈静等. 面向知识图谱的研究[J]. 软件学报, 2015: 79-95.；孙丽等. 面向知识图谱的研究[J]. 计算机学报, 2020: 54-66.；赵晓明等. 面向知识图谱的研究[J]. 计算机学报, 2020: 200-218.",
+    "location": "30.5728,104.0668"
+  },
+  {
+    "paper_id": "pap_cn_007",
+    "doi": "10.3969/j.issn.1003-0077.2023.cn007",
+    "keywords": [
+      "低资源翻译",
+      "多语言预训练",
+      "迁移学习"
+    ],
+    "impact_factor": 2.15,
+    "reference_ids": [
+      "pap_cn_002"
+    ],
+    "zh_name": "多语言神经机器翻译中的低资源问题研究",
+    "zh_abstract": "针对低资源语言对的神经机器翻译问题，提出基于多语言预训练模型的迁移学习方法，在20个低资源语言对上平均BLEU提升4.3。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 31,
+    "content": "【正文占位】本文标题：《多语言神经机器翻译中的低资源问题研究》\n\n摘要：针对低资源语言对的神经机器翻译问题，提出基于多语言预训练模型的迁移学习方法，在20个低资源语言对上平均BLEU提升4.3。\n\n（论文全文将由文献数据库提供，此处为虚拟占位数据。）",
+    "scope_zone": "Q3",
+    "authors": [
+      {
+        "id": "sch_l2m3n4o5",
+        "role": "第一作者",
+        "personinfo": {
+          "fullName": "林峰"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_b2c3d4e5",
+        "role": "通讯作者",
+        "personinfo": {
+          "fullName": "李娜"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_zh": "中文信息学报",
+    "citation_ids": [
+      "pap_cn_6442",
+      "pap_cn_7745",
+      "pap_cn_5065",
+      "pap_cn_5371"
+    ],
+    "publisher": "中国中文信息学会",
+    "publisher_id": "pub_cips",
+    "publication_id": "pub_jcip",
+    "publication_type": "学术期刊",
+    "issn": "1003-0077",
+    "eissn": "7755-1406",
+    "journal_type": "期刊",
+    "journal_abbreviation": "JCIP",
+    "journal_alias": "中文信息学报",
+    "country": "中国",
+    "language": "中文",
+    "organizer": "中国中文信息学会",
+    "publisher_place": "北京",
+    "publication_cycle": "双月刊",
+    "chief_editor": "孙茂松",
+    "founding_time": "1986",
+    "postal_code": "2-338",
+    "address": "北京市海淀区中关村路21号",
+    "mobile": "010-62617716",
+    "jn_official": "http://jcip.cipsc.org.cn",
+    "format": "16开",
+    "zh_description": "自然语言处理与中文信息处理领域专业期刊",
+    "journal_db_str": "CSCD/CSSCI",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q3",
+    "review": false,
+    "annual_publication": 72,
+    "cite_nums": 15600,
+    "fund_nums": 310,
+    "paper_nums": 4200,
+    "download_nums": 562000,
+    "award": "中国科技核心期刊",
+    "iscn": "11-2325/N",
+    "publication_name": "中文信息学报",
+    "journal_name_en": "Journal of Chinese Information Processing",
+    "partition": {
+      "source": "CSSCI",
+      "subject_level": "一级学科",
+      "partition": "Q3"
+    },
+    "paper_url": "https://doi.org/10.3969/j.issn.1003-0077.2023.cn007",
+    "paper_type": "期刊论文",
+    "reference_nums": 1,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 45,
+    "last_page": 55,
+    "relevant": [
+      "pap_cn_1727",
+      "pap_cn_8144",
+      "pap_cn_1027"
+    ],
+    "reference_content": "孙丽等. 面向知识图谱的研究[J]. 计算机学报, 2021: 10-30.；李娜等. 面向知识图谱的研究[J]. 软件学报, 2022: 90-104.；孙丽等. 面向知识图谱的研究[J]. 软件学报, 2018: 7-18.；陈静等. 面向知识图谱的研究[J]. 自动化学报, 2019: 18-31.；王磊等. 面向知识图谱的研究[J]. 人工智能, 2021: 174-189.；张伟等. 面向知识图谱的研究[J]. 计算机学报, 2019: 46-59.",
+    "citation_content": "张伟等. 面向知识图谱的研究[J]. 人工智能, 2021: 89-104.；陈静等. 面向知识图谱的研究[J]. 人工智能, 2023: 30-47.",
+    "location": "34.3416,108.9398"
+  },
+  {
+    "paper_id": "pap_cn_008",
+    "doi": "10.19650/j.cnki.cjsi.2023.cn008",
+    "keywords": [
+      "自动驾驶",
+      "感知系统",
+      "可靠性评估"
+    ],
+    "impact_factor": 3.09,
+    "reference_ids": [
+      "pap_cn_4228",
+      "pap_cn_6967",
+      "pap_cn_8066",
+      "pap_cn_2146",
+      "pap_cn_6409",
+      "pap_cn_6143",
+      "pap_cn_3041",
+      "pap_cn_5920",
+      "pap_cn_9308",
+      "pap_cn_6067",
+      "pap_cn_7691"
+    ],
+    "zh_name": "自动驾驶感知系统可靠性评估方法研究",
+    "zh_abstract": "建立面向自动驾驶感知系统的可靠性评估指标体系，提出基于蒙特卡洛仿真的系统级安全性分析框架，为自动驾驶测试验证提供方法支撑。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 27,
+    "content": "【正文占位】本文标题：《自动驾驶感知系统可靠性评估方法研究》\n\n摘要：建立面向自动驾驶感知系统的可靠性评估指标体系，提出基于蒙特卡洛仿真的系统级安全性分析框架，为自动驾驶测试验证提供方法支撑。\n\n（论文全文将由文献数据库提供，此处为虚拟占位数据。）",
+    "scope_zone": "Q2",
+    "authors": [
+      {
+        "id": "sch_m3n4o5p6",
+        "role": "第一作者",
+        "personinfo": {
+          "fullName": "黄敏"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_n4o5p6q7",
+        "role": "通讯作者",
+        "personinfo": {
+          "fullName": "徐超"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_zh": "仪器仪表学报",
+    "citation_ids": [
+      "pap_cn_7592",
+      "pap_cn_5844",
+      "pap_cn_3085",
+      "pap_cn_4143",
+      "pap_cn_7888"
+    ],
+    "publisher": "中国仪器仪表学会",
+    "publisher_id": "pub_cis",
+    "publication_id": "pub_cjsi",
+    "publication_type": "学术期刊",
+    "issn": "0254-3087",
+    "eissn": "9518-9821",
+    "journal_type": "期刊",
+    "journal_abbreviation": "CJSI",
+    "journal_alias": "仪器仪表学报",
+    "country": "中国",
+    "language": "中文",
+    "organizer": "中国仪器仪表学会",
+    "publisher_place": "北京",
+    "publication_cycle": "月刊",
+    "chief_editor": "李艳",
+    "founding_time": "1980",
+    "postal_code": "2-760",
+    "address": "北京市西城区三里河路45号",
+    "mobile": "010-68594897",
+    "jn_official": "http://yqyb.etmchina.com",
+    "format": "16开",
+    "zh_description": "仪器科学与测量控制领域权威期刊",
+    "journal_db_str": "CSCD/EI",
+    "open_access": false,
+    "scope": "仪器科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 120,
+    "cite_nums": 18700,
+    "fund_nums": 412,
+    "paper_nums": 5600,
+    "download_nums": 723000,
+    "award": "中国科技核心期刊",
+    "iscn": "11-2179/TH",
+    "publication_name": "仪器仪表学报",
+    "journal_name_en": "Chinese Journal of Scientific Instrument",
+    "partition": {
+      "source": "EI",
+      "subject_level": "一级学科",
+      "partition": "Q2"
+    },
+    "paper_url": "https://doi.org/10.19650/j.cnki.cjsi.2023.cn008",
+    "paper_type": "期刊论文",
+    "reference_nums": 0,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 120,
+    "last_page": 133,
+    "relevant": [
+      "pap_cn_9270",
+      "pap_cn_7991",
+      "pap_cn_9976",
+      "pap_cn_8305"
+    ],
+    "reference_content": "赵晓明等. 面向知识图谱的研究[J]. 软件学报, 2019: 104-109.；王磊等. 面向知识图谱的研究[J]. 自动化学报, 2018: 111-126.；陈静等. 面向知识图谱的研究[J]. 中国科学, 2022: 173-184.；刘洋等. 面向知识图谱的研究[J]. 中国科学, 2017: 169-176.；王磊等. 面向知识图谱的研究[J]. 人工智能, 2020: 24-36.；赵晓明等. 面向知识图谱的研究[J]. 自动化学报, 2018: 51-60.；张伟等. 面向知识图谱的研究[J]. 计算机学报, 2018: 122-129.；陈静等. 面向知识图谱的研究[J]. 中国科学, 2018: 184-201.",
+    "citation_content": "陈静等. 面向知识图谱的研究[J]. 软件学报, 2017: 168-173.；孙丽等. 面向知识图谱的研究[J]. 计算机学报, 2021: 57-67.；孙丽等. 面向知识图谱的研究[J]. 人工智能, 2022: 13-25.；孙丽等. 面向知识图谱的研究[J]. 计算机学报, 2022: 35-54.；赵晓明等. 面向知识图谱的研究[J]. 人工智能, 2023: 153-168.",
+    "location": "28.2278,112.9388"
+  },
+  {
+    "paper_id": "pap_cn_009",
+    "doi": "10.11897/SP.J.1016.2022.cn009",
+    "keywords": [
+      "知识图谱",
+      "视觉语义理解",
+      "图注意力网络"
+    ],
+    "impact_factor": 4.53,
+    "reference_ids": [
+      "pap_cn_001"
+    ],
+    "zh_name": "面向视觉场景的知识图谱增强语义理解方法",
+    "zh_abstract": "提出融合外部知识图谱的视觉场景语义理解框架，通过图注意力网络对视觉实体与知识概念进行对齐，在多个视觉问答基准上取得最优结果。",
+    "cover_date_start": "2022-01",
+    "citation_nums": 93,
+    "content": "【正文占位】本文标题：《面向视觉场景的知识图谱增强语义理解方法》\n\n摘要：提出融合外部知识图谱的视觉场景语义理解框架，通过图注意力网络对视觉实体与知识概念进行对齐，在多个视觉问答基准上取得最优结果。\n\n（论文全文将由文献数据库提供，此处为虚拟占位数据。）",
+    "scope_zone": "Q1",
+    "authors": [
+      {
+        "id": "sch_d4e5f6g7",
+        "role": "第一作者",
+        "personinfo": {
+          "fullName": "陈静"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_a1b2c3d4",
+        "role": "通讯作者",
+        "personinfo": {
+          "fullName": "张伟"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_pku_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_zh": "计算机学报",
+    "citation_ids": [
+      "pap_cn_005",
+      "pap_cn_011"
+    ],
+    "publisher": "中国计算机学会",
+    "publisher_id": "pub_ccf",
+    "publication_id": "pub_jcs",
+    "publication_type": "学术期刊",
+    "issn": "0254-4164",
+    "eissn": "3607-8777",
+    "journal_type": "期刊",
+    "journal_abbreviation": "JCS",
+    "journal_alias": "计算机学报",
+    "country": "中国",
+    "language": "中文",
+    "organizer": "中国计算机学会",
+    "publisher_place": "北京",
+    "publication_cycle": "月刊",
+    "chief_editor": "梅宏",
+    "founding_time": "1978",
+    "postal_code": "2-369",
+    "address": "北京市海淀区中关村科学院南路6号",
+    "mobile": "010-62661041",
+    "jn_official": "http://cjc.ict.ac.cn",
+    "format": "16开",
+    "zh_description": "计算机科学技术领域综合性学术期刊，中国计算机学会会刊",
+    "journal_db_str": "CSCD/CSSCI/EI",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 120,
+    "cite_nums": 45231,
+    "fund_nums": 892,
+    "paper_nums": 12480,
+    "download_nums": 1823400,
+    "award": "中国科技核心期刊",
+    "iscn": "11-1826/TP",
+    "publication_name": "计算机学报",
+    "journal_name_en": "Journal of Computers",
+    "partition": {
+      "source": "CSSCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.11897/SP.J.1016.2022.cn009",
+    "paper_type": "期刊论文",
+    "reference_nums": 1,
+    "volume": "62",
+    "issue": "1",
+    "first_page": 300,
+    "last_page": 318,
+    "relevant": [
+      "pap_cn_005",
+      "pap_cn_011"
+    ],
+    "reference_content": "王磊等. 面向知识图谱的研究[J]. 软件学报, 2019: 197-217.；赵晓明等. 面向知识图谱的研究[J]. 软件学报, 2019: 113-120.；赵晓明等. 面向知识图谱的研究[J]. 自动化学报, 2018: 70-85.；王磊等. 面向知识图谱的研究[J]. 人工智能, 2016: 36-45.；李娜等. 面向知识图谱的研究[J]. 中国科学, 2017: 181-192.；张伟等. 面向知识图谱的研究[J]. 中国科学, 2021: 85-104.；陈静等. 面向知识图谱的研究[J]. 计算机学报, 2018: 108-125.；孙丽等. 面向知识图谱的研究[J]. 人工智能, 2015: 196-213.",
+    "citation_content": "张伟等. 面向知识图谱的研究[J]. 自动化学报, 2019: 193-210.；孙丽等. 面向知识图谱的研究[J]. 中国科学, 2023: 192-204.；陈静等. 面向知识图谱的研究[J]. 软件学报, 2019: 112-132.；张伟等. 面向知识图谱的研究[J]. 中国科学, 2020: 172-189.；赵晓明等. 面向知识图谱的研究[J]. 软件学报, 2022: 33-38.",
+    "location": "23.1291,113.2644"
+  },
+  {
+    "paper_id": "pap_cn_010",
+    "doi": "10.13328/j.cnki.jos.2023.cn010",
+    "keywords": [
+      "差分隐私",
+      "联邦学习",
+      "中文文本分类"
+    ],
+    "impact_factor": 3.81,
+    "reference_ids": [
+      "pap_cn_8022",
+      "pap_cn_3223",
+      "pap_cn_8564",
+      "pap_cn_3977",
+      "pap_cn_1823",
+      "pap_cn_5262",
+      "pap_cn_7211",
+      "pap_cn_6363",
+      "pap_cn_4467",
+      "pap_cn_8449",
+      "pap_cn_6355"
+    ],
+    "zh_name": "基于差分隐私的中文文本联邦学习方法",
+    "zh_abstract": "针对中文文本数据分散存储场景，提出结合差分隐私与联邦学习的文本分类训练框架，在保障数据隐私的前提下实现与集中式训练相当的模型效果。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 58,
+    "content": "【正文占位】本文标题：《基于差分隐私的中文文本联邦学习方法》\n\n摘要：针对中文文本数据分散存储场景，提出结合差分隐私与联邦学习的文本分类训练框架，在保障数据隐私的前提下实现与集中式训练相当的模型效果。\n\n（论文全文将由文献数据库提供，此处为虚拟占位数据。）",
+    "scope_zone": "Q1",
+    "authors": [
+      {
+        "id": "sch_b2c3d4e5",
+        "role": "第一作者",
+        "personinfo": {
+          "fullName": "李娜"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_f6g7h8i9",
+        "role": "通讯作者",
+        "personinfo": {
+          "fullName": "赵磊"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_thu_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_zh": "软件学报",
+    "citation_ids": [
+      "pap_cn_012"
+    ],
+    "publisher": "中国科学院软件研究所",
+    "publisher_id": "pub_iscas",
+    "publication_id": "pub_jos",
+    "publication_type": "学术期刊",
+    "issn": "1000-9825",
+    "eissn": "1444-2375",
+    "journal_type": "期刊",
+    "journal_abbreviation": "JoS",
+    "journal_alias": "软件学报",
+    "country": "中国",
+    "language": "中文",
+    "organizer": "中国计算机学会",
+    "publisher_place": "北京",
+    "publication_cycle": "月刊",
+    "chief_editor": "赵琛",
+    "founding_time": "1990",
+    "postal_code": "82-367",
+    "address": "北京市海淀区中关村东路4号",
+    "mobile": "010-62661841",
+    "jn_official": "http://www.jos.org.cn",
+    "format": "16开",
+    "zh_description": "软件工程与系统软件领域权威期刊",
+    "journal_db_str": "CSCD/CSSCI/EI",
+    "open_access": false,
+    "scope": "计算机科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 108,
+    "cite_nums": 38740,
+    "fund_nums": 756,
+    "paper_nums": 10200,
+    "download_nums": 1654000,
+    "award": "中国科技核心期刊",
+    "iscn": "11-2560/TP",
+    "publication_name": "软件学报",
+    "journal_name_en": "Journal of Software",
+    "partition": {
+      "source": "CSSCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.13328/j.cnki.jos.2023.cn010",
+    "paper_type": "期刊论文",
+    "reference_nums": 0,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 775,
+    "last_page": 785,
+    "relevant": [
+      "pap_cn_012"
+    ],
+    "reference_content": "孙丽等. 面向知识图谱的研究[J]. 中国科学, 2019: 193-211.；王磊等. 面向知识图谱的研究[J]. 计算机学报, 2022: 5-11.；王磊等. 面向知识图谱的研究[J]. 软件学报, 2016: 200-206.；孙丽等. 面向知识图谱的研究[J]. 计算机学报, 2018: 52-57.；刘洋等. 面向知识图谱的研究[J]. 软件学报, 2018: 33-53.；赵晓明等. 面向知识图谱的研究[J]. 计算机学报, 2018: 120-133.；孙丽等. 面向知识图谱的研究[J]. 自动化学报, 2017: 156-164.",
+    "citation_content": "王磊等. 面向知识图谱的研究[J]. 计算机学报, 2015: 80-97.；陈静等. 面向知识图谱的研究[J]. 软件学报, 2016: 152-164.；张伟等. 面向知识图谱的研究[J]. 自动化学报, 2016: 145-151.",
+    "location": "32.0603,118.7969"
+  },
+  {
+    "paper_id": "pap_cn_011",
+    "doi": "10.11897/AI.2023.cn011",
+    "keywords": [
+      "知识图谱",
+      "强化学习",
+      "任务规划"
+    ],
+    "impact_factor": 3.01,
+    "reference_ids": [
+      "pap_cn_001",
+      "pap_cn_009",
+      "pap_cn_005"
+    ],
+    "zh_name": "知识图谱增强的强化学习任务规划综述",
+    "zh_abstract": "综述将知识图谱作为先验知识融入强化学习决策过程的研究进展，总结知识表示、图推理与策略优化的结合方式，分析当前挑战与未来方向。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 41,
+    "content": "【正文占位】本文标题：《知识图谱增强的强化学习任务规划综述》\n\n摘要：综述将知识图谱作为先验知识融入强化学习决策过程的研究进展，总结知识表示、图推理与策略优化的结合方式，分析当前挑战与未来方向。\n\n（论文全文将由文献数据库提供，此处为虚拟占位数据。）",
+    "scope_zone": "Q2",
+    "authors": [
+      {
+        "id": "sch_d4e5f6g7",
+        "role": "第一作者",
+        "personinfo": {
+          "fullName": "陈静"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_ustc_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_e5f6g7h8",
+        "role": "通讯作者",
+        "personinfo": {
+          "fullName": "刘洋"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_hit_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_zh": "人工智能学报",
+    "citation_ids": [
+      "pap_cn_7071",
+      "pap_cn_2129",
+      "pap_cn_9289",
+      "pap_cn_6590",
+      "pap_cn_1207",
+      "pap_cn_7882",
+      "pap_cn_9031",
+      "pap_cn_2729"
+    ],
+    "publisher": "中国人工智能学会",
+    "publisher_id": "pub_caai",
+    "publication_id": "pub_cjai",
+    "publication_type": "学术期刊",
+    "issn": "2096-5036",
+    "eissn": "9728-8018",
+    "journal_type": "期刊",
+    "journal_abbreviation": "CJAI",
+    "journal_alias": "人工智能学报",
+    "country": "中国",
+    "language": "中文",
+    "organizer": "中国人工智能学会",
+    "publisher_place": "北京",
+    "publication_cycle": "双月刊",
+    "chief_editor": "戴汝为",
+    "founding_time": "2018",
+    "postal_code": "80-965",
+    "address": "北京市海淀区中关村南大街6号",
+    "mobile": "010-82543615",
+    "jn_official": "http://caai-ait.cn",
+    "format": "16开",
+    "zh_description": "人工智能领域综合性学术期刊，CAAI会刊",
+    "journal_db_str": "CSCD",
+    "open_access": false,
+    "scope": "人工智能",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 48,
+    "cite_nums": 8900,
+    "fund_nums": 215,
+    "paper_nums": 2800,
+    "download_nums": 341000,
+    "award": "中国科技核心期刊",
+    "iscn": "10-1700/TP",
+    "publication_name": "人工智能学报",
+    "journal_name_en": "Chinese Journal of Artificial Intelligence",
+    "partition": {
+      "source": "CSCD",
+      "subject_level": "一级学科",
+      "partition": "Q2"
+    },
+    "paper_url": "https://doi.org/10.11897/AI.2023.cn011",
+    "paper_type": "期刊论文",
+    "reference_nums": 3,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 720,
+    "last_page": 733,
+    "relevant": [
+      "pap_cn_7046",
+      "pap_cn_8753",
+      "pap_cn_9698",
+      "pap_cn_6632"
+    ],
+    "reference_content": "王磊等. 面向知识图谱的研究[J]. 中国科学, 2017: 112-122.；赵晓明等. 面向知识图谱的研究[J]. 人工智能, 2019: 158-178.；陈静等. 面向知识图谱的研究[J]. 中国科学, 2019: 83-95.；孙丽等. 面向知识图谱的研究[J]. 计算机学报, 2019: 116-128.；孙丽等. 面向知识图谱的研究[J]. 中国科学, 2021: 87-92.；陈静等. 面向知识图谱的研究[J]. 自动化学报, 2017: 125-136.；王磊等. 面向知识图谱的研究[J]. 自动化学报, 2020: 72-85.；刘洋等. 面向知识图谱的研究[J]. 计算机学报, 2023: 49-56.",
+    "citation_content": "赵晓明等. 面向知识图谱的研究[J]. 中国科学, 2022: 143-155.；赵晓明等. 面向知识图谱的研究[J]. 中国科学, 2022: 115-120.；张伟等. 面向知识图谱的研究[J]. 自动化学报, 2018: 104-116.",
+    "location": "30.2741,120.1551"
+  },
+  {
+    "paper_id": "pap_cn_012",
+    "doi": "10.1360/SSI-2023-cn012",
+    "keywords": [
+      "图神经网络",
+      "联邦推荐",
+      "隐私计算"
+    ],
+    "impact_factor": 4.21,
+    "reference_ids": [
+      "pap_cn_010"
+    ],
+    "zh_name": "图神经网络与隐私计算融合的推荐系统研究",
+    "zh_abstract": "提出联邦图神经网络推荐框架，在本地图结构训练与全局参数聚合之间引入隐私放大机制，在电商和社交网络数据集上实现隐私保护与推荐精度的平衡。",
+    "cover_date_start": "2023-01",
+    "citation_nums": 66,
+    "content": "【正文占位】本文标题：《图神经网络与隐私计算融合的推荐系统研究》\n\n摘要：提出联邦图神经网络推荐框架，在本地图结构训练与全局参数聚合之间引入隐私放大机制，在电商和社交网络数据集上实现隐私保护与推荐精度的平衡。\n\n（论文全文将由文献数据库提供，此处为虚拟占位数据。）",
+    "scope_zone": "Q1",
+    "authors": [
+      {
+        "id": "sch_c3d4e5f6",
+        "role": "第一作者",
+        "personinfo": {
+          "fullName": "王芳"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_zju_cs"
+          }
+        ]
+      },
+      {
+        "id": "sch_f6g7h8i9",
+        "role": "通讯作者",
+        "personinfo": {
+          "fullName": "赵磊"
+        },
+        "organizationInfos": [
+          {
+            "id": "inst_zju_cs"
+          }
+        ]
+      }
+    ],
+    "journal_name_zh": "中国科学：信息科学",
+    "citation_ids": [
+      "pap_cn_6419",
+      "pap_cn_6764",
+      "pap_cn_8434",
+      "pap_cn_5438",
+      "pap_cn_6023",
+      "pap_cn_5118"
+    ],
+    "publisher": "中国科学杂志社",
+    "publisher_id": "pub_scichina",
+    "publication_id": "pub_scis",
+    "publication_type": "学术期刊",
+    "issn": "1674-7267",
+    "eissn": "1869-1919",
+    "journal_type": "期刊",
+    "journal_abbreviation": "SCIS",
+    "journal_alias": "中国科学F辑",
+    "country": "中国",
+    "language": "中英文",
+    "organizer": "中国科学院",
+    "publisher_place": "北京",
+    "publication_cycle": "月刊",
+    "chief_editor": "郑志明",
+    "founding_time": "1950",
+    "postal_code": "2-7825",
+    "address": "北京市东黄城根北街16号",
+    "mobile": "010-64000246",
+    "jn_official": "https://www.sciengine.com/SCIS",
+    "format": "16开",
+    "zh_description": "中国科学院主办，信息科学领域国际权威期刊",
+    "journal_db_str": "SCI/CSCD/EI",
+    "open_access": false,
+    "scope": "信息科学",
+    "warning_flag": false,
+    "top_flag": false,
+    "jcr_zone": "Q2",
+    "review": false,
+    "annual_publication": 96,
+    "cite_nums": 22340,
+    "fund_nums": 480,
+    "paper_nums": 6800,
+    "download_nums": 987000,
+    "award": "SCI收录期刊",
+    "iscn": "11-5846/TP",
+    "publication_name": "中国科学：信息科学",
+    "journal_name_en": "SCIENCE CHINA Information Sciences",
+    "partition": {
+      "source": "SCI",
+      "subject_level": "一级学科",
+      "partition": "Q1"
+    },
+    "paper_url": "https://doi.org/10.1360/SSI-2023-cn012",
+    "paper_type": "期刊论文",
+    "reference_nums": 1,
+    "volume": "63",
+    "issue": "1",
+    "first_page": 920,
+    "last_page": 938,
+    "relevant": [
+      "pap_cn_7818",
+      "pap_cn_4697",
+      "pap_cn_9561",
+      "pap_cn_7232"
+    ],
+    "reference_content": "张伟等. 面向知识图谱的研究[J]. 软件学报, 2020: 31-41.；李娜等. 面向知识图谱的研究[J]. 软件学报, 2022: 71-85.；张伟等. 面向知识图谱的研究[J]. 软件学报, 2019: 59-75.；李娜等. 面向知识图谱的研究[J]. 自动化学报, 2015: 182-191.；王磊等. 面向知识图谱的研究[J]. 计算机学报, 2015: 142-156.；赵晓明等. 面向知识图谱的研究[J]. 软件学报, 2022: 27-32.",
+    "citation_content": "陈静等. 面向知识图谱的研究[J]. 中国科学, 2022: 88-98.；张伟等. 面向知识图谱的研究[J]. 自动化学报, 2022: 30-37.；陈静等. 面向知识图谱的研究[J]. 中国科学, 2016: 148-154.；李娜等. 面向知识图谱的研究[J]. 软件学报, 2019: 22-34.",
+    "location": "31.2304,121.4737"
+  }
+]

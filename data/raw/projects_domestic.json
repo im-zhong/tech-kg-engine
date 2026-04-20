@@ -1,0 +1,940 @@
+[
+  {
+    "project_id": "proj_001",
+    "title": "面向大规模科技知识图谱的智能构建与推理关键技术",
+    "project_source": "国家重点研发计划",
+    "funded_institution": "科学技术部",
+    "funded_amount": 3200000,
+    "approval_time": "2021-10-01",
+    "project_host": "张伟",
+    "project_level": "国家级",
+    "project_domain": "知识图谱与语义技术",
+    "research_period": 36,
+    "keywords": [
+      "知识图谱",
+      "智能推理",
+      "科技信息"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_a1b2c3d4",
+        "name": "张伟",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_c3d4e5f6",
+        "name": "王芳",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级国家重点研发计划，依托北京大学，围绕知识图谱与语义技术领域开展研究，资助金额 3200000 CNY，项目周期 36 个月，旨在面向大规模科技知识图谱的智能构建与推理关键技术。",
+    "paper_ids": [
+      "pap_cn_001",
+      "pap_cn_009",
+      "pap_001",
+      "pap_002",
+      "pap_003",
+      "pap_004",
+      "pap_005",
+      "pap_cn_006"
+    ],
+    "patent_ids": [
+      "pat_001",
+      "pat_002",
+      "pat_003",
+      "pat_006",
+      "pat_007"
+    ]
+  },
+  {
+    "project_id": "proj_002",
+    "title": "开放域细粒度信息抽取与知识融合方法研究",
+    "project_source": "国家自然科学基金面上项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 580000,
+    "approval_time": "2022-01-01",
+    "project_host": "张伟",
+    "project_level": "国家级/国际级",
+    "project_domain": "知识图谱与语义技术",
+    "research_period": 48,
+    "keywords": [
+      "信息抽取",
+      "知识融合",
+      "开放域"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_a1b2c3d4",
+        "name": "张伟",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_d4e5f6g7",
+        "name": "陈静",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金面上项目，依托北京大学，围绕知识图谱与语义技术领域开展研究，资助金额 580000 CNY，项目周期 48 个月，旨在开放域细粒度信息抽取与知识融合方法研究。",
+    "paper_ids": [
+      "pap_cn_001",
+      "pap_cn_009",
+      "pap_001",
+      "pap_002",
+      "pap_003",
+      "pap_004",
+      "pap_005",
+      "pap_cn_002"
+    ],
+    "patent_ids": [
+      "pat_001",
+      "pat_002",
+      "pat_003",
+      "pat_008",
+      "pat_009"
+    ]
+  },
+  {
+    "project_id": "proj_003",
+    "title": "大规模预训练语言模型的隐私保护与联邦学习研究",
+    "project_source": "国家自然科学基金青年项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 300000,
+    "approval_time": "2023-01-01",
+    "project_host": "李娜",
+    "project_level": "国家级/国际级",
+    "project_domain": "隐私计算与数据安全",
+    "research_period": 36,
+    "keywords": [
+      "预训练模型",
+      "联邦学习",
+      "隐私保护"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_b2c3d4e5",
+        "name": "李娜",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_f6g7h8i9",
+        "name": "赵磊",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金青年项目，依托清华大学，围绕隐私计算与数据安全领域开展研究，资助金额 300000 CNY，项目周期 36 个月，旨在大规模预训练语言模型的隐私保护与联邦学习研究。",
+    "paper_ids": [
+      "pap_cn_002",
+      "pap_cn_007",
+      "pap_cn_010",
+      "pap_002",
+      "pap_006",
+      "pap_007",
+      "pap_008",
+      "pap_cn_003"
+    ],
+    "patent_ids": [
+      "pat_004",
+      "pat_005",
+      "pat_012",
+      "pat_013"
+    ]
+  },
+  {
+    "project_id": "proj_004",
+    "title": "面向中文语音的多模态大模型关键技术研究",
+    "project_source": "国家重点研发计划",
+    "funded_institution": "科学技术部",
+    "funded_amount": 2800000,
+    "approval_time": "2022-09-01",
+    "project_host": "李娜",
+    "project_level": "国家级",
+    "project_domain": "语音语言处理",
+    "research_period": 36,
+    "keywords": [
+      "语音识别",
+      "多模态大模型",
+      "中文处理"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_b2c3d4e5",
+        "name": "李娜",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_h8i9j0k1",
+        "name": "周建国",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级国家重点研发计划，依托清华大学，围绕语音语言处理领域开展研究，资助金额 2800000 CNY，项目周期 36 个月，旨在面向中文语音的多模态大模型关键技术研究。",
+    "paper_ids": [
+      "pap_cn_002",
+      "pap_cn_007",
+      "pap_cn_010",
+      "pap_002",
+      "pap_006",
+      "pap_007",
+      "pap_008",
+      "pap_021"
+    ],
+    "patent_ids": [
+      "pat_004",
+      "pat_005",
+      "pat_015",
+      "pat_016",
+      "pat_017"
+    ]
+  },
+  {
+    "project_id": "proj_005",
+    "title": "图神经网络在推荐系统中的可解释性研究",
+    "project_source": "国家自然科学基金青年项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 300000,
+    "approval_time": "2022-01-01",
+    "project_host": "王磊",
+    "project_level": "国家级/国际级",
+    "project_domain": "智能推荐系统",
+    "research_period": 36,
+    "keywords": [
+      "图神经网络",
+      "推荐系统",
+      "可解释性"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_c3d4e5f6",
+        "name": "王芳",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_i9j0k1l2",
+        "name": "吴昊",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金青年项目，依托浙江大学，围绕智能推荐系统领域开展研究，资助金额 300000 CNY，项目周期 36 个月，旨在图神经网络在推荐系统中的可解释性研究。",
+    "paper_ids": [
+      "pap_cn_006",
+      "pap_cn_012",
+      "pap_003",
+      "pap_009",
+      "pap_010",
+      "pap_011",
+      "pap_024",
+      "pap_025"
+    ],
+    "patent_ids": [
+      "pat_006",
+      "pat_007",
+      "pat_018"
+    ]
+  },
+  {
+    "project_id": "proj_006",
+    "title": "知识驱动的中文事件理解与推理方法研究",
+    "project_source": "国家自然科学基金面上项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 490000,
+    "approval_time": "2024-01-01",
+    "project_host": "陈静",
+    "project_level": "国家级/国际级",
+    "project_domain": "自然语言处理",
+    "research_period": 48,
+    "keywords": [
+      "事件理解",
+      "知识推理",
+      "自然语言处理"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_d4e5f6g7",
+        "name": "陈静",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_k1l2m3n4",
+        "name": "郑华",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金面上项目，依托中国科学技术大学，围绕自然语言处理领域开展研究，资助金额 490000 CNY，项目周期 48 个月，旨在知识驱动的中文事件理解与推理方法研究。",
+    "paper_ids": [
+      "pap_cn_001",
+      "pap_cn_002",
+      "pap_cn_005",
+      "pap_cn_009",
+      "pap_cn_011",
+      "pap_004",
+      "pap_012",
+      "pap_013"
+    ],
+    "patent_ids": [
+      "pat_002",
+      "pat_008",
+      "pat_009",
+      "pat_021"
+    ]
+  },
+  {
+    "project_id": "proj_007",
+    "title": "复杂动态环境下多智能体协同决策理论与方法",
+    "project_source": "国家重点研发计划",
+    "funded_institution": "科学技术部",
+    "funded_amount": 2500000,
+    "approval_time": "2022-12-01",
+    "project_host": "刘洋",
+    "project_level": "国家级",
+    "project_domain": "强化学习与控制",
+    "research_period": 36,
+    "keywords": [
+      "多智能体",
+      "协同决策",
+      "强化学习"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_e5f6g7h8",
+        "name": "刘洋",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_j0k1l2m3",
+        "name": "吴刚",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级国家重点研发计划，依托哈尔滨工业大学，围绕强化学习与控制领域开展研究，资助金额 2500000 CNY，项目周期 36 个月，旨在复杂动态环境下多智能体协同决策理论与方法。",
+    "paper_ids": [
+      "pap_cn_004",
+      "pap_cn_011",
+      "pap_005",
+      "pap_014",
+      "pap_015",
+      "pap_016",
+      "pap_cn_006",
+      "pap_010"
+    ],
+    "patent_ids": [
+      "pat_010",
+      "pat_011",
+      "pat_019",
+      "pat_020"
+    ]
+  },
+  {
+    "project_id": "proj_008",
+    "title": "工业智能感知与预测性维护关键技术及应用",
+    "project_source": "国家重点研发计划",
+    "funded_institution": "科学技术部",
+    "funded_amount": 4000000,
+    "approval_time": "2021-07-01",
+    "project_host": "刘洋",
+    "project_level": "国家级",
+    "project_domain": "自动驾驶与智能感知",
+    "research_period": 36,
+    "keywords": [
+      "工业AI",
+      "预测性维护",
+      "智能感知"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_e5f6g7h8",
+        "name": "刘洋",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_l2m3n4o5",
+        "name": "林峰",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级国家重点研发计划，依托哈尔滨工业大学，围绕自动驾驶与智能感知领域开展研究，资助金额 4000000 CNY，项目周期 36 个月，旨在工业智能感知与预测性维护关键技术及应用。",
+    "paper_ids": [
+      "pap_cn_004",
+      "pap_cn_011",
+      "pap_005",
+      "pap_014",
+      "pap_015",
+      "pap_016",
+      "pap_cn_007",
+      "pap_008"
+    ],
+    "patent_ids": [
+      "pat_010",
+      "pat_011",
+      "pat_004",
+      "pat_022"
+    ]
+  },
+  {
+    "project_id": "proj_009",
+    "title": "面向数据安全的分布式机器学习隐私计算框架",
+    "project_source": "国家自然科学基金面上项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 540000,
+    "approval_time": "2023-01-01",
+    "project_host": "赵晓明",
+    "project_level": "国家级/国际级",
+    "project_domain": "隐私计算与数据安全",
+    "research_period": 48,
+    "keywords": [
+      "隐私计算",
+      "联邦学习",
+      "安全多方计算"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_f6g7h8i9",
+        "name": "赵磊",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_m3n4o5p6",
+        "name": "黄敏",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金面上项目，依托清华大学，围绕隐私计算与数据安全领域开展研究，资助金额 540000 CNY，项目周期 48 个月，旨在面向数据安全的分布式机器学习隐私计算框架。",
+    "paper_ids": [
+      "pap_cn_003",
+      "pap_cn_010",
+      "pap_cn_012",
+      "pap_006",
+      "pap_017",
+      "pap_018",
+      "pap_cn_008",
+      "pap_011"
+    ],
+    "patent_ids": [
+      "pat_012",
+      "pat_013",
+      "pat_023",
+      "pat_024",
+      "pat_025"
+    ]
+  },
+  {
+    "project_id": "proj_m3_001",
+    "title": "面向知识驱动的多模态理解与推理技术研究",
+    "project_source": "国家重点研发计划",
+    "funded_institution": "科学技术部",
+    "funded_amount": 5000000,
+    "approval_time": "2022-09-01",
+    "project_host": "陈静",
+    "project_level": "国家级",
+    "project_domain": "知识图谱与语义技术",
+    "research_period": 36,
+    "keywords": [
+      "多模态理解",
+      "知识推理",
+      "视觉语义"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_d4e5f6g7",
+        "role": "项目负责人"
+      },
+      {
+        "scholar_id": "sch_a1b2c3d4",
+        "role": "课题负责人"
+      }
+    ],
+    "abstract": "本项目为国家级国家重点研发计划，依托北京大学，围绕知识图谱与语义技术领域开展研究，资助金额 5000000 CNY，项目周期 36 个月，旨在面向知识驱动的多模态理解与推理技术研究。",
+    "paper_ids": [
+      "pap_cn_001",
+      "pap_cn_002",
+      "pap_cn_005",
+      "pap_cn_009",
+      "pap_cn_011",
+      "pap_004",
+      "pap_012",
+      "pap_013"
+    ],
+    "patent_ids": [
+      "pat_002",
+      "pat_008",
+      "pat_009",
+      "pat_001",
+      "pat_003"
+    ]
+  },
+  {
+    "project_id": "proj_m3_002",
+    "title": "联邦学习环境下的自然语言隐私保护技术研究",
+    "project_source": "国家自然科学基金面上项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 520000,
+    "approval_time": "2023-01-01",
+    "project_host": "李娜",
+    "project_level": "国家级/国际级",
+    "project_domain": "隐私计算与数据安全",
+    "research_period": 48,
+    "keywords": [
+      "联邦学习",
+      "自然语言处理",
+      "隐私保护"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_b2c3d4e5",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_f6g7h8i9",
+        "role": "核心参与人"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金面上项目，依托清华大学，围绕隐私计算与数据安全领域开展研究，资助金额 520000 CNY，项目周期 48 个月，旨在联邦学习环境下的自然语言隐私保护技术研究。",
+    "paper_ids": [
+      "pap_cn_002",
+      "pap_cn_007",
+      "pap_cn_010",
+      "pap_002",
+      "pap_006",
+      "pap_007",
+      "pap_008",
+      "pap_cn_003"
+    ],
+    "patent_ids": [
+      "pat_004",
+      "pat_005",
+      "pat_012",
+      "pat_013"
+    ]
+  },
+  {
+    "project_id": "proj_m3_003",
+    "title": "隐私保护的联邦图学习关键技术与应用",
+    "project_source": "浙江省自然科学基金重点项目",
+    "funded_institution": "浙江省自然科学基金委员会",
+    "funded_amount": 300000,
+    "approval_time": "2023-03-01",
+    "project_host": "王磊",
+    "project_level": "省部级",
+    "project_domain": "隐私计算与数据安全",
+    "research_period": 24,
+    "keywords": [
+      "联邦学习",
+      "图神经网络",
+      "隐私计算"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_c3d4e5f6",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_f6g7h8i9",
+        "role": "核心成员"
+      }
+    ],
+    "abstract": "本项目为省部级浙江省自然科学基金重点项目，依托浙江大学，围绕隐私计算与数据安全领域开展研究，资助金额 300000 CNY，项目周期 24 个月，旨在隐私保护的联邦图学习关键技术与应用。",
+    "paper_ids": [
+      "pap_cn_006",
+      "pap_cn_012",
+      "pap_003",
+      "pap_009",
+      "pap_010",
+      "pap_011",
+      "pap_cn_003",
+      "pap_cn_010"
+    ],
+    "patent_ids": [
+      "pat_006",
+      "pat_007",
+      "pat_012",
+      "pat_013"
+    ]
+  },
+  {
+    "project_id": "proj_m3_004",
+    "title": "知识驱动的智能机器人自主决策技术研究",
+    "project_source": "国家自然科学基金面上项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 520000,
+    "approval_time": "2023-01-01",
+    "project_host": "陈静",
+    "project_level": "国家级/国际级",
+    "project_domain": "知识图谱与语义技术",
+    "research_period": 48,
+    "keywords": [
+      "知识图谱",
+      "强化学习",
+      "机器人决策"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_d4e5f6g7",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_e5f6g7h8",
+        "role": "核心参与人"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金面上项目，依托中国科学技术大学，围绕知识图谱与语义技术领域开展研究，资助金额 520000 CNY，项目周期 48 个月，旨在知识驱动的智能机器人自主决策技术研究。",
+    "paper_ids": [
+      "pap_cn_001",
+      "pap_cn_002",
+      "pap_cn_005",
+      "pap_cn_009",
+      "pap_cn_011",
+      "pap_004",
+      "pap_012",
+      "pap_013"
+    ],
+    "patent_ids": [
+      "pat_002",
+      "pat_008",
+      "pat_009",
+      "pat_010",
+      "pat_011"
+    ]
+  },
+  {
+    "project_id": "proj_010",
+    "title": "基于深度学习的医学影像辅助诊断系统研究",
+    "project_source": "国家自然科学基金青年项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 300000,
+    "approval_time": "2022-01-01",
+    "project_host": "孙丽",
+    "project_level": "国家级/国际级",
+    "project_domain": "医疗健康智能",
+    "research_period": 36,
+    "keywords": [
+      "医学影像",
+      "辅助诊断",
+      "深度学习"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_g7h8i9j0",
+        "name": "孙丽",
+        "role": "负责人"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金青年项目，依托北京大学，围绕医疗健康智能领域开展研究，资助金额 300000 CNY，项目周期 36 个月，旨在基于深度学习的医学影像辅助诊断系统研究。",
+    "paper_ids": [
+      "pap_cn_003",
+      "pap_001",
+      "pap_019",
+      "pap_020"
+    ],
+    "patent_ids": [
+      "pat_001",
+      "pat_014"
+    ]
+  },
+  {
+    "project_id": "proj_011",
+    "title": "面向声学场景理解的多模态感知与融合技术",
+    "project_source": "国家自然科学基金面上项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 560000,
+    "approval_time": "2021-01-01",
+    "project_host": "周建国",
+    "project_level": "国家级/国际级",
+    "project_domain": "自动驾驶与智能感知",
+    "research_period": 48,
+    "keywords": [
+      "声学场景理解",
+      "多模态感知",
+      "语音处理"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_h8i9j0k1",
+        "name": "周建国",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_n4o5p6q7",
+        "name": "徐超",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金面上项目，依托中国科学技术大学，围绕自动驾驶与智能感知领域开展研究，资助金额 560000 CNY，项目周期 48 个月，旨在面向声学场景理解的多模态感知与融合技术。",
+    "paper_ids": [
+      "pap_007",
+      "pap_021",
+      "pap_022",
+      "pap_023",
+      "pap_cn_008",
+      "pap_014",
+      "pap_035",
+      "pap_036"
+    ],
+    "patent_ids": [
+      "pat_015",
+      "pat_016",
+      "pat_017",
+      "pat_010",
+      "pat_026"
+    ]
+  },
+  {
+    "project_id": "proj_012",
+    "title": "时序异常检测在智能工厂中的规模化应用研究",
+    "project_source": "国家自然科学基金青年项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 300000,
+    "approval_time": "2024-01-01",
+    "project_host": "吴昊",
+    "project_level": "国家级/国际级",
+    "project_domain": "人工智能与机器学习",
+    "research_period": 36,
+    "keywords": [
+      "时序异常",
+      "智能制造",
+      "规模化部署"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_i9j0k1l2",
+        "name": "吴昊",
+        "role": "负责人"
+      },
+      {
+        "scholar_id": "sch_o5p6q7r8",
+        "name": "周建国",
+        "role": "参与者"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金青年项目，依托浙江大学，围绕人工智能与机器学习领域开展研究，资助金额 300000 CNY，项目周期 36 个月，旨在时序异常检测在智能工厂中的规模化应用研究。",
+    "paper_ids": [
+      "pap_009",
+      "pap_024",
+      "pap_025",
+      "pap_cn_004",
+      "pap_015",
+      "pap_016",
+      "pap_037",
+      "pap_038"
+    ],
+    "patent_ids": [
+      "pat_006",
+      "pat_018",
+      "pat_011",
+      "pat_027",
+      "pat_028"
+    ]
+  },
+  {
+    "project_id": "proj_013",
+    "title": "面向电商场景的用户行为序列建模与推荐研究",
+    "project_source": "国家自然科学基金面上项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 510000,
+    "approval_time": "2023-01-01",
+    "project_host": "郑燕",
+    "project_level": "国家级/国际级",
+    "project_domain": "智能推荐系统",
+    "research_period": 48,
+    "keywords": [
+      "用户行为",
+      "序列推荐",
+      "电商"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_j0k1l2m3",
+        "name": "吴刚",
+        "role": "负责人"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金面上项目，依托哈尔滨工业大学，围绕智能推荐系统领域开展研究，资助金额 510000 CNY，项目周期 48 个月，旨在面向电商场景的用户行为序列建模与推荐研究。",
+    "paper_ids": [
+      "pap_cn_006",
+      "pap_010",
+      "pap_026",
+      "pap_027"
+    ],
+    "patent_ids": [
+      "pat_019",
+      "pat_020"
+    ]
+  },
+  {
+    "project_id": "proj_014",
+    "title": "密集场景下轻量化实例分割技术研究",
+    "project_source": "国家自然科学基金青年项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 300000,
+    "approval_time": "2024-01-01",
+    "project_host": "林峰",
+    "project_level": "国家级/国际级",
+    "project_domain": "人工智能与机器学习",
+    "research_period": 36,
+    "keywords": [
+      "实例分割",
+      "轻量化",
+      "密集场景"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_k1l2m3n4",
+        "name": "郑华",
+        "role": "负责人"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金青年项目，依托北京大学，围绕人工智能与机器学习领域开展研究，资助金额 300000 CNY，项目周期 36 个月，旨在密集场景下轻量化实例分割技术研究。",
+    "paper_ids": [
+      "pap_cn_005",
+      "pap_013",
+      "pap_028",
+      "pap_029"
+    ],
+    "patent_ids": [
+      "pat_008",
+      "pat_021"
+    ]
+  },
+  {
+    "project_id": "proj_015",
+    "title": "低资源跨语言迁移学习理论与方法",
+    "project_source": "国家自然科学基金面上项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 570000,
+    "approval_time": "2022-01-01",
+    "project_host": "黄敏",
+    "project_level": "国家级/国际级",
+    "project_domain": "自然语言处理",
+    "research_period": 48,
+    "keywords": [
+      "低资源语言",
+      "跨语言迁移",
+      "机器翻译"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_l2m3n4o5",
+        "name": "林峰",
+        "role": "负责人"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金面上项目，依托中国科学技术大学，围绕自然语言处理领域开展研究，资助金额 570000 CNY，项目周期 48 个月，旨在低资源跨语言迁移学习理论与方法。",
+    "paper_ids": [
+      "pap_cn_007",
+      "pap_008",
+      "pap_030",
+      "pap_031"
+    ],
+    "patent_ids": [
+      "pat_004",
+      "pat_022"
+    ]
+  },
+  {
+    "project_id": "proj_016",
+    "title": "自动驾驶端到端感知规划一体化关键技术",
+    "project_source": "国家重点研发计划",
+    "funded_institution": "科学技术部",
+    "funded_amount": 3500000,
+    "approval_time": "2023-10-01",
+    "project_host": "徐强",
+    "project_level": "国家级",
+    "project_domain": "自动驾驶与智能感知",
+    "research_period": 36,
+    "keywords": [
+      "自动驾驶",
+      "端到端学习",
+      "感知规划"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_m3n4o5p6",
+        "name": "黄敏",
+        "role": "负责人"
+      }
+    ],
+    "abstract": "本项目为国家级国家重点研发计划，依托清华大学，围绕自动驾驶与智能感知领域开展研究，资助金额 3500000 CNY，项目周期 36 个月，旨在自动驾驶端到端感知规划一体化关键技术。",
+    "paper_ids": [
+      "pap_cn_008",
+      "pap_011",
+      "pap_032",
+      "pap_033",
+      "pap_034"
+    ],
+    "patent_ids": [
+      "pat_023",
+      "pat_024",
+      "pat_025"
+    ]
+  },
+  {
+    "project_id": "proj_017",
+    "title": "AI决策系统的因果可解释性理论与算法研究",
+    "project_source": "国家自然科学基金青年项目",
+    "funded_institution": "国家自然科学基金委员会",
+    "funded_amount": 300000,
+    "approval_time": "2025-01-01",
+    "project_host": "马红",
+    "project_level": "国家级/国际级",
+    "project_domain": "人工智能与机器学习",
+    "research_period": 36,
+    "keywords": [
+      "因果推断",
+      "可解释AI",
+      "公平算法"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_n4o5p6q7",
+        "name": "徐超",
+        "role": "负责人"
+      }
+    ],
+    "abstract": "本项目为国家级/国际级国家自然科学基金青年项目，依托中国科学技术大学，围绕人工智能与机器学习领域开展研究，资助金额 300000 CNY，项目周期 36 个月，旨在AI决策系统的因果可解释性理论与算法研究。",
+    "paper_ids": [
+      "pap_cn_008",
+      "pap_014",
+      "pap_035",
+      "pap_036"
+    ],
+    "patent_ids": [
+      "pat_010",
+      "pat_026"
+    ]
+  },
+  {
+    "project_id": "proj_018",
+    "title": "工业数字孪生与智能运维平台关键技术",
+    "project_source": "国家重点研发计划",
+    "funded_institution": "科学技术部",
+    "funded_amount": 3800000,
+    "approval_time": "2022-11-01",
+    "project_host": "谢天",
+    "project_level": "国家级",
+    "project_domain": "人工智能与机器学习",
+    "research_period": 36,
+    "keywords": [
+      "数字孪生",
+      "智能运维",
+      "工业互联网"
+    ],
+    "participants": [
+      {
+        "scholar_id": "sch_o5p6q7r8",
+        "name": "周建国",
+        "role": "负责人"
+      }
+    ],
+    "abstract": "本项目为国家级国家重点研发计划，依托哈尔滨工业大学，围绕人工智能与机器学习领域开展研究，资助金额 3800000 CNY，项目周期 36 个月，旨在工业数字孪生与智能运维平台关键技术。",
+    "paper_ids": [
+      "pap_cn_004",
+      "pap_015",
+      "pap_016",
+      "pap_037",
+      "pap_038"
+    ],
+    "patent_ids": [
+      "pat_011",
+      "pat_027",
+      "pat_028"
+    ]
+  }
+]

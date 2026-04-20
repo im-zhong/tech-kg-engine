@@ -1,0 +1,189 @@
+[
+  {
+    "id": "inst_pku_cs",
+    "name_cn": "北京大学",
+    "org_en": "Peking University",
+    "alias": [
+      "北大",
+      "PKU"
+    ],
+    "type": "高校",
+    "country_name": "中国",
+    "country_code": "CN",
+    "province": "海淀区",
+    "city": "北京",
+    "address": "北京市海淀区颐和园路5号",
+    "postal_code": "100871",
+    "phone": "+86-010-62751201",
+    "fax": "+86-010-62751801",
+    "email": "csinfo@pku.edu.cn",
+    "website": "https://www.cs.pku.edu.cn",
+    "external_id": "https://ror.org/04xna3y94",
+    "affiliates_name": [
+      {
+        "id": "inst_pku_cs_nlp",
+        "name": "自然语言处理研究组",
+        "local_name": "NLP Group",
+        "parent_id": "inst_pku_cs"
+      },
+      {
+        "id": "inst_pku_cs_cv",
+        "name": "计算机视觉研究组",
+        "local_name": "CV Group",
+        "parent_id": "inst_pku_cs"
+      },
+      {
+        "id": "inst_pku_ai_inst",
+        "name": "人工智能研究院",
+        "local_name": "Institute for Artificial Intelligence",
+        "parent_id": "inst_pku_cs"
+      }
+    ]
+  },
+  {
+    "id": "inst_thu_cs",
+    "name_cn": "清华大学",
+    "org_en": "Tsinghua University",
+    "alias": [
+      "清华",
+      "THU"
+    ],
+    "type": "高校",
+    "country_name": "中国",
+    "country_code": "CN",
+    "province": "海淀区",
+    "city": "北京",
+    "address": "北京市海淀区清华园1号",
+    "postal_code": "100084",
+    "phone": "+86-010-62783001",
+    "fax": "+86-010-62771138",
+    "email": "csadmin@tsinghua.edu.cn",
+    "website": "https://www.cs.tsinghua.edu.cn",
+    "external_id": "https://ror.org/03py4ys91",
+    "affiliates_name": [
+      {
+        "id": "inst_thu_kliss",
+        "name": "知识工程研究室",
+        "local_name": "Knowledge Engineering Group",
+        "parent_id": "inst_thu_cs"
+      },
+      {
+        "id": "inst_thu_ttic",
+        "name": "清华图灵人工智能研究院",
+        "local_name": "Tsinghua-Toyota Joint Research Institute for Intelligent AI",
+        "parent_id": "inst_thu_cs"
+      },
+      {
+        "id": "inst_thu_netlab",
+        "name": "网络科学与网络空间研究院",
+        "local_name": "Institute for Network Sciences and Cyberspace",
+        "parent_id": "inst_thu_cs"
+      }
+    ]
+  },
+  {
+    "id": "inst_zju_cs",
+    "name_cn": "浙江大学",
+    "org_en": "Zhejiang University",
+    "alias": [
+      "浙大",
+      "ZJU"
+    ],
+    "type": "高校",
+    "country_name": "中国",
+    "country_code": "CN",
+    "province": "西湖区",
+    "city": "杭州",
+    "address": "浙江省杭州市西湖区浙大路38号紫金港校区",
+    "postal_code": "310027",
+    "phone": "+86-0571-87951453",
+    "fax": "+86-0571-87952017",
+    "email": "csoffice@zju.edu.cn",
+    "website": "http://www.cs.zju.edu.cn",
+    "external_id": "https://ror.org/01pm9gn57",
+    "affiliates_name": [
+      {
+        "id": "inst_zju_cs_dcd",
+        "name": "数字媒体与网络技术研究所",
+        "local_name": "Institute of Digital Media and Network Tech",
+        "parent_id": "inst_zju_cs"
+      },
+      {
+        "id": "inst_zju_dbgroup",
+        "name": "数据库与知识工程研究所",
+        "local_name": "Database and Knowledge Engineering Group",
+        "parent_id": "inst_zju_cs"
+      }
+    ]
+  },
+  {
+    "id": "inst_ustc_cs",
+    "name_cn": "中国科学技术大学",
+    "org_en": "University of Science and Technology of China",
+    "alias": [
+      "中科大",
+      "USTC"
+    ],
+    "type": "高校",
+    "country_name": "中国",
+    "country_code": "CN",
+    "province": "蜀山区",
+    "city": "合肥",
+    "address": "安徽省合肥市蜀山区金寨路96号",
+    "postal_code": "230026",
+    "phone": "+86-0551-63603408",
+    "fax": "+86-0551-63601554",
+    "email": "csadmin@ustc.edu.cn",
+    "website": "http://cs.ustc.edu.cn",
+    "external_id": "https://ror.org/024q09507",
+    "affiliates_name": [
+      {
+        "id": "inst_ustc_nlp",
+        "name": "自然语言处理与信息检索研究室",
+        "local_name": "NLP & IR Lab",
+        "parent_id": "inst_ustc_cs"
+      },
+      {
+        "id": "inst_ustc_speech",
+        "name": "语音及语言信息处理国家工程研究中心",
+        "local_name": "National Engineering Research Center for Speech and Language Information Processing",
+        "parent_id": "inst_ustc_cs"
+      }
+    ]
+  },
+  {
+    "id": "inst_hit_cs",
+    "name_cn": "哈尔滨工业大学",
+    "org_en": "Harbin Institute of Technology",
+    "alias": [
+      "哈工大",
+      "HIT"
+    ],
+    "type": "高校",
+    "country_name": "中国",
+    "country_code": "CN",
+    "province": "南岗区",
+    "city": "哈尔滨",
+    "address": "黑龙江省哈尔滨市南岗区西大直街92号",
+    "postal_code": "150001",
+    "phone": "+86-0451-86413312",
+    "fax": "+86-0451-86412269",
+    "email": "cs@hit.edu.cn",
+    "website": "http://cs.hit.edu.cn",
+    "external_id": "https://ror.org/04w19y963",
+    "affiliates_name": [
+      {
+        "id": "inst_hit_insun",
+        "name": "信息检索研究室",
+        "local_name": "IR Lab (INSUN)",
+        "parent_id": "inst_hit_cs"
+      },
+      {
+        "id": "inst_hit_robot",
+        "name": "机器人技术与系统国家重点实验室",
+        "local_name": "State Key Lab of Robotics and System",
+        "parent_id": "inst_hit_cs"
+      }
+    ]
+  }
+]
