@@ -241,7 +241,23 @@ java -jar target/tech-kg-engine-1.0.0-SNAPSHOT.jar --spring.profiles.active=dev
 | Vue Flow | 1.48 | 流程图 |
 | Less | 4.6 | CSS 预处理器 |
 
-### 5.2 安装依赖
+### 5.2 安装 Node.js (nvm)
+
+如果尚未安装 Node.js，推荐使用 nvm 管理：
+
+```bash
+# 安装 nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash
+
+# 重新加载 shell 配置
+source ~/.bashrc   # 或 source ~/.zshrc
+
+# 安装并使用 Node.js 20
+nvm install 20
+nvm use 20
+```
+
+### 5.3 安装依赖
 
 ```bash
 cd frontend
@@ -254,7 +270,7 @@ pnpm install
 pnpm approve-builds esbuild
 ```
 
-### 5.3 启动开发服务器
+### 5.4 启动开发服务器
 
 ```bash
 cd frontend
@@ -263,7 +279,7 @@ pnpm dev
 
 默认访问: http://localhost:5173 (如果 5173 被占用会自动递增)
 
-### 5.4 构建生产包
+### 5.5 构建生产包
 
 ```bash
 cd frontend
@@ -272,7 +288,7 @@ pnpm build
 
 产物输出到 `frontend/dist/`。
 
-### 5.5 API 代理
+### 5.6 API 代理
 
 开发环境下，Vite 会自动将 `/api` 开头的请求代理到后端:
 
@@ -303,6 +319,7 @@ cd backend
 mvn spring-boot:run -Dspring-boot.run.profiles=dev
 
 # 5. 新终端 - 启动前端
+nvm use 20
 cd frontend
 pnpm approve-builds # 首次安装可能需要approve，取决于pnpm的版本，这是 pnpm 10/11 新增的安全机制
 pnpm install
