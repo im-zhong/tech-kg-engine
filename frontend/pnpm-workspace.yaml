@@ -1,3 +1,5 @@
+packages: []
+
 allowBuilds:
   '@vue-office/docx': true
   '@vue-office/pdf': true
