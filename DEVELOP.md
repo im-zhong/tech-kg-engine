@@ -181,7 +181,7 @@ cd backend
 mvn spring-boot:run -Dspring-boot.run.profiles=dev
 ```
 
-启动成功后输出: `---[TECH-KG-ENGINE]---启动完成，当前使用的端口:[9000]，环境变量:[dev]---`
+启动成功后输出: `---[TECH-KG-ENGINE]---启动完成，当前使用的端口:[8100]，环境变量:[dev]---`
 
 ### 4.4 构建 JAR
 
@@ -195,8 +195,9 @@ java -jar target/tech-kg-engine-1.0.0-SNAPSHOT.jar --spring.profiles.active=dev
 
 | 文件 | 用途 |
 |------|------|
-| `application.yml` | 主配置: 端口(9000)、应用名、MyBatis mapper 路径 |
-| `application-dev.yml` | 开发环境: 直连本地 Docker 服务，Nacos 已禁用 |
+| `application.yml` | 主配置: 应用名、MyBatis mapper 路径 |
+| `application-dev.yml` | 开发环境: 端口(8100)、数据库/Redis/Kafka/Milvus 连接，Nacos 已禁用 |
+| `application-prod.yml` | 生产环境: 通过环境变量注入配置，Nacos 启用 |
 | `application-prod.yml` | 生产环境: 通过环境变量注入配置，Nacos 启用 |
 
 开发环境默认使用 `dev` profile，所有连接地址指向 `localhost`。
@@ -215,11 +216,11 @@ java -jar target/tech-kg-engine-1.0.0-SNAPSHOT.jar --spring.profiles.active=dev
 
 | 方法 | 路径 | 说明 |
 |------|------|------|
-| GET | http://localhost:9000/health | 健康检查 (MySQL/Redis/Milvus/Kafka) |
-| GET | http://localhost:9000/business/hello | Hello World 接口 |
-| GET | http://localhost:9000/business/health | Business 模块健康检查 |
-| POST | http://localhost:9000/auth/login | 登录 (待实现) |
-| POST | http://localhost:9000/auth/logout | 登出 (待实现) |
+| GET | http://localhost:8100/health | 健康检查 (MySQL/Redis/Milvus/Kafka) |
+| GET | http://localhost:8100/business/hello | Hello World 接口 |
+| GET | http://localhost:8100/business/health | Business 模块健康检查 |
+| POST | http://localhost:8100/auth/login | 登录 (待实现) |
+| POST | http://localhost:8100/auth/logout | 登出 (待实现) |
 
 ---
 
@@ -276,10 +277,10 @@ pnpm build
 开发环境下，Vite 会自动将 `/api` 开头的请求代理到后端:
 
 ```
-/api/business/hello  →  http://localhost:9000/business/hello
+/api/business/hello  →  http://localhost:8100/business/hello
 ```
 
-配置在 `frontend/vite.config.ts` 的 `server.proxy` 中。如后端端口不是 9000，修改此处。
+配置在 `frontend/vite.config.ts` 的 `server.proxy` 中。如后端端口不是 8100，修改此处。
 
 ---
 
@@ -303,13 +304,14 @@ mvn spring-boot:run -Dspring-boot.run.profiles=dev
 
 # 5. 新终端 - 启动前端
 cd frontend
+pnpm approve-builds # 首次安装可能需要approve，取决于pnpm的版本，这是 pnpm 10/11 新增的安全机制
 pnpm install
 pnpm dev
 
 # 6. 访问
 # 前端页面: http://localhost:5173
-# 后端健康检查: http://localhost:9000/health
-# 后端 Hello 接口: http://localhost:9000/business/hello
+# 后端健康检查: http://localhost:8100/health
+# 后端 Hello 接口: http://localhost:8100/business/hello
 # MinIO 控制台: http://localhost:9001
 ```
 
@@ -441,3 +443,45 @@ type 可选值:
 - `feat/xxx` - 功能分支
 - `fix/xxx` - 修复分支
 - `scaffold` - 脚手架 (初始分支)
+
+---
+
+## 9. 端口配置
+
+项目涉及以下端口：
+
+| 端口 | 用途 | 配置位置 |
+|------|------|---------|
+| 8100 | Java 后端 | `application-dev.yml` → `server.port`，可通过 `SERVER_PORT` 环境变量覆盖 |
+| 81-- | Vite 代理目标 | `frontend/.env` → `VITE_API_TARGET` |
+| 5173 | 前端开发服务器 | Vite 自动递增，一般无需修改 |
+| 3306 | MySQL | `docker-compose.yml` → `tdsql-mysql.ports` |
+| 6379 | Redis | `docker-compose.yml` → `redis.ports` |
+| 9092 | Kafka | `docker-compose.yml` → `kafka.ports`，同时改 `KAFKA_ADVERTISED_LISTENERS` |
+| 9000 | MinIO API | `docker-compose.yml` → `minio.ports` (host 侧) |
+| 9001 | MinIO 控制台 | `docker-compose.yml` → `minio.ports` (host 侧) |
+| 19530 | Milvus | `docker-compose.yml` → `milvus.ports` |
+| 9091 | Milvus Metrics | `docker-compose.yml` → `milvus.ports` |
+
+### 修改后端端口
+
+**方式：环境变量 (推荐，不改动任何文件)**
+
+```bash
+SERVER_PORT=8100 mvn spring-boot:run -Dspring-boot.run.profiles=dev
+```
+
+### 修改前端调用后端的URL
+
+**方式：前端 .env 文件**
+
+```bash
+# 复制模板
+cp frontend/.env.example frontend/.env
+
+# 修改 VITE_API_TARGET 指向新的后端地址
+# frontend/.env 已被 gitignore，不会提交到仓库
+```
+
+
+
