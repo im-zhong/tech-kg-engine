@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: tech-kg-engine
+  main:
+    allow-bean-definition-overriding: true
+
+blade:
+  env: local
+
+mybatis-plus:
+  mapper-locations: classpath:mapper/**/*.xml
+
+logging:
+  level:
+    cn.techkg: DEBUG
