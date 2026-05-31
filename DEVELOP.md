@@ -406,6 +406,61 @@ pip install pymilvus
 python -c "from pymilvus import connections; connections.connect(host='localhost', port='19530'); print('OK')"
 ```
 
+### TRSGraph
+
+TRSGraph 当前部署在 211 服务器上，采用官方安装包解压方式部署，不通过 Docker Compose 启动。后端通过 TRSGraph Java Client 连接 Graph 服务端口 `9669`。
+
+相关资料位于：
+
+```text
+docs/
+```
+
+连接信息如下：
+
+| 配置项       | 值                            |
+| --------- | ---------------------------- |                 
+| 用户名       | `root`                       |
+| 密码        | `trsadmin`                   |              
+
+如果后端服务也部署在 211 服务器上，可以使用：
+
+```text
+host = 127.0.0.1
+port = 9669
+```
+
+如果后端服务部署在其他服务器或本地开发环境，需要使用：
+
+```text
+host =  TRSGraph Graph 服务所在服务器 IP
+port = 9669
+```
+
+TRSGraph 当前启动方式如下：
+
+```bash
+cd trsgraph安装目录
+./scripts/trsgraph.service start all
+./scripts/trsgraph.service status all
+```
+
+检查端口：
+
+```bash
+ss -lntp | egrep ':9559|:9669|:9779|:7001'
+```
+
+端口说明：
+
+| 端口     | 服务         | 说明                    |
+| ------ | ---------- | --------------------- |
+| `9559` | Meta 服务    | 元数据、Schema、集群管理       |
+| `9669` | Graph 服务   | Java Client / 后端连接该端口 |
+| `9779` | Storage 服务 | 点、边、属性数据存储            |
+| `7001` | Studio 服务  | TRSGraph 网页管理端        |
+
+
 ---
 
 ## 8. 开发规范
